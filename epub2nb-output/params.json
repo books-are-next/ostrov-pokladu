@@ -40,9 +40,9 @@
             "filename": "ostrov_pokladu_001.md",
             "xhtml": "ostrov_pokladu_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -52,9 +52,9 @@
             "filename": "ostrov_pokladu_002.md",
             "xhtml": "ostrov_pokladu_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -64,9 +64,9 @@
             "filename": "ostrov_pokladu_003.md",
             "xhtml": "ostrov_pokladu_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -76,9 +76,9 @@
             "filename": "ostrov_pokladu_004.md",
             "xhtml": "ostrov_pokladu_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -93,8 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "ostrov_pokladu_006.md",
@@ -105,8 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Váhavému kupci"
           },
           {
             "filename": "ostrov_pokladu_007.md",
@@ -118,7 +120,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Díl první\nStarý Bukanýr"
           },
           {
             "filename": "ostrov_pokladu_008.md",
@@ -130,7 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nI\nStarý mořský vlk – U Admirála Benbowa"
           },
           {
             "filename": "ostrov_pokladu_009.md",
@@ -142,7 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nII\nObjeví se Černý pes a zas zmizí"
           },
           {
             "filename": "ostrov_pokladu_010.md",
@@ -154,7 +159,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nIII\nČerná známka"
           },
           {
             "filename": "ostrov_pokladu_011.md",
@@ -166,7 +172,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nIV\nNámořní kufr"
           },
           {
             "filename": "ostrov_pokladu_012.md",
@@ -178,7 +185,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nV\nSlepcův konec"
           },
           {
             "filename": "ostrov_pokladu_013.md",
@@ -190,7 +198,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola VI\nKapitánovy listiny"
           },
           {
             "filename": "ostrov_pokladu_014.md",
@@ -202,7 +211,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Díl druhý\nLodní kuchař"
           },
           {
             "filename": "ostrov_pokladu_015.md",
@@ -214,7 +224,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nVII\nOdjíždím do Bristolu"
           },
           {
             "filename": "ostrov_pokladu_016.md",
@@ -226,7 +237,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nVIII\nU Dalekohledu"
           },
           {
             "filename": "ostrov_pokladu_017.md",
@@ -238,7 +250,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nIX\nPrach a zbraně"
           },
           {
             "filename": "ostrov_pokladu_018.md",
@@ -250,7 +263,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nX\nPlavba"
           },
           {
             "filename": "ostrov_pokladu_019.md",
@@ -262,7 +276,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXI\nCo jsem zaslechl v bečce s jablky"
           },
           {
             "filename": "ostrov_pokladu_020.md",
@@ -274,7 +289,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXII\nVálečná rada"
           },
           {
             "filename": "ostrov_pokladu_021.md",
@@ -286,7 +302,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Díl třetí\nMé dobrodružství na souši"
           },
           {
             "filename": "ostrov_pokladu_022.md",
@@ -298,7 +315,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXIII\nJak začalo mé dobrodružství na souši"
           },
           {
             "filename": "ostrov_pokladu_023.md",
@@ -310,7 +328,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXIV\nPrvní rána"
           },
           {
             "filename": "ostrov_pokladu_024.md",
@@ -322,7 +341,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXV\nOstrovan"
           },
           {
             "filename": "ostrov_pokladu_025.md",
@@ -334,7 +354,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Díl čtvrtý\nPalisáda"
           },
           {
             "filename": "ostrov_pokladu_026.md",
@@ -346,7 +367,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXVI\nDále vypravuje doktor: Jak odešli z lodi"
           },
           {
             "filename": "ostrov_pokladu_027.md",
@@ -358,7 +380,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXVII\nDále vypravuje doktor:\nJola na poslední cestě"
           },
           {
             "filename": "ostrov_pokladu_028.md",
@@ -370,7 +393,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXVIII\nDále vypravuje doktor:\nJak skončil první den boje"
           },
           {
             "filename": "ostrov_pokladu_029.md",
@@ -382,7 +406,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXIX\nVyprávění se znovu ujímá Jim Hawkins:\nPosádka v palisádě"
           },
           {
             "filename": "ostrov_pokladu_030.md",
@@ -394,7 +419,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXX\nSilverovo poselství"
           },
           {
             "filename": "ostrov_pokladu_031.md",
@@ -406,7 +432,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXI\nÚtok"
           },
           {
             "filename": "ostrov_pokladu_032.md",
@@ -418,7 +445,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Díl pátý\nMé dobrodružství na moři"
           },
           {
             "filename": "ostrov_pokladu_033.md",
@@ -430,7 +458,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXII\nJak začalo mé dobrodružství na moři"
           },
           {
             "filename": "ostrov_pokladu_034.md",
@@ -442,7 +471,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXIII\nOdliv stále trvá"
           },
           {
             "filename": "ostrov_pokladu_035.md",
@@ -454,7 +484,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXIV\nJak jsem křižoval v kocábce"
           },
           {
             "filename": "ostrov_pokladu_036.md",
@@ -466,7 +497,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXV\nStrhnu pirátskou vlajku"
           },
           {
             "filename": "ostrov_pokladu_037.md",
@@ -478,7 +510,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXVI\nIsrael Hands"
           },
           {
             "filename": "ostrov_pokladu_038.md",
@@ -490,7 +523,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXVII\n„Dukáty“"
           },
           {
             "filename": "ostrov_pokladu_039.md",
@@ -502,7 +536,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Díl šestý\nKapitán Silver"
           },
           {
             "filename": "ostrov_pokladu_040.md",
@@ -514,7 +549,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXVIII\nV nepřátelském táboře"
           },
           {
             "filename": "ostrov_pokladu_041.md",
@@ -526,7 +562,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXIX\nA zase černá známka"
           },
           {
             "filename": "ostrov_pokladu_042.md",
@@ -538,7 +575,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXX\nNa čestné slovo"
           },
           {
             "filename": "ostrov_pokladu_043.md",
@@ -550,7 +588,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXXI\nHledání pokladu – Flintova šipka"
           },
           {
             "filename": "ostrov_pokladu_044.md",
@@ -562,7 +601,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXXII\nHledání pokladu – hlas za stromy"
           },
           {
             "filename": "ostrov_pokladu_045.md",
@@ -574,7 +614,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXXIII\nNáčelníkův pád"
           },
           {
             "filename": "ostrov_pokladu_046.md",
@@ -586,7 +627,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola\nXXXIV\nA poslední"
           },
           {
             "filename": "ostrov_pokladu_047.md",
@@ -598,15 +640,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "ostrov_pokladu_048.md",
             "xhtml": "ostrov_pokladu_048.html",
             "id": 47,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -1010,6 +1053,6 @@
       "user": "books-are-next",
       "repo": "ostrov-pokladu"
     },
-    "generatedAt": 1649751139540
+    "generatedAt": 1649751801348
   }
 }

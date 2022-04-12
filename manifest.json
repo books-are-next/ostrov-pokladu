@@ -2,38 +2,18 @@
   "author": "Robert Louis Stevenson",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "stevenson-ostrov-pokladu-643d88b",
+  "identifier": "stevenson-ostrov-pokladu-5f259bc",
   "languagecode": "cs",
   "modified": "2018-01-31T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Ostrov pokladů",
-  "revision": "643d88b",
+  "revision": "5f259bc",
   "generatedAt": {
-    "date": "Tue Apr 12 2022 08:13:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649751192292
+    "date": "Tue Apr 12 2022 08:24:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649751859927
   },
   "documents": [
-    {
-      "title": "Ostrov pokladů",
-      "file": "ostrov_pokladu_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "ostrov_pokladu_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Ostrov pokladů",
       "file": "ostrov_pokladu_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "ostrov_pokladu_001.html",
-      "next": "ostrov_pokladu_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Ostrov pokladů",
-      "file": "ostrov_pokladu_003.html",
-      "words": 5,
-      "chars": 36,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "ostrov_pokladu_002.html",
-      "next": "ostrov_pokladu_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Ostrov pokladů",
-      "file": "ostrov_pokladu_004.html",
-      "words": 92,
-      "chars": 607,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "ostrov_pokladu_003.html",
+      "order": 0,
+      "prev": null,
       "next": "ostrov_pokladu_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 4,
-      "prev": "ostrov_pokladu_004.html",
+      "order": 1,
+      "prev": "ostrov_pokladu_002.html",
       "next": "ostrov_pokladu_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 402,
       "ideas": 17,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "ostrov_pokladu_005.html",
       "next": "ostrov_pokladu_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 22,
       "ideas": 2,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "ostrov_pokladu_006.html",
       "next": "ostrov_pokladu_008.html",
       "toc": [
@@ -161,7 +101,7 @@
       "chars": 9242,
       "ideas": 31,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "ostrov_pokladu_007.html",
       "next": "ostrov_pokladu_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 9303,
       "ideas": 52,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "ostrov_pokladu_008.html",
       "next": "ostrov_pokladu_010.html",
       "toc": [
@@ -201,7 +141,7 @@
       "chars": 8913,
       "ideas": 41,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "ostrov_pokladu_009.html",
       "next": "ostrov_pokladu_011.html",
       "toc": [
@@ -221,7 +161,7 @@
       "chars": 8742,
       "ideas": 31,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "ostrov_pokladu_010.html",
       "next": "ostrov_pokladu_012.html",
       "toc": [
@@ -241,7 +181,7 @@
       "chars": 7644,
       "ideas": 47,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "ostrov_pokladu_011.html",
       "next": "ostrov_pokladu_013.html",
       "toc": [
@@ -261,7 +201,7 @@
       "chars": 9078,
       "ideas": 55,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "ostrov_pokladu_012.html",
       "next": "ostrov_pokladu_014.html",
       "toc": [
@@ -281,7 +221,7 @@
       "chars": 20,
       "ideas": 3,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "ostrov_pokladu_013.html",
       "next": "ostrov_pokladu_015.html",
       "toc": [
@@ -301,7 +241,7 @@
       "chars": 8357,
       "ideas": 39,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "ostrov_pokladu_014.html",
       "next": "ostrov_pokladu_016.html",
       "toc": [
@@ -321,7 +261,7 @@
       "chars": 7351,
       "ideas": 49,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "ostrov_pokladu_015.html",
       "next": "ostrov_pokladu_017.html",
       "toc": [
@@ -341,7 +281,7 @@
       "chars": 7675,
       "ideas": 62,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "ostrov_pokladu_016.html",
       "next": "ostrov_pokladu_018.html",
       "toc": [
@@ -361,7 +301,7 @@
       "chars": 8022,
       "ideas": 37,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "ostrov_pokladu_017.html",
       "next": "ostrov_pokladu_019.html",
       "toc": [
@@ -381,7 +321,7 @@
       "chars": 9484,
       "ideas": 43,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "ostrov_pokladu_018.html",
       "next": "ostrov_pokladu_020.html",
       "toc": [
@@ -401,7 +341,7 @@
       "chars": 7981,
       "ideas": 47,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "ostrov_pokladu_019.html",
       "next": "ostrov_pokladu_021.html",
       "toc": [
@@ -421,7 +361,7 @@
       "chars": 33,
       "ideas": 3,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "ostrov_pokladu_020.html",
       "next": "ostrov_pokladu_022.html",
       "toc": [
@@ -441,7 +381,7 @@
       "chars": 7799,
       "ideas": 32,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "ostrov_pokladu_021.html",
       "next": "ostrov_pokladu_023.html",
       "toc": [
@@ -461,7 +401,7 @@
       "chars": 7787,
       "ideas": 34,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "ostrov_pokladu_022.html",
       "next": "ostrov_pokladu_024.html",
       "toc": [
@@ -481,7 +421,7 @@
       "chars": 9440,
       "ideas": 59,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "ostrov_pokladu_023.html",
       "next": "ostrov_pokladu_025.html",
       "toc": [
@@ -501,7 +441,7 @@
       "chars": 17,
       "ideas": 3,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "ostrov_pokladu_024.html",
       "next": "ostrov_pokladu_026.html",
       "toc": [
@@ -521,7 +461,7 @@
       "chars": 7145,
       "ideas": 39,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "ostrov_pokladu_025.html",
       "next": "ostrov_pokladu_027.html",
       "toc": [
@@ -541,7 +481,7 @@
       "chars": 6453,
       "ideas": 41,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "ostrov_pokladu_026.html",
       "next": "ostrov_pokladu_028.html",
       "toc": [
@@ -561,7 +501,7 @@
       "chars": 7018,
       "ideas": 48,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "ostrov_pokladu_027.html",
       "next": "ostrov_pokladu_029.html",
       "toc": [
@@ -581,7 +521,7 @@
       "chars": 8141,
       "ideas": 48,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "ostrov_pokladu_028.html",
       "next": "ostrov_pokladu_030.html",
       "toc": [
@@ -601,7 +541,7 @@
       "chars": 8300,
       "ideas": 53,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "ostrov_pokladu_029.html",
       "next": "ostrov_pokladu_031.html",
       "toc": [
@@ -621,7 +561,7 @@
       "chars": 8537,
       "ideas": 52,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "ostrov_pokladu_030.html",
       "next": "ostrov_pokladu_032.html",
       "toc": [
@@ -641,7 +581,7 @@
       "chars": 31,
       "ideas": 3,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "ostrov_pokladu_031.html",
       "next": "ostrov_pokladu_033.html",
       "toc": [
@@ -661,7 +601,7 @@
       "chars": 8459,
       "ideas": 35,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "ostrov_pokladu_032.html",
       "next": "ostrov_pokladu_034.html",
       "toc": [
@@ -681,7 +621,7 @@
       "chars": 6255,
       "ideas": 34,
       "role": "chapter",
-      "order": 33,
+      "order": 30,
       "prev": "ostrov_pokladu_033.html",
       "next": "ostrov_pokladu_035.html",
       "toc": [
@@ -701,7 +641,7 @@
       "chars": 8045,
       "ideas": 32,
       "role": "chapter",
-      "order": 34,
+      "order": 31,
       "prev": "ostrov_pokladu_034.html",
       "next": "ostrov_pokladu_036.html",
       "toc": [
@@ -721,7 +661,7 @@
       "chars": 7051,
       "ideas": 39,
       "role": "chapter",
-      "order": 35,
+      "order": 32,
       "prev": "ostrov_pokladu_035.html",
       "next": "ostrov_pokladu_037.html",
       "toc": [
@@ -741,7 +681,7 @@
       "chars": 11685,
       "ideas": 46,
       "role": "chapter",
-      "order": 36,
+      "order": 33,
       "prev": "ostrov_pokladu_036.html",
       "next": "ostrov_pokladu_038.html",
       "toc": [
@@ -761,7 +701,7 @@
       "chars": 8439,
       "ideas": 38,
       "role": "chapter",
-      "order": 37,
+      "order": 34,
       "prev": "ostrov_pokladu_037.html",
       "next": "ostrov_pokladu_039.html",
       "toc": [
@@ -781,7 +721,7 @@
       "chars": 22,
       "ideas": 3,
       "role": "chapter",
-      "order": 38,
+      "order": 35,
       "prev": "ostrov_pokladu_038.html",
       "next": "ostrov_pokladu_040.html",
       "toc": [
@@ -801,7 +741,7 @@
       "chars": 11593,
       "ideas": 59,
       "role": "chapter",
-      "order": 39,
+      "order": 36,
       "prev": "ostrov_pokladu_039.html",
       "next": "ostrov_pokladu_041.html",
       "toc": [
@@ -821,7 +761,7 @@
       "chars": 9017,
       "ideas": 45,
       "role": "chapter",
-      "order": 40,
+      "order": 37,
       "prev": "ostrov_pokladu_040.html",
       "next": "ostrov_pokladu_042.html",
       "toc": [
@@ -841,7 +781,7 @@
       "chars": 9679,
       "ideas": 57,
       "role": "chapter",
-      "order": 41,
+      "order": 38,
       "prev": "ostrov_pokladu_041.html",
       "next": "ostrov_pokladu_043.html",
       "toc": [
@@ -861,7 +801,7 @@
       "chars": 9487,
       "ideas": 42,
       "role": "chapter",
-      "order": 42,
+      "order": 39,
       "prev": "ostrov_pokladu_042.html",
       "next": "ostrov_pokladu_044.html",
       "toc": [
@@ -881,7 +821,7 @@
       "chars": 8208,
       "ideas": 52,
       "role": "chapter",
-      "order": 43,
+      "order": 40,
       "prev": "ostrov_pokladu_043.html",
       "next": "ostrov_pokladu_045.html",
       "toc": [
@@ -901,7 +841,7 @@
       "chars": 8505,
       "ideas": 47,
       "role": "chapter",
-      "order": 44,
+      "order": 41,
       "prev": "ostrov_pokladu_044.html",
       "next": "ostrov_pokladu_046.html",
       "toc": [
@@ -921,7 +861,7 @@
       "chars": 7883,
       "ideas": 32,
       "role": "chapter",
-      "order": 45,
+      "order": 42,
       "prev": "ostrov_pokladu_045.html",
       "next": "ostrov_pokladu_047.html",
       "toc": [
@@ -941,9 +881,9 @@
       "chars": 1418,
       "ideas": 22,
       "role": "chapter",
-      "order": 46,
+      "order": 43,
       "prev": "ostrov_pokladu_046.html",
-      "next": "ostrov_pokladu_048.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -955,20 +895,20 @@
       ]
     },
     {
-      "title": "Ostrov pokladů",
-      "file": "ostrov_pokladu_048.html",
-      "words": 51,
-      "chars": 333,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 47,
+      "title": "Tiráž • Ostrov pokladů",
+      "file": "colophon.html",
+      "words": 149,
+      "chars": 981,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
       "prev": "ostrov_pokladu_047.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -982,9 +922,9 @@
       "ideas": 1581
     },
     "chapters": {
-      "words": 49893,
-      "chars": 289659,
-      "ideas": 1576
+      "words": 49745,
+      "chars": 288683,
+      "ideas": 1554
     }
   }
 }
