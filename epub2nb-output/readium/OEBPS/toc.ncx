@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="92b11226-d785-4512-bda6-836d747b4366"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Ostrov pokladů</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>DÍL PRVNÍ: STARÝ BUKANÝR</text>
+      </navLabel>
+      <content src="Text/ostrov_pokladu_007.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>KAPITOLA I Starý mořský vlk – U Admirála Benbowa</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>KAPITOLA II Objeví se Černý pes a zas zmizí</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>KAPITOLA III Černá známka</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>KAPITOLA IV Námořní kufr</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>KAPITOLA V Slepcův konec</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>KAPITOLA VI Kapitánovy listiny</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_013.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>DÍL DRUHÝ: LODNÍ KUCHAŘ</text>
+      </navLabel>
+      <content src="Text/ostrov_pokladu_014.html"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>KAPITOLA VII Odjíždím do Bristolu</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>KAPITOLA VIII U Dalekohledu</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>KAPITOLA IX Prach a zbraně</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>KAPITOLA X Plavba</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>KAPITOLA XI Co jsem zaslechl v bečce s jablky</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>KAPITOLA XII Válečná rada</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_020.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>DÍL TŘETÍ: MÉ DOBRODRUŽSTVÍ NA SOUŠI</text>
+      </navLabel>
+      <content src="Text/ostrov_pokladu_021.html"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>KAPITOLA XIII Jak začalo mé dobrodružství na souši</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>KAPITOLA XIV První rána</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>KAPITOLA XV Ostrovan</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_024.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>DÍL ČTVRTÝ: PALISÁDA</text>
+      </navLabel>
+      <content src="Text/ostrov_pokladu_025.html"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>KAPITOLA XVI Dále vypravuje doktor: Jak odešli z lodi</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>KAPITOLA XVII Dále vypravuje doktor: Jola na poslední cestě</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_027.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>KAPITOLA XVIII Dále vypravuje doktor: Jak skončil první den boje</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>KAPITOLA XIX Vyprávění se znovu ujímá Jim Hawkins: Posádka v palisádě</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>KAPITOLA XX Silverovo poselství</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>KAPITOLA XXI Útok</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_031.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>DÍL PÁTÝ: MÉ DOBRODRUŽSTVÍ NA MOŘI</text>
+      </navLabel>
+      <content src="Text/ostrov_pokladu_032.html"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>KAPITOLA XXII Jak začalo mé dobrodružství na moři</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>KAPITOLA XXIII Odliv stále trvá</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_034.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>KAPITOLA XXIV Jak jsem křižoval v kocábce</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_035.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>KAPITOLA XXV Strhnu pirátskou vlajku</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_036.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>KAPITOLA XXVI Israel Hands</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_037.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>KAPITOLA XXVII „Dukáty“</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_038.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>DÍL ŠESTÝ: KAPITÁN SILVER</text>
+      </navLabel>
+      <content src="Text/ostrov_pokladu_039.html"/>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>KAPITOLA XXVIII V nepřátelském táboře</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_040.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>KAPITOLA XXIX A zase černá známka</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_041.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>KAPITOLA XXX Na čestné slovo</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_042.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>KAPITOLA XXXI Hledání pokladu – Flintova šipka</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_043.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>KAPITOLA XXXII Hledání pokladu – hlas za stromy</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_044.html"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>KAPITOLA XXXIII Náčelníkův pád</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_045.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>KAPITOLA XXXIV A poslední</text>
+        </navLabel>
+        <content src="Text/ostrov_pokladu_046.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/ostrov_pokladu_047.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
