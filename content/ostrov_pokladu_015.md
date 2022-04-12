@@ -1,21 +1,22 @@
 ---
+title: |-
+  KAPITOLA
+  VII
+  Odjíždím do Bristolu
 contentType: prose
 ---
-
-## KAPITOLA VII  
-Odjíždím do Bristolu
 
 Na moře jsme se vypravovali déle, než si zeman myslel, a z toho, co jsme původně zamýšleli, se nám nic nesplnilo, ani to, že zůstanu s doktorem Liveseym pohromadě. Doktor musel zajet do Londýna pro náhradníka; zeman se činil v Bristolu a já jsem žil na zámku pod ochranou hajného, starého Redrutha, skoro jako vězeň, ale hlavu plnou mořských fantazií a vábných vidin podivných ostrovů a dobrodružství. Dlouhé hodiny jsem hloubal nad mapou, pamatoval jsem si ji do všech podrobností. Usazen u klíčníkova krbu jsem v duchu vnikal na ostrov ze všech stran; jitro po jitru jsem probádával jeho půdu; tisíckrát jsem vylezl na strmý kopec zvaný Dalekohled a z vrcholu se kochal nádhernou a proměnlivou vyhlídkou. Někdy se ostrov hemžil divochy a my jsme s nimi bojovali; jindy zas nebezpečnými šelmami a ty proháněly nás; ale žádná ta vidina se nevyrovnala podivným a truchlivým dobrodružstvím, jaká nás čekala.
 
 Plynuly týdny, a tu jednoho krásného dne doručili doktoru Liveseymu dopis s poznámkou: „Není-li přítomen, ať dopis otevře Tom Redruth nebo mladý Hawkins.“ Zařídili jsme se podle příkazu a dověděli se, nebo spíše já sám jsem se dověděl – hajnému totiž čtení moc nešlo, když to nebylo tištěné písmo – tuto důležitou zprávu:
 
-Hostinec U Staré kotvy, Bristol 1. března 17–.
+_Hostinec U Staré kotvy, Bristol 1. března 17–._
 
-Milý Livesey, nevím, jestli jste na zámku nebo stále ještě v Londýně, píšu tedy dvojmo tam i tam.
+_Milý Livesey, nevím, jestli jste na zámku nebo stále ještě v Londýně, píšu tedy dvojmo tam i tam._
 
-Loď jsem koupil a vystrojil. Leží na kotvách, jen vyplout na moře. Ani si nedokážete představit, jaký je to roztomilý škuner – dítě by ho mohlo řídit – dvě stě tun; jméno: Hispaniola.
+_Loď jsem koupil a vystrojil. Leží na kotvách, jen vyplout na moře. Ani si nedokážete představit, jaký je to roztomilý škuner – dítě by ho mohlo řídit – dvě stě tun; jméno: Hispaniola._
 
-Dohodil mi ho můj starý známý, Blandly, člověk ve všem všudy k nezaplacení. Ten znamenitý chlapík se div nepřetrhl a s ním, řekl bych, celý Bristol, jakmile vešlo ve známost, do kterého přístavu plujeme – totiž za pokladem.
+_Dohodil mi ho můj starý známý, Blandly, člověk ve všem všudy k nezaplacení. Ten znamenitý chlapík se div nepřetrhl a s ním, řekl bych, celý Bristol, jakmile vešlo ve známost, do kterého přístavu plujeme – totiž za pokladem._
 
 Přerušil jsem čtení dopisu a řekl: „Doktoru Liveseymu se to, Redruthe, líbit nebude. Zeman se přece jen prořekl.“
 
@@ -23,33 +24,33 @@ Přerušil jsem čtení dopisu a řekl: „Doktoru Liveseymu se to, Redruthe, l�
 
 Zanechal jsem dalších poznámek a četl dále:
 
-Na Hispaniolu kápl Blandly, a šel na to tak šikovně, že ji dostal za babku. Určití lidé v Bristolu jsou proti Blandlymu náramně zaujatí. Neostýchají se tvrdit, že tomu poctivci jde jen a jen o peníze, Hispaniola že byla jeho a on mě vzal na hůl – vyložená pomluva. Ale že je škuner znamenitý, to si nikdo netroufne popírat.
+_Na Hispaniolu kápl Blandly, a šel na to tak šikovně, že ji dostal za babku. Určití lidé v Bristolu jsou proti Blandlymu náramně zaujatí. Neostýchají se tvrdit, že tomu poctivci jde jen a jen o peníze, Hispaniola že byla jeho a on mě vzal na hůl – vyložená pomluva. Ale že je škuner znamenitý, to si nikdo netroufne popírat._
 
-Zatím šlo všechno hladce. Řemeslníci – ráhnaři a jiní – si ovšem s prací hráli, bylo to k zlosti, ale časem se to spravilo. Starosti mi dělalo mužstvo.
+_Zatím šlo všechno hladce. Řemeslníci – ráhnaři a jiní – si ovšem s prací hráli, bylo to k zlosti, ale časem se to spravilo. Starosti mi dělalo mužstvo._
 
-Chtěl jsem jich nějakých dvacet – kdyby snad došlo ke srážce s domorodci, s bukanýry nebo s těmi hnusnými Francouzi. Setsakramentsky jsem se nadřel, ale víc jsem jich nesehnal než půl tuctu, ale pak jsem šťastně kápl na pravého člověka.
+_Chtěl jsem jich nějakých dvacet – kdyby snad došlo ke srážce s domorodci, s bukanýry nebo s těmi hnusnými Francouzi. Setsakramentsky jsem se nadřel, ale víc jsem jich nesehnal než půl tuctu, ale pak jsem šťastně kápl na pravého člověka._
 
-Stál jsem v loděnici a čirou náhodou jsem se s ním dal do řeči. Jak jsem se dověděl, býval námořníkem, teď má hostinec, v Bristolu zná kdejakého matróza, na souši mu zdraví neslouží, touží po nějakém dobrém místě jako lodní kuchař, aby se dostal zase na moře. Dobelhal prý se tam ten den jen proto, aby se nadýchal slané vody.
+_Stál jsem v loděnici a čirou náhodou jsem se s ním dal do řeči. Jak jsem se dověděl, býval námořníkem, teď má hostinec, v Bristolu zná kdejakého matróza, na souši mu zdraví neslouží, touží po nějakém dobrém místě jako lodní kuchař, aby se dostal zase na moře. Dobelhal prý se tam ten den jen proto, aby se nadýchal slané vody._
 
-Náramně mě to dojalo – však vás by to dojalo taky – a ze soucitu jsem ho rovnou přijal za kuchaře. Říká si Dlouhý John Silver, chybí mu jedna noha; pro mě je to však spíš doporučení, on totiž o ni přišel při obraně vlasti, jeho velitelem byl nesmrtelný Hawke. A penzi, Livesey, žádnou nemá. Považte, v jaké hnusné době to žijeme!
+_Náramně mě to dojalo – však vás by to dojalo taky – a ze soucitu jsem ho rovnou přijal za kuchaře. Říká si Dlouhý John Silver, chybí mu jedna noha; pro mě je to však spíš doporučení, on totiž o ni přišel při obraně vlasti, jeho velitelem byl nesmrtelný Hawke. A penzi, Livesey, žádnou nemá. Považte, v jaké hnusné době to žijeme!_
 
-Myslel jsem, že jsem získal kuchaře, a zatím jsem objevil celé mužstvo. Spolu se Silverem jsem za pár dní sestavil chásku ostřílených mořských vlků, že si lepší nelze přát – moc hezky nevypadají, ale už z jejich vzezření je znát nezkrotnou odvahu. Řeknu vám, i s fregatou se můžeme utkat.
+_Myslel jsem, že jsem získal kuchaře, a zatím jsem objevil celé mužstvo. Spolu se Silverem jsem za pár dní sestavil chásku ostřílených mořských vlků, že si lepší nelze přát – moc hezky nevypadají, ale už z jejich vzezření je znát nezkrotnou odvahu. Řeknu vám, i s fregatou se můžeme utkat._
 
-Dlouhý John dokonce odstranil dva z těch šesti nebo sedmi, které jsem zjednal. Jako nic mi dokázal, že takoví sladkovodní jelimánci by nám na dobrodružné výpravě jen překáželi.
+_Dlouhý John dokonce odstranil dva z těch šesti nebo sedmi, které jsem zjednal. Jako nic mi dokázal, že takoví sladkovodní jelimánci by nám na dobrodružné výpravě jen překáželi._
 
-Jsem zdráv, náladu mám výbornou, jím jako drvoštěp, spím, jako když mě do vody hodí, ale už se nemohu dočkat, až moji milí matrózi zadupají kolem vratidla. Vzhůru na moře! Čert vzal poklad! Pobláznil jsem se z mořské nádhery. Honem, Livesey, přijeďte; jestli mě máte rád, nemarněte ani hodinu.
+_Jsem zdráv, náladu mám výbornou, jím jako drvoštěp, spím, jako když mě do vody hodí, ale už se nemohu dočkat, až moji milí matrózi zadupají kolem vratidla. Vzhůru na moře! Čert vzal poklad! Pobláznil jsem se z mořské nádhery. Honem, Livesey, přijeďte; jestli mě máte rád, nemarněte ani hodinu._
 
-Mladičký Hawkins ať si pod Redruthovou ochranou zaskočí k matce; potom hajdy oba do Bristolu.
+_Mladičký Hawkins ať si pod Redruthovou ochranou zaskočí k matce; potom hajdy oba do Bristolu._
 
-John Trelawney
+_John Trelawney_
 
-Douška[\[9\]](./resources/undefined). Ještě jsem vám neřekl, že nám Blandly (mimochodem, jestli se do konce srpna nevrátíme, pošle za námi záchrannou loď) našel znamenitého kapitána – je to, bohužel, paličák, ale jinak úplný poklad. Taky zkušeného kormidelníka nám Dlouhý John Silver někde vyšťáral, jmenuje se Arrow. Za dělmistra mám, Livesey, člověka, který fouká na píšťalu; na palubě milé Hispanioly se tedy zařídíme jako na válečném korábu.
+__Douška_[\[9\]](./resources/undefined). Ještě jsem vám neřekl, že nám Blandly (mimochodem, jestli se do konce srpna nevrátíme, pošle za námi záchrannou loď) našel znamenitého kapitána – je to, bohužel, paličák, ale jinak úplný poklad. Taky zkušeného kormidelníka nám Dlouhý John Silver někde vyšťáral, jmenuje se Arrow. Za dělmistra mám, Livesey, člověka, který fouká na píšťalu; na palubě milé Hispanioly se tedy zařídíme jako na válečném korábu._
 
-Zapomněl jsem vám říci, že je Silver zámožný; přesvědčil jsem se, že má v bance účet a nikdy ho nepřekročil. Hospodu povede za něho jeho žena; je to černoška, takoví staří mládenci jako vy a já se snad mohou právem domnívat, že se vydává znovu do světa nejen kvůli zdraví, ale taky kvůli ženě.
+_Zapomněl jsem vám říci, že je Silver zámožný; přesvědčil jsem se, že má v bance účet a nikdy ho nepřekročil. Hospodu povede za něho jeho žena; je to černoška, takoví staří mládenci jako vy a já se snad mohou právem domnívat, že se vydává znovu do světa nejen kvůli zdraví, ale taky kvůli ženě._
 
-J. T.
+_J. T._
 
-Druhá douška: Hawkins ať zůstane jednu noc u matky.
+__Druhá douška:_ Hawkins ať zůstane jednu noc u matky._
 
 To si můžete myslit, jak mě ten dopis rozrušil. Radostí jsem byl celý pryč; pro Redrutha, který pořád reptal a bědoval, jsem měl opovržení. Kdejaký výpomocný hajný byl ochoten jít místo něho, ale tak si to přál zeman, a zemanovo přání jim bylo zákonem. Zareptat si troufal ještě tak starý Redruth.
 

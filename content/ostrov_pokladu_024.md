@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XV
+  Ostrovan
 contentType: prose
 ---
-
-## KAPITOLA XV  
-Ostrovan
 
 Na úbočí strmého a kamenitého kopce se uvolnila suť a s řinkotem a poskakováním se mezi stromy sypala dolů. Maně jsem pohlédl tím směrem a uviděl jsem, jak něco hbitě uskočilo za kmen borovice. Jestli je to medvěd, člověk nebo opičák, to jsem nerozeznal. Věděl jsem jen, že je snědý a střapatý. Tak jsem se toho strašidla lekl, že jsem zůstal stát.
 
@@ -85,7 +86,7 @@ Místo odpovědi jsem mu bez rozmyšlení vyprávěl o naší plavbě a nynějš
 
 „To budete,“ řekl. Zřejmě se mu ulevilo.
 
-„Něco ti povím,“ hovořil dále. Jen tohle, a nic víc. Byl jsem na Flintově lodi, když zahrabával poklad, on a ještě šest jiných – šest statných matrózů. Pobyli na ostrově skoro týden, my jsme zatím na milém Mroži křižovali poblíž. Jednoho krásného dne se ozval signál a na lodičce k nám připlul Flint, úplně sám, hlavu ovinutou modrým šátkem. Zrovna vycházelo slunce, vypadal tam pod přídí bledý jak smrtka. Jen považ, on přijel, a těch šest bylo pod drnem. Jak to dokázal, to nikdo z nás neuhodl. Nejspíš samá rvačka, řež, vražda – on jediný proti šesti. Kormidelníkem byl Billy Bones, podnálodním Dlouhý John; zeptali se ho, kde je poklad, a on jim odsekl: Jestli chcete, jděte na ostrov a zůstaňte si tam; loď, u všech hromů, odpluje za další kořistí!‘ Tak to řekl.
+„Něco ti povím,“ hovořil dále. Jen tohle, a nic víc. Byl jsem na Flintově lodi, když zahrabával poklad, on a ještě šest jiných – šest statných matrózů. Pobyli na ostrově skoro týden, my jsme zatím na milém _Mroži_ křižovali poblíž. Jednoho krásného dne se ozval signál a na lodičce k nám připlul Flint, úplně sám, hlavu ovinutou modrým šátkem. Zrovna vycházelo slunce, vypadal tam pod přídí bledý jak smrtka. Jen považ, on přijel, a těch šest bylo pod drnem. Jak to dokázal, to nikdo z nás neuhodl. Nejspíš samá rvačka, řež, vražda – on jediný proti šesti. Kormidelníkem byl Billy Bones, podnálodním Dlouhý John; zeptali se ho, kde je poklad, a on jim odsekl: Jestli chcete, jděte na ostrov a zůstaňte si tam; loď, u všech hromů, odpluje za další kořistí!‘ Tak to řekl.
 
 Před třemi lety jsem plul na jiné lodi, a tu jsme zahlédli tenhle ostrov. ‚Hoši,‘ řekl jsem, ‚je tady Flintův poklad, vystupme na břeh a najděme si ho.‘ Kapitánovi to nešlo pod nos, ale moji kamarádi jinak nedali a vystoupili. Dvanáct dní ho hledali a každý den mi víc spílali, až jednoho krásného dne se všichni sebrali a odešli na loď. A ty, Benjamine Gunne,‘ řekli mi, ‚tady máš pušku, lopatu a krumpáč. Zůstaň si tady a hledej Flintův poklad sám.‘
 

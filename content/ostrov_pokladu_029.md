@@ -1,10 +1,11 @@
 ---
+title: |-
+  KAPITOLA
+  XIX
+  Vyprávění se znovu ujímá Jim Hawkins:
+  Posádka v palisádě
 contentType: prose
 ---
-
-## KAPITOLA XIX  
-Vyprávění se znovu ujímá Jim Hawkins:  
-Posádka v palisádě
 
 Jak uviděl Ben Gunn vlajku, zůstal stát, popadl mě za paži a usedl.
 
@@ -38,7 +39,7 @@ Po celou hodinu se ostrov otřásal nepřetržitou palbou a koule padaly s racho
 
 Zrovna zapadalo slunce, mořská bríza vála a šelestila v lese a čeřila šedou hladinu kotviště; hluboký odliv odkrýval širé písčiny; po celodenním vedru mě přes kazajku studilo.
 
-Hispaniola kotvila pořád na jednom místě; jenže na stěžni jí opravdu vlála černá pirátská vlajka. Koukal jsem na ni, a vtom to rudě šlehlo a třesklo a zarachotilo ozvěnou; koule vylítla, jen to hvízdlo. Tím kanonáda skončila.
+_Hispaniola_ kotvila pořád na jednom místě; jenže na stěžni jí opravdu vlála černá pirátská vlajka. Koukal jsem na ni, a vtom to rudě šlehlo a třesklo a zarachotilo ozvěnou; koule vylítla, jen to hvízdlo. Tím kanonáda skončila.
 
 Chvíli jsem ležel a pozoroval to hemžení po útoku. Na břehu, poblíž palisády, námořníci něco rozsekávali; nešťastnou jolu, jak jsem potom zjistil. Pod stromy opodál při ústí řeky plápolal oheň, jeden člun jezdil stále od výběžku k lodi a zpátky a veslaři, předtím zachmuření, teď povykovali jako malí kluci. Z jejich hlasů však byl znát rum.
 
@@ -78,7 +79,7 @@ Podruhé přišel a chvíli mlčel. S hlavou šikmo nakloněnou mě pozoroval.
 
 Před večeří jsme starého Toma pochovali do písku a prostovlasí jsme nad ním v bríze postáli. Dřeva jsme nanosili hodně, ale kapitánovi to ještě nebylo dost, zavrtěl hlavou a prohlásil, že „zítra sebou musíme hodit“. Pojedli jsme vepřové a zapili je pořádnou sklenicí punče; všichni tři náčelníci pak usedli do kouta a rokovali o tom, co nás čeká.
 
-Dobrá rada byla drahá, zásob máme poskrovnu, dávno než přijde pomoc, nezbude nám než kapitulovat. Nejjistější bude pobíjet bukanýry tak dlouho, až stáhnou vlajku nebo s Hispaniolou upláchnou. Z devatenácti je jich už patnáct, další dva jsou zraněni a aspoň jeden – ten, co byl postřelen vedle děla – má těžké zranění, jestli už není po něm. Musíme do nich práskat jen což a přitom šetřit vlastních životů. Máme ostatně dva mocné spojence – rum a podnebí.
+Dobrá rada byla drahá, zásob máme poskrovnu, dávno než přijde pomoc, nezbude nám než kapitulovat. Nejjistější bude pobíjet bukanýry tak dlouho, až stáhnou vlajku nebo s _Hispaniolou_ upláchnou. Z devatenácti je jich už patnáct, další dva jsou zraněni a aspoň jeden – ten, co byl postřelen vedle děla – má těžké zranění, jestli už není po něm. Musíme do nich práskat jen což a přitom šetřit vlastních životů. Máme ostatně dva mocné spojence – rum a podnebí.
 
 Co se prvního spojence týče, i na tu půlmílovou dálku je bylo slyšet, jak dlouho do noci hulákají a prozpěvují; a co se týče druhého, doktor prohlásil, že ať ho ta sázka třeba vlásenku stojí, ale zůstanou-li tam v bažině tábořit bez léků, za týden jich to polovina odskáče.
 

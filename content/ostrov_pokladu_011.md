@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  IV
+  Námořní kufr
 contentType: prose
 ---
-
-## KAPITOLA IV  
-Námořní kufr
 
 Samozřejmě jsem matce všechno vypověděl – snad jsem jí to měl povědět už dávno – oba jsme se octli ve svízelném a nebezpečném postavení. Něco z jeho peněz – jestli nějaké má – patří nám; ale že by kapitánovi matrózi, zejména ti dva kumpáni, které jsem zahlédl, Černý pes a slepý žebrák, byli ochotni uhradit z kořisti nebožtíkovy dluhy, tomu se nám nechtělo věřit. Když podle kapitánova příkazu sednu na koně a rozjedu se k doktorovi Liveseymu, zůstane tam matka sama a bez ochrany; na to nebylo ani pomyšlení. Že nemůžeme v domě dlouho zůstat, to jsme věděli oba. Lekal nás šramot uhlí, propadávajícího kuchyňským roštem, ba i tikot hodin. Všude kolem bylo slyšet, jak se blíží kroky; z kapitánovy mrtvoly, ležící na podlaze jizby, a z představy žebráka, který se zdržuje někde nablízku, mi, jak se říká, běhal mráz po zádech. Něco se honem musí stát; tu mě napadlo, že půjdem spolu do vesničky vyžádat pomoc. Hned jsme to udělali. Jak jsme byli, prostovlasí jsme se rozběhli do houstnoucího šera a mrazivé mlhy.
 

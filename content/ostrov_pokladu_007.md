@@ -1,6 +1,8 @@
 ---
+title: |-
+  DÍL PRVNÍ
+  STARÝ BUKANÝR
 contentType: prose
 ---
 
-# DÍL PRVNÍ  
-STARÝ BUKANÝR
+

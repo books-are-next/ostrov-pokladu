@@ -1,6 +1,9 @@
 ---
+title: |-
+  DÍL
+  ČTVRTÝ
+  PALISÁDA
 contentType: prose
 ---
 
-# DÍL ČTVRTÝ  
-PALISÁDA
+

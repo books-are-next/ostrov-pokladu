@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XXIX
+  A zase černá známka
 contentType: prose
 ---
-
-## KAPITOLA XXIX  
-A zase černá známka
 
 Po delší poradě se k nám jeden bukanýr vrátil, zase tak ironicky (jak se mi zdálo) zasalutoval, a jestli prý by si mohl na chvilku vypůjčit louč. Silver úsečně svolil, posel se vzdálil a zůstali jsme tam potmě.
 
@@ -47,7 +48,7 @@ Ale tu se do toho vložil čahoun se zažloutlýma očima.
 
 „Ano, všechno,“ odsekl George. „Za tvé břídilství ještě budeme viset a schnout na slunci.“
 
-„Tak poslouchejte, na všechny čtyři věci vám odpovím pěkně po pořádku. Prý jsem celou výpravu zbřídil? Co jsem zamýšlel, víte. A jak víte, být po mém, seděli jsme dnes večer všichni do jednoho živi a zdrávi na Hispaniole, pochutnávali si na dobrém koláči a poklad, hrome! jsme měli schovaný v podpalubí. Kdopak mi to zkazil? Kdopak se mně, řádnému kapitánovi, zprotivil? Kdopak mi už ten den, co jsme přistáli, přiřkl černou známku a začal ten tanec? Pěkný tanec to je – úplně s vámi souhlasím – úplný rejdovák na oprátce v ústí Temže. A kdo ho spískal? Anderson, Hands a ty, Georgi Merry! Ty jediný z těch rýpalů jsi dosud na světě; kde bereš tu pekelnou drzost chtít mě shodit z kapitánství – ty, který jsi nás všechny poslal ke dnu! U sta hromů, co je moc, to je moc.“
+„Tak poslouchejte, na všechny čtyři věci vám odpovím pěkně po pořádku. Prý jsem celou výpravu zbřídil? Co jsem zamýšlel, víte. A jak víte, být po mém, seděli jsme dnes večer všichni do jednoho živi a zdrávi na _Hispaniole,_ pochutnávali si na dobrém koláči a poklad, hrome! jsme měli schovaný v podpalubí. Kdopak mi to zkazil? Kdopak se mně, řádnému kapitánovi, zprotivil? Kdopak mi už ten den, co jsme přistáli, přiřkl černou známku a začal ten tanec? Pěkný tanec to je – úplně s vámi souhlasím – úplný rejdovák na oprátce v ústí Temže. A kdo ho spískal? Anderson, Hands a ty, Georgi Merry! Ty jediný z těch rýpalů jsi dosud na světě; kde bereš tu pekelnou drzost chtít mě shodit z kapitánství – ty, který jsi nás všechny poslal ke dnu! U sta hromů, co je moc, to je moc.“
 
 Silver se odmlčel. Na Georgovi a jeho nedávných kamarádech bylo vidět, že nemluvil nadarmo.
 

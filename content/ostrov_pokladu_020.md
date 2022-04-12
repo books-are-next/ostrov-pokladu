@@ -1,15 +1,16 @@
 ---
+title: |-
+  KAPITOLA
+  XII
+  Válečná rada
 contentType: prose
 ---
-
-## KAPITOLA XII  
-Válečná rada
 
 Na palubě se rozlehl dupot. Bylo slyšet, jak se o překot hrnou z kajuty i z palubního kotce; rázem jsem byl z bečky venku, přikrčil se za dolní čelní plachtu a skokem se hnal na záď; na můstku jsem se octl zároveň s Hunterem a doktorem Liveseym, kteří taky pospíchali na návětrný bok lodi.
 
 Zatím se tam už shromáždilo celé mužstvo. Jakmile vyšel měsíc, pás mlhy se zdvihl. Na jihozápad bylo vidět dva kopečky, na míle od sebe vzdálené, za nimi pak čněl třetí, vyšší kopec, jehož vršek dosud tonul v mlze. Všechny tři byly strmé a homolovité.
 
-Zíral jsem na to jako ve snu, nevzpamatoval jsem se ještě ze strašného leknutí, které jsem před chvilkou zažil. Zaslechl jsem kapitána Smolletta, jak dává povely. O dvě čárky přitočil Hispaniolu blíž po větru, plula tak, že zpovzdáli míjela východní břeh ostrova.
+Zíral jsem na to jako ve snu, nevzpamatoval jsem se ještě ze strašného leknutí, které jsem před chvilkou zažil. Zaslechl jsem kapitána Smolletta, jak dává povely. O dvě čárky přitočil _Hispaniolu_ blíž po větru, plula tak, že zpovzdáli míjela východní břeh ostrova.
 
 Po přitažení plachetních provazů řekl kapitán: „Tak co, hoši, jestlipak někdo z vás už někdy viděl tamhletu zemi vpředu?“
 

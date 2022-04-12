@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XXVI
+  Israel Hands
 contentType: prose
 ---
-
-## KAPITOLA XXVI  
-Israel Hands
 
 Vítr nám nepřestal přát, stočil se na západ, a tak se nám do ústí Severní zátoky od severovýchodního cípu ostrova plulo pohodlněji. Zakotvit se nedalo, najet na břeh jsme si netroufali, dokud příliv nepokročí, a tak jsme měli dost času nazbyt. Kormidelník mi vysvětlil, jak se přitáčí loď k větru; po mnoha pokusech se mi to povedlo a oba jsme pak mlčky zasedli k jídlu.
 
@@ -11,7 +12,7 @@ Protivně se zasmál a řekl: „Můj starý kamarád O’Brien je ještě tady,
 
 „Nemám na to sílu a taky se mi do toho nechce. Ať si tu leží dál,“ řekl jsem.
 
-„Jenom smůlu, Jime, přináší – ta Hispaniola,“ zamrkal. „Kolik lidí zahynulo na Hispaniole – kolik nešťastných námořníků se tu rozžehnalo se životem, co jsme vyjeli z Bristolu. Smůla, že to svět neviděl. Třeba takový O’Brien – je po něm, vidíš. Já jsem neštudoval, zato ty, mládenečku, umíš číst a počítat; tak mi upřímně pověz, co myslíš, když je někdo mrtvý, je mrtvý navždycky, nebo zas ožije?“
+„Jenom smůlu, Jime, přináší – ta _Hispaniola,“_ zamrkal. „Kolik lidí zahynulo na _Hispaniole –_ kolik nešťastných námořníků se tu rozžehnalo se životem, co jsme vyjeli z Bristolu. Smůla, že to svět neviděl. Třeba takový O’Brien – je po něm, vidíš. Já jsem neštudoval, zato ty, mládenečku, umíš číst a počítat; tak mi upřímně pověz, co myslíš, když je někdo mrtvý, je mrtvý navždycky, nebo zas ožije?“
 
 „Tělo, pane Handsi, zabít můžete, ale duši ne, to snad dávno víte,“ odsekl jsem. „O’Brien je na jiném světě, třeba se na nás dívá.“
 
@@ -59,7 +60,7 @@ Jen jsme minuli předhoří, ze všech stran nás sevřela pevnina. Podobně jak
 
 „No takhle,“ řekl, „při odlivu odneseš na protější břeh lano, omotáš je kolem pořádné jedle; druhý konec navlékneš na vratidlo a počkáš na příliv. Voda stoupne, všichni námořníci zatáhnou za lano a loď sjede jako po másle. A teď, chlapče, pozor. Už jsme u toho místečka, ale moc to ženeme. Trochu na pravobok – tak – pomalu – na pravobok – trochu na levobok – pomalu – pomalu!“
 
-Udílel mi rozkazy a já jsem je bez dechu plnil. A tu křikl: „A teď, zlatíčko, k závětří!“ trhl jsem kormidlem, Hispaniola se pootočila a klounem najela na nízký lesnatý břeh.
+Udílel mi rozkazy a já jsem je bez dechu plnil. A tu křikl: „A teď, zlatíčko, k závětří!“ trhl jsem kormidlem, _Hispaniola_ se pootočila a klounem najela na nízký lesnatý břeh.
 
 Rozčilen tímto manévrováním jsem nějak kormidelníka dost nehlídal. Nadobro jsem zapomněl, jaké nebezpečí mi visí nad hlavou; napjatě jsem čekal, kdy loď narazí, krk natažený přes brlení pravoboku jsem pozoroval, jak se daleko před přídí čeří vlnky. Málem jsem se dal bez odporu skolit, ale najednou jsem propadl neklidu a otočil hlavu. Snad jsem zaslechl skřípnutí, snad jsem koutkem oka zahlédl jeho sunoucí se stín; snad se ve mně probudil pud šelmy; ať je to, jak chce, když jsem se ohlédl, Hands, v pravé ruce dýku, byl už kousek ode mne.
 
@@ -71,7 +72,7 @@ Na své zranění se pohyboval úžasně rychle, prošedivělé vlasy mu trčely
 
 Viděl, že si hraji na schovávanou, a zůstal stát; vymýšlel si na mě finty a já mu to oplácel. U nás doma jsem si takhle hrál v zátoce Černého kopce mockrát, ale nikdy mi srdce tak nebušilo, to mi věřte. Nic naplat, klukovská hra to přece jen byla, to by bylo, řekl jsem si, abych nevyzrál na postaršího námořníka raněného na stehně. V té rozkuráženosti jsem se letmo zamyslel nad tím, jak ta věc skončí; protahovat ji mohu dlouho, to jsem věděl, ale nakonec, marná sláva, mu neuniknu.
 
-Tak to tedy vypadalo, a tu najednou Hispaniola narazila, zakolísala, chvíli ryla do písku a naráz se překlopila na levobok; paluba se nahnula o pětačtyřicet stupňů, dobrých pět hektolitrů vody vychrstlo z odtokových rour a rozlilo se mezi můstek a brlení.
+Tak to tedy vypadalo, a tu najednou _Hispaniola_ narazila, zakolísala, chvíli ryla do písku a naráz se překlopila na levobok; paluba se nahnula o pětačtyřicet stupňů, dobrých pět hektolitrů vody vychrstlo z odtokových rour a rozlilo se mezi můstek a brlení.
 
 Oba jsme udělali přemet a naráz se skutáleli do odtokových rour; za námi tam s rozpjatýma rukama doškobrtal nebožtík v červené čepici. Octli jsme se tak blízko, že jsem hlavou zavadil o kormidelníkovu nohu, až mi zuby zacvakaly. Rána nerána, hned jsem byl na nohou. Hands se totiž potýkal s mrtvolou. Po šikmé palubě se běhat nedalo; musel jsem se odtamtud dostat nějak jinak, a to hned, nepřítele jsem měl na dosah. Vymrštil jsem se do vratiplachetního lanoví a tak dlouho po něm ručkoval, až jsem celý uřícený usedl na kosovou příčku.
 

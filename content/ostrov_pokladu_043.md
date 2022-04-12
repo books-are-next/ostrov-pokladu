@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XXXI
+  Hledání pokladu – Flintova šipka
 contentType: prose
 ---
-
-## KAPITOLA XXXI  
-Hledání pokladu – Flintova šipka
 
 Octli jsme se sami a Silver řekl: „Za to, že jsem ti zachránil život, jsi ty zas zachránil život mně, to ti nezapomenu. Pozoroval jsem doktora, jak na tebe kývl, abys vzal do zaječích – poočku jsem ho pozoroval; a jako bych to slyšel, viděl jsem tě, jak se bráníš. Máš to u mě, Jime, k dobru. Co se útok nepovedl, poprvé mi zasvitla naděje, a to tvou zásluhou. Na tajný rozkaz jdeme hledat poklad, nějak se mi to nelíbí; musíme stát bok po boku a navzdory osudu si přece krk zachráníme.“
 
@@ -25,17 +26,17 @@ K této dvojí obavě přistoupila ještě záhada kolem počínání mých př�
 
 Být tam někdo, ten by koukal, jak divě vypadáme: na sobě špinavý námořnický oblek a kromě mne všichni po zuby ozbrojeni. Silver si přehodil přes rameno dvě pušky – jednu dopředu, druhou dozadu – za pás si zastrčil tesák a do kapes šosatého kabátu nacpal pistole. Aby se vyjímal ještě podivněji, posadil si na rameno kapitána Flinta. Seděl mu tam a blábolil nesmysly pochycené od námořníků. Byl jsem uvázán v pase za provaz šel jsem poníženě za lodním kuchařem, který držel konec provazu hned ve volné ruce, hned v důkladných zubech. Vedli mě věru jako ochočeného medvěda.
 
-Ostatní byli obtíženi vším možným; někteří nesli krumpáče a lopaty – nezbytné nástroje přivezli z Hispanioly hned napoprvé – druzí zas vlekli k obědu vepřové, suchary a kořalku. Jak jsem si všiml, zásoby pocházely vesměs z našeho skladu. Silver tedy mluvil včera večer pravdu. Nezbývalo mu než se s doktorem dohodnout, jinak zůstanou vzbouřenci po ztrátě lodi odkázáni na pramenitou vodu a lov. Voda jim nepůjde pod nos; střílet námořník obyčejně neumí; při tom nedostatku jídla nebudou mít ani prachu nazbyt.
+Ostatní byli obtíženi vším možným; někteří nesli krumpáče a lopaty – nezbytné nástroje přivezli z _Hispanioly_ hned napoprvé – druzí zas vlekli k obědu vepřové, suchary a kořalku. Jak jsem si všiml, zásoby pocházely vesměs z našeho skladu. Silver tedy mluvil včera večer pravdu. Nezbývalo mu než se s doktorem dohodnout, jinak zůstanou vzbouřenci po ztrátě lodi odkázáni na pramenitou vodu a lov. Voda jim nepůjde pod nos; střílet námořník obyčejně neumí; při tom nedostatku jídla nebudou mít ani prachu nazbyt.
 
 Takto vyzbrojeni jsme se vydali na cestu – šel s námi i ten námořník s rozbitou hlavou, který měl raději zůstat v chládku – a husím pochodem jsme táhli k pobřeží, kde na nás čekaly oba čluny. I na nich bylo znát nepříčetné opilství námořníků, jeden měl polámanou lavici, a oba byly zaneseny blátem a vodou. Vzali jsme je pro jistotu s sebou; rozsadili jsme se na nich a po hladině kotviště jsme vyrazili vpřed.
 
 Při veslování jsme rokovali o mapě. Na vodítko byl ovšem červený křížek příliš veliký; a jak ještě uslyšíte, vysvětlivky na rubu se daly vykládat všelijak. Jak si snad čtenář vzpomene, zněly takto:
 
-Vysoký strom, úbočí Dalekohledu, od SSV k S.
+_Vysoký strom, úbočí Dalekohledu, od SSV k S._
 
-Kostlivčí ostrov VJV k V.
+_Kostlivčí ostrov VJV k V._
 
-Deset stop.
+_Deset stop._
 
 Hlavním orientačním bodem byl tedy vysoký strom. Přímo proti nám vévodila kotvišti náhorní rovina vysoká dvě stě až tři sta stop; na severu splývala s povlovným jižním úbočím Dalekohledu, k jihu pak čněla rozeklanou skalnatou výšinou, zvanou Křížový stěžeň. Hořejšek náhorní roviny byl hustě zarostlý nestejně vysokými jedlemi. Čtyřicet až padesát stop nad ně místy čněly nějaké jiné jehličnaté stromy; který z nich je ten „vysoký strom“ kapitána Flinta, se dalo zjistit až na místě podle kompasu.
 

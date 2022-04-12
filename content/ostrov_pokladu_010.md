@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  III
+  Černá známka
 contentType: prose
 ---
-
-## KAPITOLA III  
-Černá známka
 
 Kolem poledne jsem s chladivými nápoji a léky stanul v kapitánových dveřích. Ležel, jako když jsme od něho odcházeli, jen trochu výš, byl zesláblý a rozčilený.
 

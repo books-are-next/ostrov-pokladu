@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  II
+  Objeví se Černý pes a zas zmizí
 contentType: prose
 ---
-
-## KAPITOLA II  
-Objeví se Černý pes a zas zmizí
 
 Zakrátko se pak přihodilo cosi záhadného; šťastně jsme se tím zbavili kapitána, ale jak uvidíte, ne jeho záležitostí. Byla třeskutá zima, mrzlo až praštělo a burácela vichřice; že se otec jara nedočká, to nám bylo jasné. Chřadl vůčihledně a o hostinec jsme se starali já a matka; dalo nám to dost práce, takže jsme si nepříjemného hosta moc nevšímali.
 

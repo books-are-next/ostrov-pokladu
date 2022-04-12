@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XIV
+  První rána
 contentType: prose
 ---
-
-## KAPITOLA XIV  
-První rána
 
 Plesal jsem radostí nad tím, jak jsem Dlouhému Johnovi upláchl, a se zájmem jsem si prohlížel tu podivnou zemi, v níž jsem se octl.
 
@@ -61,7 +62,7 @@ John sáhl do kapsy, vytáhl píšťalku a v různých tónech na ni zahvízdal,
 
 Hleděl jsem odtamtud zmizet a co nejrychleji a nejtišeji jsem se plazil k řidšímu lesu. Zaslechl jsem, jak na sebe starý bukanýr a jeho druhové halekají, a ten hrozivý pokřik mi propůjčil křídla. Vylezl jsem z houští a rozběhl se ze všech sil, bylo mi jedno, kam běžím, jen když uniknu vrahům; běžel jsem a strach na mě stále víc doléhal, až jsem z toho třeštil.
 
-Jsem nadobro ztracený. Copak si po výstřelu z děla troufnu slézt k člunům mezi ty zloduchy, dosud čpějící zločinem! Jak mě některý z nich uvidí, zakroutí mi krk jako sluce. Už to, že jsem se od nich vzdálil, jim bude důkazem, že z nich mám strach a že naneštěstí o všem vím. Je po všem. Sbohem, Hispaniolo, sbohem, zemane, doktore i kapitáne! Buď zahynu hlady, nebo zahynu rukou vzbouřenců.
+Jsem nadobro ztracený. Copak si po výstřelu z děla troufnu slézt k člunům mezi ty zloduchy, dosud čpějící zločinem! Jak mě některý z nich uvidí, zakroutí mi krk jako sluce. Už to, že jsem se od nich vzdálil, jim bude důkazem, že z nich mám strach a že naneštěstí o všem vím. Je po všem. Sbohem, _Hispaniolo,_ sbohem, zemane, doktore i kapitáne! Buď zahynu hlady, nebo zahynu rukou vzbouřenců.
 
 Jak už jsem řekl, stále jsem běžel, až jsem maně doběhl k úpatí chlumku se dvěma vršky a octl se v končinách, kde rostly cesmíny dál od sebe a uspořádáním i vzhledem připomínaly spíš pěstěný les. Mezi nimi rostlo pár borovic, některé měřily padesát, některé skoro sedmdesát stop. Také vzduch tam byl svěžejší než dole u slatiny.
 

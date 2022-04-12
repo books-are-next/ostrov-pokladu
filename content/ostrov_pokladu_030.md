@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XX
+  Silverovo poselství
 contentType: prose
 ---
-
-## KAPITOLA XX  
-Silverovo poselství
 
 A skutečně, dva chlapi stáli před palisádou, jeden mával bílým šátkem, druhý, byl to sám Silver, stál klidně vedle něho.
 

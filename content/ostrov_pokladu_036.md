@@ -1,15 +1,16 @@
 ---
+title: |-
+  KAPITOLA
+  XXV
+  Strhnu pirátskou vlajku
 contentType: prose
 ---
-
-## KAPITOLA XXV  
-Strhnu pirátskou vlajku
 
 Sotva jsem se na ležatém stěžni uchytil, zplihla zevnější kosatka, a jako když z děla vystřelí, nadmula se z druhé strany. Škuner se při tom zvratu zatřásl až po kýl; ostatní plachty zůstaly napjaty, ale kosatka vzápětí zas zplihla a schlíple visela dolů.
 
 Málem mě to vymrštilo na moře; bez meškání jsem po ležatém stěžni popolezl a překulil se na palubu. Octl jsem se na závětrné straně přídě, napjatá hlavní plachta mi zakrývala kus zadní paluby. Nikde živé duše. Prkna – od počátku vzpoury je nikdo nevydrhl – byla celá zašlapaná, jako živá poletovala sem tam v odtokových rourách prázdná láhev s uraženým hrdlem.
 
-Najednou se Hispaniola postavila proti větru. Za mými zády práskly kosatky, třísklo kormidlo; celá loď se nadzvedla a zatetelila se, až se člověku žaludek obracel, přitom v kladkách zasténala a hlavní ráhno se přesmyklo na palubu, takže jsem zahlédl závětrnou stranu zadní paluby.
+Najednou se _Hispaniola_ postavila proti větru. Za mými zády práskly kosatky, třísklo kormidlo; celá loď se nadzvedla a zatetelila se, až se člověku žaludek obracel, přitom v kladkách zasténala a hlavní ráhno se přesmyklo na palubu, takže jsem zahlédl závětrnou stranu zadní paluby.
 
 Oba strážci tam opravdu byli: ten v červené čepici ležel strnule naznak, ruce rozpjaté jako ukřižovaný, a rozchlípenými rty cenil zuby; Israel Hands stál opřen o brlení, hlavu svěšenou na prsa, dlaně rozevřeny, při vší osmahlosti sinalý jak voskovice.
 
@@ -69,7 +70,7 @@ Hands, hlavu svěšenou na prsa, mě úkosem bystře pozoroval.
 
 „Proč ne?“ křikl. „Copak jsem nějaký pitomý suchozemec? Chápu, bodejť. Vsadil jsem na jednu kartu, nevyšla mi. Vyhrál jsi ty. Do Severní zátoky, říkáš? Co se dá dělat. Hrome, třeba do Šibeničního doku ti loď dovedu.“
 
-Jeho návrh mi připadal dost rozumný. Hned jsme si plácli. S větrem v týle plula Hispaniola za tři minuty klidně podél pobřeží Ostrova pokladů, těšili jsme se, že před polednem obeplujeme severní mys, dávno před přílivem doplujeme do Severní zátoky, tam s ní klidně naběhneme na břeh, počkáme na odliv a potom vystoupíme na souš.
+Jeho návrh mi připadal dost rozumný. Hned jsme si plácli. S větrem v týle plula _Hispaniola_ za tři minuty klidně podél pobřeží Ostrova pokladů, těšili jsme se, že před polednem obeplujeme severní mys, dávno před přílivem doplujeme do Severní zátoky, tam s ní klidně naběhneme na břeh, počkáme na odliv a potom vystoupíme na souš.
 
 Kormidlovou páku jsem přivázal, zašel dolů podívat se do svého kufru a vyňal z něho matčin hebký hedvábný šátek. S mou pomocí si jím Hands obvázal stehno (měl v něm krvácející bodnou ránu), pojedl a upil kořalky a vůčihledně pookřál; rovně se posadil, mluvil hlasitěji a zřetelněji, byl zkrátka k nepoznání.
 

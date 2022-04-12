@@ -1,10 +1,11 @@
 ---
+title: |-
+  KAPITOLA
+  XVII
+  Dále vypravuje doktor:
+  Jola na poslední cestě
 contentType: prose
 ---
-
-## KAPITOLA XVII  
-Dále vypravuje doktor:  
-Jola na poslední cestě
 
 Tato pátá výprava byla jinačí než předcházející. Předně jsme lodičku notně přetížili. Pět dospělých mužů, z nichž tři – Trelawney, Redruth a kapitán – měřili přes šest stop, na takovou váhu nebyla stavěna. K tomu připočtěme prach, vepřové a pytle sucharů. Brlení[\[15\]](./resources/undefined) bylo až u hladiny. Několikrát jsme nabrali, a než jsme ujeli sto yardů, měl jsem promáčené kalhoty i šosy.
 
@@ -34,7 +35,7 @@ Devítiliberní dělo jsme nadobro pustili z hlavy; a najednou, ta hrůza, z ně
 
 „Israel býval Flintovým dělostřelcem,“ zasípal Gray.
 
-Všemu navzdory jsme namířili přídí k přístavišti. Z proudu jsme se už vymanili a i při tom chtěj nechtěj pomalém veslování jsme kormidlovali rovnou k cíli. Horší bylo, že místo zádí jsme se přitom obraceli k Hispaniole bokem, takže se do nás mohli strefovat jako do stodoly.
+Všemu navzdory jsme namířili přídí k přístavišti. Z proudu jsme se už vymanili a i při tom chtěj nechtěj pomalém veslování jsme kormidlovali rovnou k cíli. Horší bylo, že místo zádí jsme se přitom obraceli k _Hispaniole_ bokem, takže se do nás mohli strefovat jako do stodoly.
 
 Slyšel jsem a viděl, jak ten zchlastaný ničema, Israel Hands, žuchá plnou koulí na palubu.
 
