@@ -1,1 +1,1016 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Ostrov pokladů",
+      "identifier": "92b11226-d785-4512-bda6-836d747b4366",
+      "author": "Robert Louis Stevenson",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2018-01-31T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nmlpuroven1cast\nmlpuroven2kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nmlpdopisi\nmlpdopispodpisi\nmlpvenovani\nmlpversei\nmlpznakkurziva11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nmlptirazautoranazev\nmlpznaktucne",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "ostrov_pokladu_001.md",
+            "xhtml": "ostrov_pokladu_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_002.md",
+            "xhtml": "ostrov_pokladu_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_003.md",
+            "xhtml": "ostrov_pokladu_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_004.md",
+            "xhtml": "ostrov_pokladu_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_005.md",
+            "xhtml": "ostrov_pokladu_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_006.md",
+            "xhtml": "ostrov_pokladu_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_007.md",
+            "xhtml": "ostrov_pokladu_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_008.md",
+            "xhtml": "ostrov_pokladu_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_009.md",
+            "xhtml": "ostrov_pokladu_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_010.md",
+            "xhtml": "ostrov_pokladu_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_011.md",
+            "xhtml": "ostrov_pokladu_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_012.md",
+            "xhtml": "ostrov_pokladu_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_013.md",
+            "xhtml": "ostrov_pokladu_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_014.md",
+            "xhtml": "ostrov_pokladu_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_015.md",
+            "xhtml": "ostrov_pokladu_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_016.md",
+            "xhtml": "ostrov_pokladu_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_017.md",
+            "xhtml": "ostrov_pokladu_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_018.md",
+            "xhtml": "ostrov_pokladu_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_019.md",
+            "xhtml": "ostrov_pokladu_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_020.md",
+            "xhtml": "ostrov_pokladu_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_021.md",
+            "xhtml": "ostrov_pokladu_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_022.md",
+            "xhtml": "ostrov_pokladu_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_023.md",
+            "xhtml": "ostrov_pokladu_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_024.md",
+            "xhtml": "ostrov_pokladu_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_025.md",
+            "xhtml": "ostrov_pokladu_025.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_026.md",
+            "xhtml": "ostrov_pokladu_026.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_027.md",
+            "xhtml": "ostrov_pokladu_027.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_028.md",
+            "xhtml": "ostrov_pokladu_028.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_029.md",
+            "xhtml": "ostrov_pokladu_029.html",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_030.md",
+            "xhtml": "ostrov_pokladu_030.html",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_031.md",
+            "xhtml": "ostrov_pokladu_031.html",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_032.md",
+            "xhtml": "ostrov_pokladu_032.html",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_033.md",
+            "xhtml": "ostrov_pokladu_033.html",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_034.md",
+            "xhtml": "ostrov_pokladu_034.html",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_035.md",
+            "xhtml": "ostrov_pokladu_035.html",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_036.md",
+            "xhtml": "ostrov_pokladu_036.html",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_037.md",
+            "xhtml": "ostrov_pokladu_037.html",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_038.md",
+            "xhtml": "ostrov_pokladu_038.html",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_039.md",
+            "xhtml": "ostrov_pokladu_039.html",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_040.md",
+            "xhtml": "ostrov_pokladu_040.html",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_041.md",
+            "xhtml": "ostrov_pokladu_041.html",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_042.md",
+            "xhtml": "ostrov_pokladu_042.html",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_043.md",
+            "xhtml": "ostrov_pokladu_043.html",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_044.md",
+            "xhtml": "ostrov_pokladu_044.html",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_045.md",
+            "xhtml": "ostrov_pokladu_045.html",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_046.md",
+            "xhtml": "ostrov_pokladu_046.html",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_047.md",
+            "xhtml": "ostrov_pokladu_047.html",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ostrov_pokladu_048.md",
+            "xhtml": "ostrov_pokladu_048.html",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Ostrov pokladů",
+      "identifier": "92b11226-d785-4512-bda6-836d747b4366",
+      "author": "Robert Louis Stevenson",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2018-01-31T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_001.md",
+        "xhtml": "ostrov_pokladu_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_002.md",
+        "xhtml": "ostrov_pokladu_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_003.md",
+        "xhtml": "ostrov_pokladu_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_004.md",
+        "xhtml": "ostrov_pokladu_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_005.md",
+        "xhtml": "ostrov_pokladu_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_006.md",
+        "xhtml": "ostrov_pokladu_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_007.md",
+        "xhtml": "ostrov_pokladu_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_008.md",
+        "xhtml": "ostrov_pokladu_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_009.md",
+        "xhtml": "ostrov_pokladu_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_010.md",
+        "xhtml": "ostrov_pokladu_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_011.md",
+        "xhtml": "ostrov_pokladu_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_012.md",
+        "xhtml": "ostrov_pokladu_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_013.md",
+        "xhtml": "ostrov_pokladu_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_014.md",
+        "xhtml": "ostrov_pokladu_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_015.md",
+        "xhtml": "ostrov_pokladu_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_016.md",
+        "xhtml": "ostrov_pokladu_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_017.md",
+        "xhtml": "ostrov_pokladu_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_018.md",
+        "xhtml": "ostrov_pokladu_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_019.md",
+        "xhtml": "ostrov_pokladu_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_020.md",
+        "xhtml": "ostrov_pokladu_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_021.md",
+        "xhtml": "ostrov_pokladu_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_022.md",
+        "xhtml": "ostrov_pokladu_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_023.md",
+        "xhtml": "ostrov_pokladu_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_024.md",
+        "xhtml": "ostrov_pokladu_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_025.md",
+        "xhtml": "ostrov_pokladu_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_026.md",
+        "xhtml": "ostrov_pokladu_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_027.md",
+        "xhtml": "ostrov_pokladu_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_028.md",
+        "xhtml": "ostrov_pokladu_028.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_029.md",
+        "xhtml": "ostrov_pokladu_029.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_030.md",
+        "xhtml": "ostrov_pokladu_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_031.md",
+        "xhtml": "ostrov_pokladu_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_032.md",
+        "xhtml": "ostrov_pokladu_032.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_033.md",
+        "xhtml": "ostrov_pokladu_033.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_034.md",
+        "xhtml": "ostrov_pokladu_034.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_035.md",
+        "xhtml": "ostrov_pokladu_035.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_036.md",
+        "xhtml": "ostrov_pokladu_036.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_037.md",
+        "xhtml": "ostrov_pokladu_037.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_038.md",
+        "xhtml": "ostrov_pokladu_038.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_039.md",
+        "xhtml": "ostrov_pokladu_039.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_040.md",
+        "xhtml": "ostrov_pokladu_040.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_041.md",
+        "xhtml": "ostrov_pokladu_041.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_042.md",
+        "xhtml": "ostrov_pokladu_042.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_043.md",
+        "xhtml": "ostrov_pokladu_043.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_044.md",
+        "xhtml": "ostrov_pokladu_044.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_045.md",
+        "xhtml": "ostrov_pokladu_045.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_046.md",
+        "xhtml": "ostrov_pokladu_046.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_047.md",
+        "xhtml": "ostrov_pokladu_047.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostrov_pokladu_048.md",
+        "xhtml": "ostrov_pokladu_048.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre10",
+      "calibre13",
+      "calibre14",
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre19",
+      "calibre20",
+      "calibre21",
+      "calibre22",
+      "calibre24",
+      "calibre25",
+      "calibre3",
+      "calibre4",
+      "calibre5",
+      "mlpdopisi",
+      "mlpdopispodpisi",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicenceparagraf",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlptext",
+      "mlptext1",
+      "mlptext2",
+      "mlptext3",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven1cast",
+      "mlpuroven2kapitola",
+      "mlpvenovani",
+      "mlpverse",
+      "mlpversei",
+      "mlpznakkurziva11b",
+      "mlpznaktucne",
+      "msocommenttext",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection10",
+      "wordsection11",
+      "wordsection12",
+      "wordsection13",
+      "wordsection14",
+      "wordsection15",
+      "wordsection16",
+      "wordsection2",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "ostrov-pokladu"
+    },
+    "generatedAt": 1649749124347
+  }
+}
