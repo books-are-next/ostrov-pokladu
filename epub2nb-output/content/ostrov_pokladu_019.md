@@ -1,11 +1,12 @@
 ---
+title: |-
+  KAPITOLA
+  XI
+  Co jsem zaslechl v bečce s jablky
 contentType: prose
 ---
 
-## KAPITOLA XI  
-Co jsem zaslechl v bečce s jablky
-
-„Kdepak, já ne,“ řekl Silver. „Kapitánem byl Flint; já jsem byl jenom podnálodním, to kvůli té dřevěné noze. Na jedinou salvu přišel starý Pew o oči a já zas o nohu. Však mi ji amputoval znamenitý felčar – vystudoval univerzitu – latinsky mluvil, jako když bičem mrská; stejně ho pak v Corso Castle oběsili jako psa a spolu s ostatními nechali uschnout na slunci. Samí chlapi z Robertova mužstva – to měli z toho, že lodi překřtívali, jednou na Královský poklad, podruhé zas jinak. Já říkám, jak se loď pokřtí, tak ať se jmenuje. Tak to dopadlo s Kasandrou, co nás z Malabaru šťastně dovezla domů, když England ukořistil Indického místokrále; tak to udělali s milým Flintovým korábem Mrožem, pamatuju si, jak mokval krví a jak se potápěl pod tíhou zlata.“
+„Kdepak, já ne,“ řekl Silver. „Kapitánem byl Flint; já jsem byl jenom podnálodním, to kvůli té dřevěné noze. Na jedinou salvu přišel starý Pew o oči a já zas o nohu. Však mi ji amputoval znamenitý felčar – vystudoval univerzitu – latinsky mluvil, jako když bičem mrská; stejně ho pak v Corso Castle oběsili jako psa a spolu s ostatními nechali uschnout na slunci. Samí chlapi z Robertova mužstva – to měli z toho, že lodi překřtívali, jednou na _Královský poklad_, podruhé zas jinak. Já říkám, jak se loď pokřtí, tak ať se jmenuje. Tak to dopadlo s _Kasandrou,_ co nás z Malabaru šťastně dovezla domů, když England ukořistil Indického místokrále; tak to udělali s milým Flintovým korábem _Mrožem_, pamatuju si, jak mokval krví a jak se potápěl pod tíhou zlata.“
 
 „Jojo,“ ozval se někdo nadšeně (podle hlasu to byl náš nejmladší plavčík), „Flint byl výkvět kapitánů, to je jisté.“
 

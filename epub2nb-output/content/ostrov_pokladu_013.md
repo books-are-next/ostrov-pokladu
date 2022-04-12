@@ -1,9 +1,9 @@
 ---
+title: |-
+  KAPITOLA VI
+  Kapitánovy listiny
 contentType: prose
 ---
-
-## KAPITOLA VI  
-Kapitánovy listiny
 
 Celou cestu jsme ujížděli tryskem, až jsme dojeli k doktoru Liveseymu. Průčelí jeho domu bylo ve tmě.
 
@@ -87,17 +87,17 @@ Na lejstru bylo několik pečetí, přitisknutých náprstkem; možná tím, kte
 
 Na rubu pak stálo stejným písmem další poučení, psané stejným písmem:
 
-„Vysoký strom, úbočí Dalekohledu, od SSV k S.
+_„Vysoký strom, úbočí Dalekohledu, od SSV k S._
 
-Kostlivčí ostrov VJV k V.
+_Kostlivčí ostrov VJV k V._
 
-Deset stop.
+_Deset stop._
 
-Stříbrné pruty jsou v severní skrýši; ta leží ve směru východního pahorku, deset sáhů od černého skaliska, když stojíš tváří proti němu.
+_Stříbrné pruty jsou v severní skrýši; ta leží ve směru východního pahorku, deset sáhů od černého skaliska, když stojíš tváří proti němu._
 
-Zbraně se lehce najdou v písečném chlumku, na severním hrotu Severní zátoky, směr V, čtvrt S.
+_Zbraně se lehce najdou v písečném chlumku, na severním hrotu Severní zátoky, směr V, čtvrt S._
 
-J. F.“
+_J. F.“_
 
 To bylo všechno. Bylo to stručné, mně zcela nepochopitelné, ale zeman a doktor Livesey nad tím jásali radostí.
 

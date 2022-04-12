@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XXI
+  Útok
 contentType: prose
 ---
-
-## KAPITOLA XXI  
-Útok
 
 Kapitán se díval za Silverem, až mu zmizel, potom zašel do srubu a zjistil, že kromě Graye nikdo není na svém místě. Poprvé se rozlítil.
 

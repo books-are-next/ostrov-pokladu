@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XXXII
+  Hledání pokladu – hlas za stromy
 contentType: prose
 ---
-
-## KAPITOLA XXXII  
-Hledání pokladu – hlas za stromy
 
 Hlouček, dosud otřesený tím leknutím, vystoupil na planinu a tam usedl, aby si Silver a nemocní odpočinuli.
 
@@ -25,8 +26,8 @@ Takovým myšlenkám se oddávali, co narazili na kostru, hlas tlumili do šepot
 
 A tu zprostřed stromů přímo před námi někdo tenkým, vysokým, třaslavým hlasem zanotoval povědomou písničku:
 
-Patnáct nás pilo rum ze všech sil,  
-johoho, na truhle nebožtíka.
+_Patnáct nás pilo rum ze všech sil,  
+johoho, na truhle nebožtíka._
 
 Piráti se vyděsili, že jsem to jakživ neviděl. Jako z udělání všichni zesinali; jedni vyskočili, druzí se křečovitě chytli sousedů; Morgan se svíjel na zemi.
 
@@ -88,7 +89,7 @@ Došli jsme k prvnímu vysokému stromu, podle měření to nebyl ten pravý. St
 
 Ale víc než ten statný strom vábilo mé druhy pomyšlení, že někde v jeho rozložitém stínu je zakopáno sedm set tisíc liber ve zlatě. Jak jsme k němu docházeli, představa peněz v nich stále víc zaháněla strach. Oči jim jiskřily, kroky se zrychlovaly, celou duší se upínali k bohatství, které tam na ně čeká a do smrti jim vystačí na hýření a radovánky.
 
-Silver se belhal vpřed a supěl; rozchlípené nozdry se mu chvěly; nadával jak pohan na mouchy, které mu sedaly na rozpálený lesklý obličej; vztekle škubal za provaz, jímž jsem byl k němu přivázán, a vrhal po mně vražedné pohledy. Své myšlenky nijak neskrýval, četl jsem mu je z očí. Před samým pokladem na všechno zapomněl; svůj slib i doktorovu výstrahu pustil z hlavy; zřejmě se už těšil, že shrábne poklad, vypátrá a na vodu spustí Hispaniolu, kdejakého poctivého člověka na ostrově podřeže, a jak původně zamýšlel, odpluje obtížen statky i zločiny.
+Silver se belhal vpřed a supěl; rozchlípené nozdry se mu chvěly; nadával jak pohan na mouchy, které mu sedaly na rozpálený lesklý obličej; vztekle škubal za provaz, jímž jsem byl k němu přivázán, a vrhal po mně vražedné pohledy. Své myšlenky nijak neskrýval, četl jsem mu je z očí. Před samým pokladem na všechno zapomněl; svůj slib i doktorovu výstrahu pustil z hlavy; zřejmě se už těšil, že shrábne poklad, vypátrá a na vodu spustí _Hispaniolu,_ kdejakého poctivého člověka na ostrově podřeže, a jak původně zamýšlel, odpluje obtížen statky i zločiny.
 
 Byl jsem ochromen hrůzou a vůbec jsem jim nestačil, jak se prudce hnali za pokladem. Klopýtal jsem a Silver pokaždé zacloumal provazem a hrozivě si mě změřil. Dick se nějak táhl, šel až vzadu a v horečce drmolil modlitby i kletby. Byl jsem všecek sklíčen; ke všemu mě ještě strašila představa tragédie, která se tam na planině kdysi odehrála, když ten zlotřilý bukanýr s fialovou tváří – ten, co potom umřel v Savaně za prozpěvování a hlučného vymáhání rumu – vlastnoručně skolil šest spoluviníků. V tomto klidném háji, napadlo mě, se tehdy asi rozléhaly výkřiky; a v tu chvíli se mi zazdálo, že se jím rozléhají dosud.
 
@@ -98,6 +99,6 @@ Octli jsme se na kraji houštiny.
 
 Uběhli sotva deset yardů a zčistajasna zůstali stát. Tlumeně vykřikli. Silver přidal do kroku a hrotem berly se rozháněl jako divý; vzápětí jsme strnuli také on a já.
 
-Zela před námi jáma, vykopaná už dřív, stěny se totiž zbortily a na dně vypučela tráva. Ležel v ní přeražený topor krumpáče a rozházená prkýnka z beden. Na jednom jsem zahlédl vypálené slovo Mrož – tak se jmenovala Flintova loď.
+Zela před námi jáma, vykopaná už dřív, stěny se totiž zbortily a na dně vypučela tráva. Ležel v ní přeražený topor krumpáče a rozházená prkýnka z beden. Na jednom jsem zahlédl vypálené slovo _Mrož –_ tak se jmenovala Flintova loď.
 
 Bylo to nad slunce jasné. Někdo skrýš objevil a vyhrabal: sedm set tisíc liber bylo pryč.

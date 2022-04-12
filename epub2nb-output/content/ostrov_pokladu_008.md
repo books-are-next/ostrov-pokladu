@@ -1,16 +1,17 @@
 ---
+title: |-
+  KAPITOLA
+  I
+  Starý mořský vlk – U Admirála Benbowa
 contentType: prose
 ---
-
-## KAPITOLA I  
-Starý mořský vlk – U Admirála Benbowa
 
 Na žádost zemana Trelawneyho, doktora Liveseyho a ostatního panstva, abych podrobně vypsal, jak to bylo s Ostrovem pokladů, a zatajil jen jeho polohu, protože je tam nevyzvednutý poklad, chápu se nyní, léta Páně 17.., pera a vzpomínám, jak se u nás – otec byl hostinským U Admirála Benbowa – ubytoval osmahlý starý námořník, který měl na tváři šrám od šavle.
 
 Jako by to bylo včera, vidím ho, jak se k nám plahočí ke vchodu a za ním mu na trakaři vezou lodní kufr. Vysoký, statný snědý hromotluk, na ušpiněnou modrou kazajku mu vzadu splývá smolně černý copánek, tlapy drsné a odřené, nehty polámané, přes jednu líci se mu táhne špinavě sinalý šrám od šavle. Vidím ho, jak se rozhlíží po zátoce, hvízdá a vysokým, vetchým, třaslavým hlasem, od rytmického notování u vratidla nadobro vyšeptalým, prozpěvuje:
 
-Patnáct nás pilo rum ze všech sil,  
-johoho, na truhle nebožtíka.
+_Patnáct nás pilo rum ze všech sil,  
+johoho, na truhle nebožtíka._
 
 Vratidlovým klackem, který držel v ruce, nám zabouchal na dveře, a jen se otec objevil, hned si hrubě poručil rum. Otec mu ho přinesl a on ho pomalu a labužnicky upíjel a vychutnával; přitom se stále rozhlížel po zátoce a pokukoval po našem vývěsním štítu.
 
@@ -36,10 +37,10 @@ Co u nás kapitán bydlel, chodil stále stejně oblečen, jenom punčochy si ob
 
 Jen jednou nepochodil, to bylo ke konci, to už měl otec na kahánku. Kvečeru přišel za nemocným doktor Livesey, pojedl skrovnou večeři, kterou mu matka zchystala, a potom v hostinské jizbě pokuřoval, než mu přivedou z vesničky koně, my jsme totiž u milého Benbowa žádnou stáj neměli. Šel jsem do jizby za ním, a jak si vzpomínám, pozoroval jsem, jak nápadně se svou sněhobílou parukou, bystrýma černýma očima a vybraným chováním čistě a vkusně ustrojený doktor odráží od venkovských neotesanců, zvláště pak od našeho špinavého, protivného, krhavého piráta. Seděl tam ten strašák podroušený rumem a lokty se opíral o stůl. Najednou zaskřehotal – totiž kapitán – tu svou pořád stejnou píseň:
 
-Patnáct nás pilo rum ze všech sil,  
+_Patnáct nás pilo rum ze všech sil,  
 johoho, na truhle nebožtíka.  
 Čert a chlast ostatní dorazil,  
-johoho, na truhle nebožtíka.
+johoho, na truhle nebožtíka._
 
 Dlouho jsem si myslel, že nebožtíkova truhla je ten velký dřevěný kufr v horním předním pokoji, v tíživých snech mi její představa splývala s představou jednonohého námořníka. My jsme písničku už skoro nevnímali; poprvé ji ten večer slyšel jen doktor Livesey, a jak jsem si všiml, moc se mu nezamlouvala, zlostně zdvihl hlavu a potom se dál bavil se zahradníkem Taylorem o novém léčení revmatu. Kapitán se při zpěvu dostal do ráže, nakonec bouchl dlaní do stolu, což znamenalo – to jsme věděli všichni –, že si zjednává ticho. Rázem všichni zmlkli, kromě doktora Liveseyho; jasným, vlídným hlasem hovořil jako dřív a po každém druhém třetím slově zabafal. Kapitán si ho změřil, bouchl do stolu, ještě ostřeji si ho změřil a nakonec si hulvátsky ulevil sprostým zaklnutím[\[2\]](./resources/undefined): „Ticho tam na palubě.“
 

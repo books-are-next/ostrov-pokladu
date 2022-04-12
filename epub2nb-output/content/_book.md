@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Ostrov pokladů
   identifier: 92b11226-d785-4512-bda6-836d747b4366
   author: Robert Louis Stevenson
   publisher: Městská knihovna v Praze
   modified: '2018-01-31T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - ostrov_pokladu_001.html
   - ostrov_pokladu_002.html
@@ -62,6 +66,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

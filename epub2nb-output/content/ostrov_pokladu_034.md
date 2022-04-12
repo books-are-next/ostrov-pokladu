@@ -1,21 +1,22 @@
 ---
+title: |-
+  KAPITOLA
+  XXIII
+  Odliv stále trvá
 contentType: prose
 ---
 
-## KAPITOLA XXIII  
-Odliv stále trvá
-
 Kocábka – na vlastní kůži jsem to zakusil vrchovatou měrou – byla pro člověka mé výšky a váhy spolehlivá, na vodě lehká a čiperná, ale nadmíru vzpurná a vrtošivá. Ať člověk dělal, co chtěl, stále žejbrovala. Točit se dokola, to uměla znamenitě. I Ben Gunn přiznal, že „se těžko řídí tomu, kdo se v ní nevyzná“.
 
-Já jsem se v ní rozhodně nevyznal. Mířila na všechny strany, jenom ne tam, kam jsem potřeboval: většinou jsme pluli bokem, a nebýt odlivu, vůbec jsem se k lodi nedostal. Bez ohledu na pádlování mě odliv naštěstí unášel přímo k Hispaniole, takže jsem ji nemohl minout.
+Já jsem se v ní rozhodně nevyznal. Mířila na všechny strany, jenom ne tam, kam jsem potřeboval: většinou jsme pluli bokem, a nebýt odlivu, vůbec jsem se k lodi nedostal. Bez ohledu na pádlování mě odliv naštěstí unášel přímo k _Hispaniole,_ takže jsem ji nemohl minout.
 
 Nejprve přede mnou ve tmě zhoustla v ještě tmavší skvrnu, potom se zarýsoval trup a ráhno a zčistajasna (čím dál jsem totiž plul, tím prudčeji proudil odliv) jsem se octl vedle kotevního lana a uchopil je do ruky.
 
-Lano, tažené kotvou, se napínalo jako tětiva. Jako nějaká horská bystřina bublaly a zurčely ve tmě kolem trupu zčeřené vlnky. Stačí šmiknout lodním zavírákem a Hispaniola se vesele poveze s odlivem.
+Lano, tažené kotvou, se napínalo jako tětiva. Jako nějaká horská bystřina bublaly a zurčely ve tmě kolem trupu zčeřené vlnky. Stačí šmiknout lodním zavírákem a _Hispaniola_ se vesele poveze s odlivem.
 
 No dobrá, ale tu jsem si vzpomněl, že když se napjaté lano náhle přesekne, je nebezpečné jako splašený kůň. Jestli Hispaniolu nerozvážně odříznu od kotvy, zaručeně mě to i s kocábkou vymrští nad vodu.
 
-Zarazil jsem se a málem jsem od svého záměru upustil, ale štěstí mi tentokrát zase přálo. Vánky, které předtím pofukovaly od jihovýchodu a jihu, po soumraku zavály od jihozápadu. Jak jsem tak přemýšlel, náhlý poryv se opřel o Hispaniolu a otočil ji přímo do proudu; s nemalou radostí jsem ucítil, že lano povoluje a ruka, kterou je držím, se ponořuje pod vodu.
+Zarazil jsem se a málem jsem od svého záměru upustil, ale štěstí mi tentokrát zase přálo. Vánky, které předtím pofukovaly od jihovýchodu a jihu, po soumraku zavály od jihozápadu. Jak jsem tak přemýšlel, náhlý poryv se opřel o _Hispaniolu_ a otočil ji přímo do proudu; s nemalou radostí jsem ucítil, že lano povoluje a ruka, kterou je držím, se ponořuje pod vodu.
 
 Hned jsem se rozhodl, vytáhl z kapsy zavírák, zuby ho otevřel a přeřezával lano pramen po prameni, až sebou loď škubala na pouhých dvou. S jejich přeříznutím jsem klidně vyčkával, až lano závanem větru ještě víc povolí.
 
@@ -25,14 +26,14 @@ Jeden byl, jak jsem po hlase poznal, Israel Hands, bývalý Flintův dělostřel
 
 Na břehu bylo vidět záři táborového ohně, plápolajícího za pobřežními stromy. Někdo prozpěvoval nudnou, táhlou starodávnou námořnickou písničku, po každé sloce zakončenou tremolem, vypadalo to, že jí nebude konec, leda až to zpěváka omrzí. Nejednou jsem ji po cestě slyšel a zapamatoval si z ní tato slova:
 
-Z těch pětasedmdesáti  
-on jediný se vrátil.
+_Z těch pětasedmdesáti  
+on jediný se vrátil._
 
 Po těch krutých dopoledních ztrátách, napadlo mě, se ozývá v té odrhovačce cosi až bolestně případného. Jenže podle toho, co jsem sám zažil, jsou bukanýři bezcitní jako moře, po němž se plaví.
 
 Konečně zadula bríza, škuner se ve tmě naklonil a pohnul se ke mně; ucítil jsem, jak lano povoluje, a rázně a důkladně jsem nožem přeřízl poslední vlákna.
 
-Na kocábku bríza moc nezapůsobila, švihlo to s námi k přídi Hispanioly. Škuner sebou škubal a pomalu se v proudu otáčel kolem osy.
+Na kocábku bríza moc nezapůsobila, švihlo to s námi k přídi _Hispanioly._ Škuner sebou škubal a pomalu se v proudu otáčel kolem osy.
 
 Bránil jsem se jako divý, každou chvíli jsem čekal, že se potopím, odrazit jsem nemohl, posouval jsem se tedy k zádi. Nakonec jsem nebezpečného souseda střásl, ještě naposled jsem zabral pádlem a tu jsem rukou zavadil o lanko, volně splývající z palubního brlení. Hned jsem je popadl.
 
@@ -46,14 +47,14 @@ Na lavičku jsem skočil zrovna včas, málem jsem spadl vedle. Chvíli jsem př
 
 Nekonečně dlouhá odrhovačka přece jen skončila a prořídlý hlouček u táborového ohně spustil refrén, který jsem tolikrát předtím slyšel:
 
-Patnáct nás pilo rum ze všech sil,  
+_Patnáct nás pilo rum ze všech sil,  
 johoho, na truhle nebožtíka.  
 Čert a chlast ostatní dorazil,  
-johoho, na truhle nebožtíka.
+johoho, na truhle nebožtíka._
 
-Dumal jsem nad tím, jak zrovna řádí chlast a čert v kajutě Hispanioly, a najednou mě překvapilo, jak se kocábka nahýbá na bok. Škubla sebou, změnila směr a rozjela se nápadně rychle.
+Dumal jsem nad tím, jak zrovna řádí chlast a čert v kajutě _Hispanioly,_ a najednou mě překvapilo, jak se kocábka nahýbá na bok. Škubla sebou, změnila směr a rozjela se nápadně rychle.
 
-Rázem jsem rozevřel oči. Kolem dokola se šustivě čeřily a převalovaly pableskující vlnky. Hispaniola, v jejíž rýze jsem se pár yardů za ní stále motal, jako by taky odbočovala ze své dráhy, proti noční tmě bylo vidět, jak se jí stěžně kymácejí; upřeně jsem se na ni zahleděl a zjistil, že zahýbá k jihu.
+Rázem jsem rozevřel oči. Kolem dokola se šustivě čeřily a převalovaly pableskující vlnky. _Hispaniola,_ v jejíž rýze jsem se pár yardů za ní stále motal, jako by taky odbočovala ze své dráhy, proti noční tmě bylo vidět, jak se jí stěžně kymácejí; upřeně jsem se na ni zahleděl a zjistil, že zahýbá k jihu.
 
 Ohlédl jsem se a srdce mi zabušilo. Táborový oheň zářil přímo za mnou. Proud se stáčel v pravém úhlu a strhoval s sebou statný škuner i poskakující kocábku, stále rychleji, šumivěji a ropotivěji se dral úžinou na širé moře.
 

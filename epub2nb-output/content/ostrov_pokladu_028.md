@@ -1,10 +1,11 @@
 ---
+title: |-
+  KAPITOLA
+  XVIII
+  Dále vypravuje doktor:
+  Jak skončil první den boje
 contentType: prose
 ---
-
-## KAPITOLA XVIII  
-Dále vypravuje doktor:  
-Jak skončil první den boje
 
 Ze všech sil jsme pospíchali pruhem lesa, táhnoucím se mezi námi a palisádou; krok za krokem se hlasy bukanýrů rozléhaly z větší blízkosti. Běželi, bylo už slyšet jejich kroky a praskot větviček, jak se prodírají houštím.
 

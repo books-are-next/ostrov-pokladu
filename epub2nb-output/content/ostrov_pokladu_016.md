@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  VIII
+  U Dalekohledu
 contentType: prose
 ---
-
-## KAPITOLA VIII  
-U Dalekohledu
 
 Posnídal jsem a zeman mi dal lístek pro Johna Silvera. U Dalekohledu, prý to snadno najdu, když půjdu podél loděnice a budu koukat po krčmě, která má na vývěsním štítu velký mosazný dalekohled. Vykročil jsem plný radosti nad tím, že uvidím další lodě a námořníky, dlouho jsem se proplétal kupami lidí a vozíků a žoků, až jsem krčmu našel.
 

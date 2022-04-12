@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  X
+  Plavba
 contentType: prose
 ---
-
-## KAPITOLA X  
-Plavba
 
 Celou noc bylo na lodi rušno, jak jsme poklízeli, kam co patří, a zemanovi přátelé, Blandly a jiní, se houfem sjížděli na loďkách popřát mu příjemnou cestu a šťastný návrat. Tolik práce jsem u Admirála Benbowa neměl ani jeden večer; když pak před svítáním dělmistr zapískal a mužstvo nastoupilo k vratidlu, byl jsem k smrti utrmácený. Ale při vší utrmácenosti se mi z paluby nechtělo; všechno mi bylo nové a poutavé – úsečné povely, ostrý hvizd píšťaly, mužstvo spěchající za blikání lodních luceren do práce.
 
@@ -13,15 +14,15 @@ Celou noc bylo na lodi rušno, jak jsme poklízeli, kam co patří, a zemanovi p
 
 „Dobrá, kamarádi,“ řekl Dlouhý John; stál tam s berlou pod paží. A vzápětí se rozlehl nápěv s povědomými slovy:
 
-Patnáct nás pilo rum ze všech sil –
+_Patnáct nás pilo rum ze všech sil –_
 
 A celé mužstvo do toho vpadlo sborem:
 
-Johoho, na truhle nebožtíka!
+_Johoho, na truhle nebožtíka!_
 
 Při třetím „johoho“ se vší silou opřeli do rukojetí vratidla.
 
-V tom vzrušujícím okamžiku jsem v duchu zalétl k Admirálu Benbowovi, zazdálo se mi, že v tom sboru skřehotá kapitán. A už se octla kotva nahoře, už visela celá zmáčená na přídi, už se napjaly plachty a z obou stran před námi uplývala pevnina i rejda, a než jsem si hodinku zdříml, Hispaniola vyplula k Ostrovu pokladů.
+V tom vzrušujícím okamžiku jsem v duchu zalétl k Admirálu Benbowovi, zazdálo se mi, že v tom sboru skřehotá kapitán. A už se octla kotva nahoře, už visela celá zmáčená na přídi, už se napjaly plachty a z obou stran před námi uplývala pevnina i rejda, a než jsem si hodinku zdříml, _Hispaniola_ vyplula k Ostrovu pokladů.
 
 Nehodlám líčit plavbu do všech podrobností. Celkem se vydařila. Loď byla dobrá, mužstvo spolehlivé a kapitán rozuměl své věci. Než jsme se však dostali k Ostrovu pokladů, událo se leccos, o čem je třeba promluvit.
 
@@ -47,7 +48,7 @@ Celé mužstvo ho ctilo, ba i poslouchalo. S každým to uměl, kdekomu prokazov
 
 A papoušek drmolil v jednom kuse: „Dukáty, dukáty, dukáty!“ Žasl jsem nad tím, že se nezajíkne; nakonec přehodil John přes klec šátek.
 
-„Tomu papouškovi je, Hawkinsi, nějakých dvě stě let,“ tvrdil, „papoušci se dožívají dlouhatánského věku; snad jenom ďábel byl svědkem větších špatností než on. Plavil se s pirátem Englandem, s proslulým kapitánem Englandem. Byl na Madagaskaru a na Malabaru, v Surinamu, Providenci a Portobellu. Byl přitom, jak v ústí Platy tahali z moře ztroskotané koráby. Tam se naučil ty své ‚dukáty‘; však jich, Hawkinsi, bylo tři sta padesát tisíc! Byl při tom, jak piráti u Goye ukořistili Indického místokrále; napohled vypadá jako neviňátko. A zatím ses, kapitáne, něco načichal prachu – viď!“
+„Tomu papouškovi je, Hawkinsi, nějakých dvě stě let,“ tvrdil, „papoušci se dožívají dlouhatánského věku; snad jenom ďábel byl svědkem větších špatností než on. Plavil se s pirátem Englandem, s proslulým kapitánem Englandem. Byl na Madagaskaru a na Malabaru, v Surinamu, Providenci a Portobellu. Byl přitom, jak v ústí Platy tahali z moře ztroskotané koráby. Tam se naučil ty své ‚dukáty‘; však jich, Hawkinsi, bylo tři sta padesát tisíc! Byl při tom, jak piráti u Goye ukořistili _Indického místokrále;_ napohled vypadá jako neviňátko. A zatím ses, kapitáne, něco načichal prachu – viď!“
 
 „Pozor, otočit loď,“ zavřeštěl papoušek.
 
@@ -59,7 +60,7 @@ Zeman se po jeho slovech otočil a s bradou vystrčenou dopředu rázně chodil 
 
 „Jestli ten chlap ještě cekne,“ řekl, „tak se neudržím.“
 
-Užili jsme dost bouří a Hispaniola v nich dobře obstála. Kdekdo si na palubě liboval, bodejť ne, co Noe vyjel na moře, tak zhýčkané mužstvo snad na žádné lodi nebylo. Našla se záminka, a hned se naléval dvojitý grog; každou chvíli se pekl švestkový koláč, stačilo, aby se zeman dověděl, že někdo slaví narozeniny. Na předpalubí stála pořád bečka s jablky a každý si z ní mohl po chuti nabrat.
+Užili jsme dost bouří a _Hispaniola_ v nich dobře obstála. Kdekdo si na palubě liboval, bodejť ne, co Noe vyjel na moře, tak zhýčkané mužstvo snad na žádné lodi nebylo. Našla se záminka, a hned se naléval dvojitý grog; každou chvíli se pekl švestkový koláč, stačilo, aby se zeman dověděl, že někdo slaví narozeniny. Na předpalubí stála pořád bečka s jablky a každý si z ní mohl po chuti nabrat.
 
 „To není k ničemu,“ řekl kapitán doktoru Liveseymu. „Zpovykaní matrózi mívají samé roupy. To já znám.“
 
@@ -67,7 +68,7 @@ Ale jak se ještě dovíte, k něčemu ta bečka s jablky přece byla; nebýt j�
 
 Bylo to takhle.
 
-Projeli jsme napříč pasáty, až jsme zachytili vítr vanoucí k našemu ostrovu – zřetelněji to říci nemohu – a ve dne v noci jsme k němu pluli, plní radostných nadějí. Podle výpočtů to měl být zhruba poslední den naší zámořské plavby, v noci, nejpozději druhý den dopoledne jsme měli Ostrov pokladů zahlédnout. Mířili jsme k jihojihozápadu, z boku vála ostrá bríza, moře bylo klidné. Hispaniola se stejnoměrně kymácela, čelní stěžeň se občas ponořil, až vyšplíchla pěna. V podpalubí i v lanoví šlo všechno hladce, vládla povznesená nálada, protože se blížil konec první části našeho dobrodružství.
+Projeli jsme napříč pasáty, až jsme zachytili vítr vanoucí k našemu ostrovu – zřetelněji to říci nemohu – a ve dne v noci jsme k němu pluli, plní radostných nadějí. Podle výpočtů to měl být zhruba poslední den naší zámořské plavby, v noci, nejpozději druhý den dopoledne jsme měli Ostrov pokladů zahlédnout. Mířili jsme k jihojihozápadu, z boku vála ostrá bríza, moře bylo klidné. _Hispaniola_ se stejnoměrně kymácela, čelní stěžeň se občas ponořil, až vyšplíchla pěna. V podpalubí i v lanoví šlo všechno hladce, vládla povznesená nálada, protože se blížil konec první části našeho dobrodružství.
 
 Slunce zapadalo, měl jsem po práci, už jsem se ubíral na kutě, a tu jsem dostal chuť na jablko. Vyběhl jsem na palubu. Hlídky usilovně vyhlížely ostrov. Muž u kormidla pozoroval návětrnou plachtu a tiše si hvízdal; jinak se ozývalo jen šplíchání moře na přídi a na bocích.
 

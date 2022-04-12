@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  V
+  Slepcův konec
 contentType: prose
 ---
-
-## KAPITOLA V  
-Slepcův konec
 
 Zvědavost u mě zvítězila nad bázní; nevydržel jsem tam a znovu se odplížil na břeh, že budu přes hustý janovec vyhlížet na silnici k našim dveřím. Jen jsem se tam usadil, objevili se nepřátelé; bylo jich sedm nebo osm, úprkem běželi po silnici každý jiným krokem, ten chlap se svítilnou pár kroků před námi. Tři běželi spolu a drželi se za ruce; i v mlze jsem rozeznal, že prostřední z té trojice je slepý žebrák. Poznal jsem ho po hlase.
 

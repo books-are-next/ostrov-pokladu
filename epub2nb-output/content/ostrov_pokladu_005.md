@@ -1,7 +1,8 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Američanu Lloydu Osbournovi, podle jehož vybraného vkusu  
+_Američanu Lloydu Osbournovi, podle jehož vybraného vkusu  
 byl tento příběh zosnován, oplátkou za mnohé příjemné  
-hodiny s upřímným pozdravem věnuje autor.
+hodiny s upřímným pozdravem věnuje autor._

@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XXVIII
+  V nepřátelském táboře
 contentType: prose
 ---
-
-## KAPITOLA XXVIII  
-V nepřátelském táboře
 
 Louč rudě ozářila vnitřek srubu a potvrdila mé obavy. Piráti se zmocnili srubu i zásob; tady je soudek koňaku, tamhle vepřové a pečivo, všechno jako dřív; a ta hrůza! Po zajatcích ani stopy. Nejspíš všichni zahynuli. Srdce mě zabolelo nad tím, že jsem nezahynul s nimi.
 

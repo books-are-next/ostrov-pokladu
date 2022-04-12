@@ -1,8 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
-VÁHAVÉMU KUPCI
+_VÁHAVÉMU KUPCI_
 
 Z písní lodních posádek,  
 které dobrodružstvím hýří,  

@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XXX
+  Na čestné slovo
 contentType: prose
 ---
-
-## KAPITOLA XXX  
-Na čestné slovo
 
 Vyburcoval mě – a se mnou všechny (jak jsem si všiml, trhl sebou i strážný, opřený o dveře) – něčí jasný, zvučný hlas, halekající od kraje lesa:
 

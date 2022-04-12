@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XXII
+  Jak začalo mé dobrodružství na moři
 contentType: prose
 ---
-
-## KAPITOLA XXII  
-Jak začalo mé dobrodružství na moři
 
 Vzbouřenci se nevrátili – a ani jednou z lesa nevystřelili. Podle kapitánových slov „dostali na frak“, srub jsme udrželi, v klidu jsme prohlédli raněné a přichystali večeři. Bez ohledu na nebezpečí jsme vařili, zeman a já, venku, a ani tam jsme nevycházeli z hrůzy nad sténáním doktorových raněných.
 
@@ -45,7 +46,7 @@ Moře kolem Ostrova pokladů jsem ani jednou neviděl klidné. Slunce třeba pl�
 
 S chutí jsem kráčel podél příboje k jihu, a když se mi zdálo, že jsem dost daleko, zalezl jsem do hustého křoví a opatrně se jím prodíral až k jazýčku výběžku.
 
-Za mnou bylo moře, přede mnou kotviště. Mořská bríza přestala vát, jako by se vyčerpala samou prudkostí; jen od jihu a jihovýchodu foukaly proměnlivé vánky a hrnuly před sebou kupu mlhy; kotviště, proti větru chráněné Kostlivčím ostrovem, bylo olověně nehybné jako tehdy, když jsme do něho vpluli. Od stožárového kotoučku až po ponor se v tom neporušeném zrcadle odrážela Hispaniola a ze stěžně jí visela pirátská vlajka.
+Za mnou bylo moře, přede mnou kotviště. Mořská bríza přestala vát, jako by se vyčerpala samou prudkostí; jen od jihu a jihovýchodu foukaly proměnlivé vánky a hrnuly před sebou kupu mlhy; kotviště, proti větru chráněné Kostlivčím ostrovem, bylo olověně nehybné jako tehdy, když jsme do něho vpluli. Od stožárového kotoučku až po ponor se v tom neporušeném zrcadle odrážela _Hispaniola_ a ze stěžně jí visela pirátská vlajka.
 
 Vedle ní byl přivázán jeden člun, na zádi v člunu seděl Silver – jakpak bych ho nepoznal – pár námořníků se nahýbalo přes palubní brlení, jeden měl na hlavě červenou čepici – byl to ten mizera, co jsem ho před několika hodinami viděl rozkročmo sedět na palisádě. Zřejmě se bavili a smáli, z půlmílové vzdálenosti jsem ovšem neslyšel ani slovo. Najednou se ozval strašlivý, nelidský skřek, až jsem se polekal; ale tu mi vytanul hlas kapitána Flinta, dokonce jsem ho podle pestrého peří rozeznal, jak sedí svému pánovi na zápěstí, aspoň jsem měl ten dojem.
 
@@ -61,7 +62,7 @@ Skočil jsem do důlku, odhrnul cíp stanu a pod ním byla Gunnova loďka – na
 
 Proutěnou rybářskou kocábku, jakou si pletli dávní Britové, jsem tehdy neznal, viděl jsem ji až později; ale mám-li Gunnovu loďku pořádně popsat, řeknu, že tak asi vypadala první a nejhorší kocábka, jakou člověk zrobil. Jednu velkou přednost rybářské kocábky loďka rozhodně měla: byla lehounká a snadno přenosná.
 
-Loďku jsem tedy našel; snad si řeknete, že mě toulání omrzí; ale zatím jsem pojal jiný záměr a tak jsem se na něj upnul, že by mě od jeho provedení snad ani kapitán Smollett neodvrátil. Pod rouškou noci jsem chtěl odveslovat k Hispaniole, přetnout kotevní lano a pustit ji, ať narazí na břeh, kde je jí libo. Po dopolední pohromě, o tom jsem byl přesvědčen, mají vzbouřenci jedinou touhu zdvihnout kotvu a vyplout na moře; překazit jim to bude záslužné; protože hlídce nenechali žádný člun, zvláštní nebezpečí mi přitom nehrozí.
+Loďku jsem tedy našel; snad si řeknete, že mě toulání omrzí; ale zatím jsem pojal jiný záměr a tak jsem se na něj upnul, že by mě od jeho provedení snad ani kapitán Smollett neodvrátil. Pod rouškou noci jsem chtěl odveslovat k _Hispaniole,_ přetnout kotevní lano a pustit ji, ať narazí na břeh, kde je jí libo. Po dopolední pohromě, o tom jsem byl přesvědčen, mají vzbouřenci jedinou touhu zdvihnout kotvu a vyplout na moře; překazit jim to bude záslužné; protože hlídce nenechali žádný člun, zvláštní nebezpečí mi přitom nehrozí.
 
 Usedl jsem, že počkám, až se setmí, zatím jsem se sytil suchary. Byla noc jako stvořená pro můj záměr. Mlha zakryla celou oblohu. Pohasl a zmizel denní svit a na Ostrov pokladů se snesla hustá tma. Když jsem posléze s kocábkou na zádech tápavě vyvrávoral z důlku, kde jsem se navečeřel, z celého kotviště bylo vidět jenom dva světlé body.
 

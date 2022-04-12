@@ -1,11 +1,12 @@
 ---
+title: |-
+  KAPITOLA
+  IX
+  Prach a zbraně
 contentType: prose
 ---
 
-## KAPITOLA IX  
-Prach a zbraně
-
-Hispaniola kotvila kus od hráze, mnoho klounů[\[10\]](./resources/undefined) a zádí jsme podjeli, hned nám lodní lana drhla kýl, hned se zas houpala nad námi. Nakonec jsme k ní přirazili, vystoupili na palubu a tam nás přivítal kormidelník, pan Arrow, osmahlý starý námořník; v uších měl náušnice a šilhal. Se zemanem si dobře rozuměl, ale jak jsem si všiml, méně si s panem Trelawneym rozuměl kapitán.
+_Hispaniola_ kotvila kus od hráze, mnoho klounů[\[10\]](./resources/undefined) a zádí jsme podjeli, hned nám lodní lana drhla kýl, hned se zas houpala nad námi. Nakonec jsme k ní přirazili, vystoupili na palubu a tam nás přivítal kormidelník, pan Arrow, osmahlý starý námořník; v uších měl náušnice a šilhal. Se zemanem si dobře rozuměl, ale jak jsem si všiml, méně si s panem Trelawneym rozuměl kapitán.
 
 Byl to člověk nerudný, nic mu na palubě nebylo vhod, proč, to nám brzo vysvětlil; sotva jsme slezli do kajuty, přišel totiž za námi nějaký námořník.
 

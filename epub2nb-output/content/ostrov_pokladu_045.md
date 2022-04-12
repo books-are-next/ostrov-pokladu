@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XXXIII
+  Náčelníkův pád
 contentType: prose
 ---
-
-## KAPITOLA XXXIII  
-Náčelníkův pád
 
 Nastal obrat, že to svět neviděl. Všech šest stálo jako v omráčení. První se z té rány vzpamatoval Silver. Duší tělem se dosud štval za penězi jako nějaký závodní kůň; vmžiku se zarazil; než si ostatní své zklamání vůbec uvědomili, vrátila se mu rozvaha a duchapřítomně se přizpůsobil.
 
@@ -57,7 +58,7 @@ Ke člunům jsme jim nadběhli; a tam jsme všichni čtyři usedli, abychom vyde
 
 Doktor poslal Graye zpátky pro krumpáč, vzbouřenci je tam na útěku nechali všechny ležet; ubírali jsme se pak pohodlně s kopce dolů a on nám stručně vyprávěl, jak se to sběhlo. Silver se zájmem poslouchal příběh, jehož hrdinou byl od počátku až do konce polonepříčetný Ben Gunn, vysazený kdysi na ostrov
 
-Na dlouhých samotářských toulkách po ostrově objevil Ben kostru – obral ji, nalezl poklad, vykopal ho (ten přeražený topor krumpáče, co ležel v jámě, byl jeho), na zádech pak poklad pracně odnosil od paty vysoké borovice do své sluje na rozeklaném kopci v severovýchodním cípu ostrova a dva měsíce před příjezdem Hispanioly ho tam šťastně uložil.
+Na dlouhých samotářských toulkách po ostrově objevil Ben kostru – obral ji, nalezl poklad, vykopal ho (ten přeražený topor krumpáče, co ležel v jámě, byl jeho), na zádech pak poklad pracně odnosil od paty vysoké borovice do své sluje na rozeklaném kopci v severovýchodním cípu ostrova a dva měsíce před příjezdem _Hispanioly_ ho tam šťastně uložil.
 
 To tajemství z něho doktor vymámil odpoledne po útoku. Druhý den zjistil, že je kotviště opuštěno, vypravil se tedy za Silverem, odevzdal mu nepotřebnou mapu – odevzdal mu zásoby (Ben Gunn měl totiž ve sluji hojnost nasoleného kozlího masa) – odevzdal mu zkrátka kdeco, jen aby se z palisády šťastně dostali na rozeklaný kopec a tam, chráněni před malárií, hlídali peníze.
 
@@ -71,9 +72,9 @@ Ráno pak zjistil, že příšerné zklamání, které vzbouřencům nastrojil, 
 
 Došli jsme k člunům. Jeden z nich doktor rozbil krumpáčem, na druhý jsme nasedli a po moři namířili do Severní zátoky.
 
-Bylo to osm až devět mil. Silver sice padal únavou, ale vesloval spolu s ostatními a jako šipka jsme letěli po klidné hladině. Vyjeli jsme z úžiny a obepluli jihovýchodní cíp ostrova, kolem něhož jsme před čtyřmi dny vlekli Hispaniolu.
+Bylo to osm až devět mil. Silver sice padal únavou, ale vesloval spolu s ostatními a jako šipka jsme letěli po klidné hladině. Vyjeli jsme z úžiny a obepluli jihovýchodní cíp ostrova, kolem něhož jsme před čtyřmi dny vlekli _Hispaniolu._
 
-Jak jsme míjeli rozeklaný kopec, zahlédli jsme tmavé ústí Gunnovy sluje; opřen o pušku tam někdo stál. Byl to zeman; zamávali jsme mu šátkem a třikrát provolali hurá; Silver nám do toho upřímně vpadl. Tři míle dále, koho jsme pak hned za ústím Severní zátoky nezastihli jako Hispaniolu, jak tam klidně křižuje. Poslední příliv ji nadzdvihl; být tam vítr nebo silný proud jako na jižním kotvišti, už jsme se s ní neshledali, leda se ztroskotanou na břehu. Kromě potrhané hlavní plachty jí nic nechybělo. Přichystali jsme novou kotvu a spustili ji do hloubky půldruhého sáhu. Odveslovali jsme do Rumové zátoky, odkud to bylo nejblíže do Gunnovy pokladnice; Gray se pak s člunem sám vrátil na Hispaniolu, měl ji celou noc hlídat.
+Jak jsme míjeli rozeklaný kopec, zahlédli jsme tmavé ústí Gunnovy sluje; opřen o pušku tam někdo stál. Byl to zeman; zamávali jsme mu šátkem a třikrát provolali hurá; Silver nám do toho upřímně vpadl. Tři míle dále, koho jsme pak hned za ústím Severní zátoky nezastihli jako _Hispaniolu,_ jak tam klidně křižuje. Poslední příliv ji nadzdvihl; být tam vítr nebo silný proud jako na jižním kotvišti, už jsme se s ní neshledali, leda se ztroskotanou na břehu. Kromě potrhané hlavní plachty jí nic nechybělo. Přichystali jsme novou kotvu a spustili ji do hloubky půldruhého sáhu. Odveslovali jsme do Rumové zátoky, odkud to bylo nejblíže do Gunnovy pokladnice; Gray se pak s člunem sám vrátil _na Hispaniolu,_ měl ji celou noc hlídat.
 
 Od pobřeží se šlo k ústí sluje po mírném svahu. Zeman nás už nahoře čekal. Ke mně se choval srdečně a vlídně, o mém darebáctví neřekl slovo, ať už takové či onaké. Trochu zrudl, když mu Silver uctivě zasalutoval.
 
@@ -83,7 +84,7 @@ Od pobřeží se šlo k ústí sluje po mírném svahu. Zeman nás už nahoře �
 
 „Opovažte se mi děkovat!“ okřikl ho zeman. „Stejně se zpronevěřuji své povinnosti. Kliďte se!“
 
-Všichni jsme pak vešli do sluje. Byla prostorná a vzdušná, byl v ní pramének a průzračná tůňka, obrostlá kapradím. Na písečné podlaze před ohněm ležel kapitán Smollett; v záblescích plamenů se mihotaly v koutě hromady mincí a kupy zlatých prutů. Byl to Flintův poklad, za kterým jsme z takové dálky přijeli a který stál životy sedmnácti námořníků Hispanioly. Kolik jich stál, než se nashromáždil, kolik krve a žalu, kolik lodí kleslo kvůli němu ke dnu, kolik statečných mužů skočilo se zavázanýma očima z prkna, kolik výstřelů z děl kvůli němu padlo, kolik na něm lpělo hanebností, lží a surovostí – to snad nikdo na světě neví. Tři jsou dosud na ostrově – Silver, starý Morgan a Ben Gunn, každý se na těch zločinech podílel a marně se těšil na podíl z kořisti.
+Všichni jsme pak vešli do sluje. Byla prostorná a vzdušná, byl v ní pramének a průzračná tůňka, obrostlá kapradím. Na písečné podlaze před ohněm ležel kapitán Smollett; v záblescích plamenů se mihotaly v koutě hromady mincí a kupy zlatých prutů. Byl to Flintův poklad, za kterým jsme z takové dálky přijeli a který stál životy sedmnácti námořníků _Hispanioly._ Kolik jich stál, než se nashromáždil, kolik krve a žalu, kolik lodí kleslo kvůli němu ke dnu, kolik statečných mužů skočilo se zavázanýma očima z prkna, kolik výstřelů z děl kvůli němu padlo, kolik na něm lpělo hanebností, lží a surovostí – to snad nikdo na světě neví. Tři jsou dosud na ostrově – Silver, starý Morgan a Ben Gunn, každý se na těch zločinech podílel a marně se těšil na podíl z kořisti.
 
 „Pojď dál, Jime,“ řekl kapitán. „Svým způsobem jsi, Jime, hodný, ale na moře už spolu asi nepojedem, jsi rozený mazlíček, ty já nemám rád. To jste vy, Johne Silvere? Kdepak se tu berete?“
 
@@ -91,4 +92,4 @@ Všichni jsme pak vešli do sluje. Byla prostorná a vzdušná, byl v ní pramé
 
 „Tak!“ řekl kapitán a dost.
 
-Obklopen přáteli jsem pěkně povečeřel a pěkně si pochutnal na Gunnových nasolených kozách, na zákuscích a láhvi starého vína z Hispanioly. Tak spokojené a šťastné lidi aby pohledal. Silver vesele baštil kus od ohně, když však někdo něco potřeboval, hned pro to ochotně skočil, dokonce se s námi tiše pochechtával – byl z něho zase ten milý, způsobný, úslužný matróz, jako když jsme vyjížděli na moře.
+Obklopen přáteli jsem pěkně povečeřel a pěkně si pochutnal na Gunnových nasolených kozách, na zákuscích a láhvi starého vína z _Hispanioly._ Tak spokojené a šťastné lidi aby pohledal. Silver vesele baštil kus od ohně, když však někdo něco potřeboval, hned pro to ochotně skočil, dokonce se s námi tiše pochechtával – byl z něho zase ten milý, způsobný, úslužný matróz, jako když jsme vyjížděli na moře.

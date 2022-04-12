@@ -1,9 +1,10 @@
 ---
+title: |-
+  KAPITOLA
+  XXVII
+  „Dukáty“
 contentType: prose
 ---
-
-## KAPITOLA XXVII  
-„Dukáty“
 
 Protože loď ležela na boku, stěžně čněly nad vodou; jako na hřadu jsem seděl na kosové příčce, pod sebou hladinu zátoky. Hands tak daleko nedolezl, a protože byl blíž lodi, spadl do vody mezi mnou a brlením. V zpěněném krvavém šumu se vynořil a zapadl nadobro. Když se voda utišila, viděl jsem, jak tam ve stínu lodního boku leží schoulen na čistém lesklém písku. Ryby se kolem něho jen míhaly. Chvílemi jako by se v rozvlněné vodě hýbal nebo vstával. A zatím bylo po něm, nadobro po něm, byl zastřelen, utopil se a proměnil se v potravu rybám přímo tam, kde mi ukládal o život.
 
@@ -21,13 +22,13 @@ Jak jsem už řekl, smekl se k brlení a ležel tam jako nějaký příšerný, 
 
 Byl jsem sám na lodi, příliv ustal. Zapadalo slunce, od západního břehu se přes celé kotviště táhly stíny jedlí a až na palubu vrhaly pestré vzorce. Zafoukla večerní bríza, od východu ji sice zachycoval rozeklaný kopec, ale přece jen se lanoví rozezvučelo a zplihlé plachty sebou zaškubaly.
 
-Bál jsem se o loď. Honem jsem stáhl kosatky, až žuchly na palubu – hůř to šlo s hlavní plachtou. Při převrácení lodi se ráhno samozřejmě vysunulo přes palubu a hlavicí a kusem plachty trčelo dobré dvě stopy ve vodě. Toho jsem se bál nejvíc; ale drželo tak pevně, že jsem si na ně netroufal. Nakonec jsem vytáhl z kapsy nůž a přeřízl zdvíhací provazy. Spadl vršek, uvolněná plachta se zduřila na vodě; ale ať jsem tahal, jak chtěl, provazy se nehnuly, víc jsem nedokázal. Hispaniole i mně nezbylo než se odevzdat osudu.
+Bál jsem se o loď. Honem jsem stáhl kosatky, až žuchly na palubu – hůř to šlo s hlavní plachtou. Při převrácení lodi se ráhno samozřejmě vysunulo přes palubu a hlavicí a kusem plachty trčelo dobré dvě stopy ve vodě. Toho jsem se bál nejvíc; ale drželo tak pevně, že jsem si na ně netroufal. Nakonec jsem vytáhl z kapsy nůž a přeřízl zdvíhací provazy. Spadl vršek, uvolněná plachta se zduřila na vodě; ale ať jsem tahal, jak chtěl, provazy se nehnuly, víc jsem nedokázal. _Hispaniole_ i mně nezbylo než se odevzdat osudu.
 
 Zatím se už kotviště ponořilo do stínu – jak si vzpomínám, poslední paprsky, zářivé jako drahokamy, dopadaly přes mýtinu na květnou pokrývku vraku. Ochladilo se, odliv se prudce hnal k moři, škuner se svážel stále víc na bok.
 
-Vydrápal jsem se na příď a pohlédl přes okraj. Bylo tam mělko, pro jistotu jsem se oběma rukama chytil přeříznutého kotevního lana a lehce se po něm spustil z lodi. Bylo mi tam ani ne po pás, písek byl pevný a vlnkami rýhovaný, vesele jsem se přebrodil na břeh a opustil Hispaniolu; ležela na boku, hlavní plachtu rozprostřenou po hladině zátoky. V tu chvíli zapadlo slunce a v rozkomíhaných jedlích slabě zašuměla bríza.
+Vydrápal jsem se na příď a pohlédl přes okraj. Bylo tam mělko, pro jistotu jsem se oběma rukama chytil přeříznutého kotevního lana a lehce se po něm spustil z lodi. Bylo mi tam ani ne po pás, písek byl pevný a vlnkami rýhovaný, vesele jsem se přebrodil na břeh a opustil _Hispaniolu;_ ležela na boku, hlavní plachtu rozprostřenou po hladině zátoky. V tu chvíli zapadlo slunce a v rozkomíhaných jedlích slabě zašuměla bríza.
 
-Konečně jsem pryč z moře, a neodcházím s prázdnýma rukama. Škuner tam leží zbavený bukanýrů, čeká, až na něj naši nastoupí a znovu vyplují na moře. A teď honem domů do palisády, pochlubit se svými slavnými činy. Snad mě za mé tuláctví pokárají, ale má pádná odpověď je znovudobytí Hispanioly. Snad i kapitán Smollett uzná, že jsem nepromarnil čas.
+Konečně jsem pryč z moře, a neodcházím s prázdnýma rukama. Škuner tam leží zbavený bukanýrů, čeká, až na něj naši nastoupí a znovu vyplují na moře. A teď honem domů do palisády, pochlubit se svými slavnými činy. Snad mě za mé tuláctví pokárají, ale má pádná odpověď je znovudobytí _Hispanioly._ Snad i kapitán Smollett uzná, že jsem nepromarnil čas.
 
 Hlavu plnou takových myšlenek jsem vykročil za kamarády domů do srubu. Jak jsem si pamatoval, z říček, odtékajících do Kiddova kotviště, pramení ta nejvýchodnější vlevo ode mne na rozeklaném kopci; vyrazil jsem tedy tím směrem, že ji překročím někde na horním toku. Les byl poměrně řídký, držel jsem se při úpatí, až jsem obešel kopec a překročil bystřinu, bylo v ní vody jen po lýtka.
 

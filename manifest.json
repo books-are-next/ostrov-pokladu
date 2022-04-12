@@ -1,0 +1,990 @@
+{
+  "author": "Robert Louis Stevenson",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "stevenson-ostrov-pokladu-643d88b",
+  "languagecode": "cs",
+  "modified": "2018-01-31T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Ostrov pokladů",
+  "revision": "643d88b",
+  "generatedAt": {
+    "date": "Tue Apr 12 2022 08:13:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649751192292
+  },
+  "documents": [
+    {
+      "title": "Ostrov pokladů",
+      "file": "ostrov_pokladu_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ostrov_pokladu_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov pokladů",
+      "file": "ostrov_pokladu_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "ostrov_pokladu_001.html",
+      "next": "ostrov_pokladu_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov pokladů",
+      "file": "ostrov_pokladu_003.html",
+      "words": 5,
+      "chars": 36,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ostrov_pokladu_002.html",
+      "next": "ostrov_pokladu_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov pokladů",
+      "file": "ostrov_pokladu_004.html",
+      "words": 92,
+      "chars": 607,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ostrov_pokladu_003.html",
+      "next": "ostrov_pokladu_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov pokladů",
+      "file": "ostrov_pokladu_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ostrov_pokladu_004.html",
+      "next": "ostrov_pokladu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov pokladů",
+      "file": "ostrov_pokladu_006.html",
+      "words": 70,
+      "chars": 402,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ostrov_pokladu_005.html",
+      "next": "ostrov_pokladu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL PRVNÍ\nSTARÝ BUKANÝR • Ostrov pokladů",
+      "file": "ostrov_pokladu_007.html",
+      "words": 4,
+      "chars": 22,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ostrov_pokladu_006.html",
+      "next": "ostrov_pokladu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL PRVNÍ\nSTARÝ BUKANÝR",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nI\nStarý mořský vlk – U Admirála Benbowa • Ostrov pokladů",
+      "file": "ostrov_pokladu_008.html",
+      "words": 1557,
+      "chars": 9242,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ostrov_pokladu_007.html",
+      "next": "ostrov_pokladu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nI\nStarý mořský vlk – U Admirála Benbowa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nII\nObjeví se Černý pes a zas zmizí • Ostrov pokladů",
+      "file": "ostrov_pokladu_009.html",
+      "words": 1632,
+      "chars": 9303,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ostrov_pokladu_008.html",
+      "next": "ostrov_pokladu_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nII\nObjeví se Černý pes a zas zmizí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nIII\nČerná známka • Ostrov pokladů",
+      "file": "ostrov_pokladu_010.html",
+      "words": 1550,
+      "chars": 8913,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 9,
+      "prev": "ostrov_pokladu_009.html",
+      "next": "ostrov_pokladu_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nIII\nČerná známka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nIV\nNámořní kufr • Ostrov pokladů",
+      "file": "ostrov_pokladu_011.html",
+      "words": 1487,
+      "chars": 8742,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 10,
+      "prev": "ostrov_pokladu_010.html",
+      "next": "ostrov_pokladu_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nIV\nNámořní kufr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nV\nSlepcův konec • Ostrov pokladů",
+      "file": "ostrov_pokladu_012.html",
+      "words": 1334,
+      "chars": 7644,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 11,
+      "prev": "ostrov_pokladu_011.html",
+      "next": "ostrov_pokladu_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nV\nSlepcův konec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA VI\nKapitánovy listiny • Ostrov pokladů",
+      "file": "ostrov_pokladu_013.html",
+      "words": 1501,
+      "chars": 9078,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 12,
+      "prev": "ostrov_pokladu_012.html",
+      "next": "ostrov_pokladu_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA VI\nKapitánovy listiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL\nDRUHÝ\nLODNÍ KUCHAŘ • Ostrov pokladů",
+      "file": "ostrov_pokladu_014.html",
+      "words": 4,
+      "chars": 20,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 13,
+      "prev": "ostrov_pokladu_013.html",
+      "next": "ostrov_pokladu_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL\nDRUHÝ\nLODNÍ KUCHAŘ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nVII\nOdjíždím do Bristolu • Ostrov pokladů",
+      "file": "ostrov_pokladu_015.html",
+      "words": 1418,
+      "chars": 8357,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 14,
+      "prev": "ostrov_pokladu_014.html",
+      "next": "ostrov_pokladu_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nVII\nOdjíždím do Bristolu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nVIII\nU Dalekohledu • Ostrov pokladů",
+      "file": "ostrov_pokladu_016.html",
+      "words": 1319,
+      "chars": 7351,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 15,
+      "prev": "ostrov_pokladu_015.html",
+      "next": "ostrov_pokladu_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nVIII\nU Dalekohledu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nIX\nPrach a zbraně • Ostrov pokladů",
+      "file": "ostrov_pokladu_017.html",
+      "words": 1301,
+      "chars": 7675,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 16,
+      "prev": "ostrov_pokladu_016.html",
+      "next": "ostrov_pokladu_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nIX\nPrach a zbraně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nX\nPlavba • Ostrov pokladů",
+      "file": "ostrov_pokladu_018.html",
+      "words": 1372,
+      "chars": 8022,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 17,
+      "prev": "ostrov_pokladu_017.html",
+      "next": "ostrov_pokladu_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nX\nPlavba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXI\nCo jsem zaslechl v bečce s jablky • Ostrov pokladů",
+      "file": "ostrov_pokladu_019.html",
+      "words": 1698,
+      "chars": 9484,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 18,
+      "prev": "ostrov_pokladu_018.html",
+      "next": "ostrov_pokladu_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXI\nCo jsem zaslechl v bečce s jablky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXII\nVálečná rada • Ostrov pokladů",
+      "file": "ostrov_pokladu_020.html",
+      "words": 1384,
+      "chars": 7981,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 19,
+      "prev": "ostrov_pokladu_019.html",
+      "next": "ostrov_pokladu_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXII\nVálečná rada",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL TŘETÍ\nMÉ DOBRODRUŽSTVÍ\nNA SOUŠI • Ostrov pokladů",
+      "file": "ostrov_pokladu_021.html",
+      "words": 6,
+      "chars": 33,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 20,
+      "prev": "ostrov_pokladu_020.html",
+      "next": "ostrov_pokladu_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL TŘETÍ\nMÉ DOBRODRUŽSTVÍ\nNA SOUŠI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXIII\nJak začalo mé dobrodružství na souši • Ostrov pokladů",
+      "file": "ostrov_pokladu_022.html",
+      "words": 1349,
+      "chars": 7799,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 21,
+      "prev": "ostrov_pokladu_021.html",
+      "next": "ostrov_pokladu_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXIII\nJak začalo mé dobrodružství na souši",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXIV\nPrvní rána • Ostrov pokladů",
+      "file": "ostrov_pokladu_023.html",
+      "words": 1346,
+      "chars": 7787,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 22,
+      "prev": "ostrov_pokladu_022.html",
+      "next": "ostrov_pokladu_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXIV\nPrvní rána",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXV\nOstrovan • Ostrov pokladů",
+      "file": "ostrov_pokladu_024.html",
+      "words": 1679,
+      "chars": 9440,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 23,
+      "prev": "ostrov_pokladu_023.html",
+      "next": "ostrov_pokladu_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXV\nOstrovan",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL\nČTVRTÝ\nPALISÁDA • Ostrov pokladů",
+      "file": "ostrov_pokladu_025.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 24,
+      "prev": "ostrov_pokladu_024.html",
+      "next": "ostrov_pokladu_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL\nČTVRTÝ\nPALISÁDA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXVI\nDále vypravuje doktor: Jak odešli z lodi • Ostrov pokladů",
+      "file": "ostrov_pokladu_026.html",
+      "words": 1224,
+      "chars": 7145,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 25,
+      "prev": "ostrov_pokladu_025.html",
+      "next": "ostrov_pokladu_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXVI\nDále vypravuje doktor: Jak odešli z lodi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXVII\nDále vypravuje doktor:\nJola na poslední cestě • Ostrov pokladů",
+      "file": "ostrov_pokladu_027.html",
+      "words": 1086,
+      "chars": 6453,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 26,
+      "prev": "ostrov_pokladu_026.html",
+      "next": "ostrov_pokladu_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXVII\nDále vypravuje doktor:\nJola na poslední cestě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXVIII\nDále vypravuje doktor:\nJak skončil první den boje • Ostrov pokladů",
+      "file": "ostrov_pokladu_028.html",
+      "words": 1160,
+      "chars": 7018,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 27,
+      "prev": "ostrov_pokladu_027.html",
+      "next": "ostrov_pokladu_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXVIII\nDále vypravuje doktor:\nJak skončil první den boje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXIX\nVyprávění se znovu ujímá Jim Hawkins:\nPosádka v palisádě • Ostrov pokladů",
+      "file": "ostrov_pokladu_029.html",
+      "words": 1414,
+      "chars": 8141,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 28,
+      "prev": "ostrov_pokladu_028.html",
+      "next": "ostrov_pokladu_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXIX\nVyprávění se znovu ujímá Jim Hawkins:\nPosádka v palisádě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXX\nSilverovo poselství • Ostrov pokladů",
+      "file": "ostrov_pokladu_030.html",
+      "words": 1433,
+      "chars": 8300,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 29,
+      "prev": "ostrov_pokladu_029.html",
+      "next": "ostrov_pokladu_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXX\nSilverovo poselství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXI\nÚtok • Ostrov pokladů",
+      "file": "ostrov_pokladu_031.html",
+      "words": 1435,
+      "chars": 8537,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 30,
+      "prev": "ostrov_pokladu_030.html",
+      "next": "ostrov_pokladu_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXI\nÚtok",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL PÁTÝ\nMÉ DOBRODRUŽSTVÍ\nNA MOŘI • Ostrov pokladů",
+      "file": "ostrov_pokladu_032.html",
+      "words": 6,
+      "chars": 31,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 31,
+      "prev": "ostrov_pokladu_031.html",
+      "next": "ostrov_pokladu_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL PÁTÝ\nMÉ DOBRODRUŽSTVÍ\nNA MOŘI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXII\nJak začalo mé dobrodružství na moři • Ostrov pokladů",
+      "file": "ostrov_pokladu_033.html",
+      "words": 1454,
+      "chars": 8459,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 32,
+      "prev": "ostrov_pokladu_032.html",
+      "next": "ostrov_pokladu_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXII\nJak začalo mé dobrodružství na moři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXIII\nOdliv stále trvá • Ostrov pokladů",
+      "file": "ostrov_pokladu_034.html",
+      "words": 1059,
+      "chars": 6255,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 33,
+      "prev": "ostrov_pokladu_033.html",
+      "next": "ostrov_pokladu_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXIII\nOdliv stále trvá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXIV\nJak jsem křižoval v kocábce • Ostrov pokladů",
+      "file": "ostrov_pokladu_035.html",
+      "words": 1384,
+      "chars": 8045,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 34,
+      "prev": "ostrov_pokladu_034.html",
+      "next": "ostrov_pokladu_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXIV\nJak jsem křižoval v kocábce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXV\nStrhnu pirátskou vlajku • Ostrov pokladů",
+      "file": "ostrov_pokladu_036.html",
+      "words": 1184,
+      "chars": 7051,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 35,
+      "prev": "ostrov_pokladu_035.html",
+      "next": "ostrov_pokladu_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXV\nStrhnu pirátskou vlajku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXVI\nIsrael Hands • Ostrov pokladů",
+      "file": "ostrov_pokladu_037.html",
+      "words": 2038,
+      "chars": 11685,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 36,
+      "prev": "ostrov_pokladu_036.html",
+      "next": "ostrov_pokladu_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXVI\nIsrael Hands",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXVII\n„Dukáty“ • Ostrov pokladů",
+      "file": "ostrov_pokladu_038.html",
+      "words": 1454,
+      "chars": 8439,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 37,
+      "prev": "ostrov_pokladu_037.html",
+      "next": "ostrov_pokladu_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXVII\n„Dukáty“",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL\nŠESTÝ\nKAPITÁN SILVER • Ostrov pokladů",
+      "file": "ostrov_pokladu_039.html",
+      "words": 4,
+      "chars": 22,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 38,
+      "prev": "ostrov_pokladu_038.html",
+      "next": "ostrov_pokladu_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL\nŠESTÝ\nKAPITÁN SILVER",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXVIII\nV nepřátelském táboře • Ostrov pokladů",
+      "file": "ostrov_pokladu_040.html",
+      "words": 2058,
+      "chars": 11593,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 39,
+      "prev": "ostrov_pokladu_039.html",
+      "next": "ostrov_pokladu_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXVIII\nV nepřátelském táboře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXIX\nA zase černá známka • Ostrov pokladů",
+      "file": "ostrov_pokladu_041.html",
+      "words": 1613,
+      "chars": 9017,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 40,
+      "prev": "ostrov_pokladu_040.html",
+      "next": "ostrov_pokladu_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXIX\nA zase černá známka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXX\nNa čestné slovo • Ostrov pokladů",
+      "file": "ostrov_pokladu_042.html",
+      "words": 1674,
+      "chars": 9679,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 41,
+      "prev": "ostrov_pokladu_041.html",
+      "next": "ostrov_pokladu_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXX\nNa čestné slovo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXI\nHledání pokladu – Flintova šipka • Ostrov pokladů",
+      "file": "ostrov_pokladu_043.html",
+      "words": 1630,
+      "chars": 9487,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 42,
+      "prev": "ostrov_pokladu_042.html",
+      "next": "ostrov_pokladu_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXI\nHledání pokladu – Flintova šipka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXII\nHledání pokladu – hlas za stromy • Ostrov pokladů",
+      "file": "ostrov_pokladu_044.html",
+      "words": 1405,
+      "chars": 8208,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 43,
+      "prev": "ostrov_pokladu_043.html",
+      "next": "ostrov_pokladu_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXII\nHledání pokladu – hlas za stromy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXIII\nNáčelníkův pád • Ostrov pokladů",
+      "file": "ostrov_pokladu_045.html",
+      "words": 1434,
+      "chars": 8505,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 44,
+      "prev": "ostrov_pokladu_044.html",
+      "next": "ostrov_pokladu_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXIII\nNáčelníkův pád",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA\nXXXIV\nA poslední • Ostrov pokladů",
+      "file": "ostrov_pokladu_046.html",
+      "words": 1350,
+      "chars": 7883,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 45,
+      "prev": "ostrov_pokladu_045.html",
+      "next": "ostrov_pokladu_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA\nXXXIV\nA poslední",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou • Ostrov pokladů",
+      "file": "ostrov_pokladu_047.html",
+      "words": 232,
+      "chars": 1418,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 46,
+      "prev": "ostrov_pokladu_046.html",
+      "next": "ostrov_pokladu_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov pokladů",
+      "file": "ostrov_pokladu_048.html",
+      "words": 51,
+      "chars": 333,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 47,
+      "prev": "ostrov_pokladu_047.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 49901,
+      "chars": 289711,
+      "ideas": 1581
+    },
+    "chapters": {
+      "words": 49893,
+      "chars": 289659,
+      "ideas": 1576
+    }
+  }
+}
