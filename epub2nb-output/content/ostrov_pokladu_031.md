@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXI
-  Útok
+title: KAPITOLA XXI Útok
 contentType: prose
 ---
 

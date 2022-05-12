@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXVIII
-  V nepřátelském táboře
+title: KAPITOLA XXVIII V nepřátelském táboře
 contentType: prose
 ---
 

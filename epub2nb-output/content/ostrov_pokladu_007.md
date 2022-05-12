@@ -1,7 +1,5 @@
 ---
-title: |-
-  DÍL PRVNÍ
-  STARÝ BUKANÝR
+title: DÍL PRVNÍ STARÝ BUKANÝR
 contentType: prose
 ---
 

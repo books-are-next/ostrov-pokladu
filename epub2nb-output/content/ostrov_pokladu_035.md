@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXIV
-  Jak jsem křižoval v kocábce
+title: KAPITOLA XXIV Jak jsem křižoval v kocábce
 contentType: prose
 ---
 

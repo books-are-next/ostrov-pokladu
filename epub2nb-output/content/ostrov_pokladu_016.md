@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  VIII
-  U Dalekohledu
+title: KAPITOLA VIII U Dalekohledu
 contentType: prose
 ---
 

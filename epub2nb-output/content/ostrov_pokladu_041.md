@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXIX
-  A zase černá známka
+title: KAPITOLA XXIX A zase černá známka
 contentType: prose
 ---
 

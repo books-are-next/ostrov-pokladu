@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXVII
-  „Dukáty“
+title: KAPITOLA XXVII „Dukáty“
 contentType: prose
 ---
 

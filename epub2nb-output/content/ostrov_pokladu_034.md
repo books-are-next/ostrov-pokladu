@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXIII
-  Odliv stále trvá
+title: KAPITOLA XXIII Odliv stále trvá
 contentType: prose
 ---
 

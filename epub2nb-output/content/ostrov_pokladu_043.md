@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXXI
-  Hledání pokladu – Flintova šipka
+title: KAPITOLA XXXI Hledání pokladu – Flintova šipka
 contentType: prose
 ---
 

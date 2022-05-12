@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXV
-  Strhnu pirátskou vlajku
+title: KAPITOLA XXV Strhnu pirátskou vlajku
 contentType: prose
 ---
 

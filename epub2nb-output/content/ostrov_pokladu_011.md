@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  IV
-  Námořní kufr
+title: KAPITOLA IV Námořní kufr
 contentType: prose
 ---
 

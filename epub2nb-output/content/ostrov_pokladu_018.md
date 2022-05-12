@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  X
-  Plavba
+title: KAPITOLA X Plavba
 contentType: prose
 ---
 

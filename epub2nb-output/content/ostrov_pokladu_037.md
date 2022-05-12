@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXVI
-  Israel Hands
+title: KAPITOLA XXVI Israel Hands
 contentType: prose
 ---
 

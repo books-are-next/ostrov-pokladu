@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  V
-  Slepcův konec
+title: KAPITOLA V Slepcův konec
 contentType: prose
 ---
 

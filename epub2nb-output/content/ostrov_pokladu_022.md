@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XIII
-  Jak začalo mé dobrodružství na souši
+title: KAPITOLA XIII Jak začalo mé dobrodružství na souši
 contentType: prose
 ---
 

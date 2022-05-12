@@ -1,8 +1,5 @@
 ---
-title: |-
-  DÍL PÁTÝ
-  MÉ DOBRODRUŽSTVÍ
-  NA MOŘI
+title: DÍL PÁTÝ MÉ DOBRODRUŽSTVÍ NA MOŘI
 contentType: prose
 ---
 

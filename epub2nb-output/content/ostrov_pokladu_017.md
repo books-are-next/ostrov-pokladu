@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  IX
-  Prach a zbraně
+title: KAPITOLA IX Prach a zbraně
 contentType: prose
 ---
 

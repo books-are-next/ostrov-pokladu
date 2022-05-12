@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXXIII
-  Náčelníkův pád
+title: KAPITOLA XXXIII Náčelníkův pád
 contentType: prose
 ---
 

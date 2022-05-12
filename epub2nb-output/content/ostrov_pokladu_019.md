@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XI
-  Co jsem zaslechl v bečce s jablky
+title: KAPITOLA XI Co jsem zaslechl v bečce s jablky
 contentType: prose
 ---
 

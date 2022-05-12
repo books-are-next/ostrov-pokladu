@@ -1,8 +1,5 @@
 ---
-title: |-
-  DÍL TŘETÍ
-  MÉ DOBRODRUŽSTVÍ
-  NA SOUŠI
+title: DÍL TŘETÍ MÉ DOBRODRUŽSTVÍ NA SOUŠI
 contentType: prose
 ---
 

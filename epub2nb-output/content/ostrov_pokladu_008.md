@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  I
-  Starý mořský vlk – U Admirála Benbowa
+title: KAPITOLA I Starý mořský vlk – U Admirála Benbowa
 contentType: prose
 ---
 

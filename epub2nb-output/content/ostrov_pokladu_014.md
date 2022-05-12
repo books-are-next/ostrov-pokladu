@@ -1,8 +1,5 @@
 ---
-title: |-
-  DÍL
-  DRUHÝ
-  LODNÍ KUCHAŘ
+title: DÍL DRUHÝ LODNÍ KUCHAŘ
 contentType: prose
 ---
 

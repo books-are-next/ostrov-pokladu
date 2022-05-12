@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - ostrov_pokladu_002.html
+  - promo.html
   - ostrov_pokladu_005.html
   - ostrov_pokladu_006.html
   - ostrov_pokladu_007.html

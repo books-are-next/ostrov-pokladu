@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXX
-  Na čestné slovo
+title: KAPITOLA XXX Na čestné slovo
 contentType: prose
 ---
 

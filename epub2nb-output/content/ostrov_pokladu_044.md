@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXXII
-  Hledání pokladu – hlas za stromy
+title: KAPITOLA XXXII Hledání pokladu – hlas za stromy
 contentType: prose
 ---
 
