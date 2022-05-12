@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XX
-  Silverovo poselství
+title: KAPITOLA XX Silverovo poselství
 contentType: prose
 ---
 

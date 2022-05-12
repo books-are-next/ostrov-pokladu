@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXII
-  Jak začalo mé dobrodružství na moři
+title: KAPITOLA XXII Jak začalo mé dobrodružství na moři
 contentType: prose
 ---
 

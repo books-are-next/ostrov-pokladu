@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XII
-  Válečná rada
+title: KAPITOLA XII Válečná rada
 contentType: prose
 ---
 

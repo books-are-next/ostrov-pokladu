@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XIV
-  První rána
+title: KAPITOLA XIV První rána
 contentType: prose
 ---
 

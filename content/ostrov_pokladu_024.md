@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XV
-  Ostrovan
+title: KAPITOLA XV Ostrovan
 contentType: prose
 ---
 

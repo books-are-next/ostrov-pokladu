@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XVI
-  Dále vypravuje doktor: Jak odešli z lodi
+title: 'KAPITOLA XVI Dále vypravuje doktor: Jak odešli z lodi'
 contentType: prose
 ---
 

@@ -1,9 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XVIII
-  Dále vypravuje doktor:
-  Jak skončil první den boje
+title: 'KAPITOLA XVIII Dále vypravuje doktor: Jak skončil první den boje'
 contentType: prose
 ---
 

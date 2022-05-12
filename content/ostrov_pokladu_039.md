@@ -1,8 +1,5 @@
 ---
-title: |-
-  DÍL
-  ŠESTÝ
-  KAPITÁN SILVER
+title: DÍL ŠESTÝ KAPITÁN SILVER
 contentType: prose
 ---
 

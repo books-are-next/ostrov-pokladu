@@ -1,7 +1,5 @@
 ---
-title: |-
-  KAPITOLA VI
-  Kapitánovy listiny
+title: KAPITOLA VI Kapitánovy listiny
 contentType: prose
 ---
 

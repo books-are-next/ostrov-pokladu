@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  III
-  Černá známka
+title: KAPITOLA III Černá známka
 contentType: prose
 ---
 

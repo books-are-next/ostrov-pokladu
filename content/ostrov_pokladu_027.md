@@ -1,9 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XVII
-  Dále vypravuje doktor:
-  Jola na poslední cestě
+title: 'KAPITOLA XVII Dále vypravuje doktor: Jola na poslední cestě'
 contentType: prose
 ---
 

@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  II
-  Objeví se Černý pes a zas zmizí
+title: KAPITOLA II Objeví se Černý pes a zas zmizí
 contentType: prose
 ---
 

@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XXXIV
-  A poslední
+title: KAPITOLA XXXIV A poslední
 contentType: prose
 ---
 

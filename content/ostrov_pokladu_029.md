@@ -1,9 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  XIX
-  Vyprávění se znovu ujímá Jim Hawkins:
-  Posádka v palisádě
+title: 'KAPITOLA XIX Vyprávění se znovu ujímá Jim Hawkins: Posádka v palisádě'
 contentType: prose
 ---
 

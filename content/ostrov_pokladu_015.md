@@ -1,8 +1,5 @@
 ---
-title: |-
-  KAPITOLA
-  VII
-  Odjíždím do Bristolu
+title: KAPITOLA VII Odjíždím do Bristolu
 contentType: prose
 ---
 
