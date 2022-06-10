@@ -3,6 +3,8 @@ title: KAPITOLA V Slepcův konec
 contentType: prose
 ---
 
+<section>
+
 Zvědavost u mě zvítězila nad bázní; nevydržel jsem tam a znovu se odplížil na břeh, že budu přes hustý janovec vyhlížet na silnici k našim dveřím. Jen jsem se tam usadil, objevili se nepřátelé; bylo jich sedm nebo osm, úprkem běželi po silnici každý jiným krokem, ten chlap se svítilnou pár kroků před námi. Tři běželi spolu a drželi se za ruce; i v mlze jsem rozeznal, že prostřední z té trojice je slepý žebrák. Poznal jsem ho po hlase.
 
 „Vypačte dveře!“
@@ -90,3 +92,5 @@ Srdečně jsem mu za jeho ochotu poděkoval a pěšky jsme se vydali do vesnice 
 „Doggere,“ řekl pan Dance, „vy máte dobrého koně; vysaďte si dozadu toho mladíka.“
 
 Vylezl jsem na koně a chytil se Doggera v pase, inspektor pak zavelel a řízným poklusem jsme vyrazili k doktoru Liveseymu.
+
+</section>

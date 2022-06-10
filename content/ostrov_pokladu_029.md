@@ -3,6 +3,8 @@ title: 'KAPITOLA XIX Vyprávění se znovu ujímá Jim Hawkins: Posádka v palis
 contentType: prose
 ---
 
+<section>
+
 Jak uviděl Ben Gunn vlajku, zůstal stát, popadl mě za paži a usedl.
 
 „To budou jistě tvoji přátelé,“ řekl.
@@ -90,3 +92,5 @@ Ostatní už dávno vstali, posnídali a skoro o polovinu navršili hromadu dř�
 „Bílá vlajka,“ ozval se někdo; a vzápětí s úžasem křikl: „Sám Silver!“
 
 Promnul jsem si oči a skokem jsem se přihnal ke střílně ve zdi.
+
+</section>

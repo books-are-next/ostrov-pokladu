@@ -3,6 +3,8 @@ title: KAPITOLA XXIII Odliv stále trvá
 contentType: prose
 ---
 
+<section>
+
 Kocábka – na vlastní kůži jsem to zakusil vrchovatou měrou – byla pro člověka mé výšky a váhy spolehlivá, na vodě lehká a čiperná, ale nadmíru vzpurná a vrtošivá. Ať člověk dělal, co chtěl, stále žejbrovala. Točit se dokola, to uměla znamenitě. I Ben Gunn přiznal, že „se těžko řídí tomu, kdo se v ní nevyzná“.
 
 Já jsem se v ní rozhodně nevyznal. Mířila na všechny strany, jenom ne tam, kam jsem potřeboval: většinou jsme pluli bokem, a nebýt odlivu, vůbec jsem se k lodi nedostal. Bez ohledu na pádlování mě odliv naštěstí unášel přímo k _Hispaniole,_ takže jsem ji nemohl minout.
@@ -60,3 +62,5 @@ Najednou škuner přede mnou prudce zakolísal a otočil se o nějakých dvacet 
 Ulehl jsem na dno chatrné kocábky a zbožně jsem odporoučel svou duši Stvořiteli. Na konci úžiny, říkal jsem si, jistě narazíme na burácející vlnobití a rázem bude veta po mých strastech; smrt sama mě neděsila, děsil mě pohled na blížící se záhubu.
 
 Celé hodiny jsem ležel zmítán vlnami a skrápěn vodní tříští a čekal, že příští ponoření bude má smrt. Zmáhala mě malátnost; při všem strachu jsem propadl otupělosti, ba přímo strnulosti; nakonec mě přemohl spánek; ležel jsem v kocábce zmítané mořem a zdálo se mi o vlasti a o Admirálu Benbowovi.
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA XII Válečná rada
 contentType: prose
 ---
 
+<section>
+
 Na palubě se rozlehl dupot. Bylo slyšet, jak se o překot hrnou z kajuty i z palubního kotce; rázem jsem byl z bečky venku, přikrčil se za dolní čelní plachtu a skokem se hnal na záď; na můstku jsem se octl zároveň s Hunterem a doktorem Liveseym, kteří taky pospíchali na návětrný bok lodi.
 
 Zatím se tam už shromáždilo celé mužstvo. Jakmile vyšel měsíc, pás mlhy se zdvihl. Na jihozápad bylo vidět dva kopečky, na míle od sebe vzdálené, za nimi pak čněl třetí, vyšší kopec, jehož vršek dosud tonul v mlze. Všechny tři byly strmé a homolovité.
@@ -90,3 +92,5 @@ Posadili mě ke stolu vedle sebe, nalili mi víno, do hrsti mi nasypali rozinky 
 „Mám k tobě, Hawkinsi, bezmeznou důvěru,“ dodal zeman.
 
 Div jsem si nezoufal, jak jsem si připadal bezradný; jenže podivným sběhem okolností se stalo, že záchrana přišla ode mne. Ale zatím, marná sláva, z šestadvacíti, to jsme věděli, můžeme spoléhat na pouhých sedm; jeden z těch sedmi byl chlapec, takže proti devatenácti stálo na naší straně šest dospělých.
+
+</section>

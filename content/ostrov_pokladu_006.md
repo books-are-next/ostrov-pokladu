@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 _VÁHAVÉMU KUPCI_
 
 Z písní lodních posádek,  
@@ -23,3 +25,5 @@ se můj příběh žádné chvály,
 po boku svých hrdinů  
 s nimi nechť (až zrak se zkalí)  
 v jednom hrobě spočinu.
+
+</section>

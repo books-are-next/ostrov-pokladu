@@ -3,6 +3,8 @@ title: KAPITOLA XXVI Israel Hands
 contentType: prose
 ---
 
+<section>
+
 Vítr nám nepřestal přát, stočil se na západ, a tak se nám do ústí Severní zátoky od severovýchodního cípu ostrova plulo pohodlněji. Zakotvit se nedalo, najet na břeh jsme si netroufali, dokud příliv nepokročí, a tak jsme měli dost času nazbyt. Kormidelník mi vysvětlil, jak se přitáčí loď k větru; po mnoha pokusech se mi to povedlo a oba jsme pak mlčky zasedli k jídlu.
 
 Protivně se zasmál a řekl: „Můj starý kamarád O’Brien je ještě tady, nehodil bys ho, pane kapitáne, přes palubu? Ne že bych se ho štítil, a že jsem ho odkrouhnul, z toho si nic nedělám; ale moc pěkně se nám tu nevyjímá.“
@@ -88,3 +90,5 @@ Hned zůstal stát. Bylo vidět, jak mu při přemýšlení cuká obličej, pře
 S úsměvem jsem se pásl na jeho slovech a naparoval se jako kohout na smetišti, a tu mžikem máchl pravou rukou. Hvízdlo to jako šíp: něco mě udeřilo a zabolelo a najednou jsem byl ramenem přibodnut ke stěžni.
 
 V té příšerné bolesti a zkoprnělosti – jestli jsem to udělal schválně, to nevím, ale rozhodně jsem nemířil – obě pistole vystřelily a vypadly mi z rukou. Nepadly samy; kormidelník tlumeně zachroptěl, pustil se lanoví a střemhlav žbluňkl do moře.
+
+</section>

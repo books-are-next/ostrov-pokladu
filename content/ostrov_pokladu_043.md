@@ -3,6 +3,8 @@ title: KAPITOLA XXXI Hledání pokladu – Flintova šipka
 contentType: prose
 ---
 
+<section>
+
 Octli jsme se sami a Silver řekl: „Za to, že jsem ti zachránil život, jsi ty zas zachránil život mně, to ti nezapomenu. Pozoroval jsem doktora, jak na tebe kývl, abys vzal do zaječích – poočku jsem ho pozoroval; a jako bych to slyšel, viděl jsem tě, jak se bráníš. Máš to u mě, Jime, k dobru. Co se útok nepovedl, poprvé mi zasvitla naděje, a to tvou zásluhou. Na tajný rozkaz jdeme hledat poklad, nějak se mi to nelíbí; musíme stát bok po boku a navzdory osudu si přece krk zachráníme.“
 
 Tu na nás někdo od ohně houkl, že je snídaně hotova, a brzy jsme se na písku rozsadili a dali se do sucharů a sušeného masa. Oheň rozhárali jako na pečení vola; žhnul, že se k němu dalo přistoupit – a to opatrně – jenom po větru. Právě tak marnotratně toho navařili třikrát víc, než jsme stačili spořádat. Jeden námořník se nejapně zachechtal a hodil zbylé jídlo do ohně; oheň s praskotem zaplápolal po té neobvyklé hořlavině. Takhle se nestarat o zítřek, to jsem neviděl; žijí takřka z ruky do huby, jinak se to nedá říci; jídlem nešetří, na stráži usínají, k nějaké šarvátce se ještě tak vzchopí, ale vůbec se nehodí na nějaké delší tažení.
@@ -80,3 +82,5 @@ Znovu ohmatal Merry kosti a prohlásil: „Nic tady nezbylo, ani halíř, ani pi
 „Dej pokoj,“ okřikl ho Silver. „Je nebožtík, a pokud vím, nestraší. Aspoň ve dne ne, to mi věř. Kdo se bojí, moc vystojí. Vzhůru za dublony.“
 
 Vykročili jsme vpřed. Pražilo, byl slunný den, ale piráti už nepobíhali s křikem po lese, kráčeli pohromadě a mluvili tlumeným hlasem. Mrtvý bukanýr je nepřestával děsit.
+
+</section>

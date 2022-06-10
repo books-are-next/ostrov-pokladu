@@ -3,6 +3,8 @@ title: KAPITOLA VII Odjíždím do Bristolu
 contentType: prose
 ---
 
+<section>
+
 Na moře jsme se vypravovali déle, než si zeman myslel, a z toho, co jsme původně zamýšleli, se nám nic nesplnilo, ani to, že zůstanu s doktorem Liveseym pohromadě. Doktor musel zajet do Londýna pro náhradníka; zeman se činil v Bristolu a já jsem žil na zámku pod ochranou hajného, starého Redrutha, skoro jako vězeň, ale hlavu plnou mořských fantazií a vábných vidin podivných ostrovů a dobrodružství. Dlouhé hodiny jsem hloubal nad mapou, pamatoval jsem si ji do všech podrobností. Usazen u klíčníkova krbu jsem v duchu vnikal na ostrov ze všech stran; jitro po jitru jsem probádával jeho půdu; tisíckrát jsem vylezl na strmý kopec zvaný Dalekohled a z vrcholu se kochal nádhernou a proměnlivou vyhlídkou. Někdy se ostrov hemžil divochy a my jsme s nimi bojovali; jindy zas nebezpečnými šelmami a ty proháněly nás; ale žádná ta vidina se nevyrovnala podivným a truchlivým dobrodružstvím, jaká nás čekala.
 
 Plynuly týdny, a tu jednoho krásného dne doručili doktoru Liveseymu dopis s poznámkou: „Není-li přítomen, ať dopis otevře Tom Redruth nebo mladý Hawkins.“ Zařídili jsme se podle příkazu a dověděli se, nebo spíše já sám jsem se dověděl – hajnému totiž čtení moc nešlo, když to nebylo tištěné písmo – tuto důležitou zprávu:
@@ -74,3 +76,5 @@ Kochal jsem se tímto luzným snem, a tu jsme došli před rozlehlý hostinec, z
 „Ach, pane zemane,“ zvolal jsem. „Kdypak vyplujeme?“
 
 „Kdy vyplujeme?“ on na to. „Zítra vyplujeme.“
+
+</section>

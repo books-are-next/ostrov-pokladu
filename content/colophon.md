@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 **Robert Louis Stevenson**  
 **Ostrov pokladů**  
 Edice Literatura pro děti a mládež  
@@ -9,11 +10,8 @@ Překlad Aloys Skoumal
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
 1. vydání z 10. 6. 2022.
-
-***
-
-Znění tohoto textu vychází z díla [Ostrov pokladů](https://search.mlp.cz/cz/titul/ostrov-pokladu/3951986/) tak, jak bylo vydáno v Praze nakladatelstvím Knižní klub v roce 2013. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 

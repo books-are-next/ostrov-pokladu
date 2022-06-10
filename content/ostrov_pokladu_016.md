@@ -3,6 +3,8 @@ title: KAPITOLA VIII U Dalekohledu
 contentType: prose
 ---
 
+<section>
+
 Posnídal jsem a zeman mi dal lístek pro Johna Silvera. U Dalekohledu, prý to snadno najdu, když půjdu podél loděnice a budu koukat po krčmě, která má na vývěsním štítu velký mosazný dalekohled. Vykročil jsem plný radosti nad tím, že uvidím další lodě a námořníky, dlouho jsem se proplétal kupami lidí a vozíků a žoků, až jsem krčmu našel.
 
 V hospůdce bylo dost rušno. Štít byl čerstvě natřený, na oknech visely červené záclonky, podlaha byla vysypaná pískem. Z obou stran se táhly ulice, vedly do nich otevřené dveře, takže do prostorné nízké jizby bylo vidět i přes oblak tabákového kouře.
@@ -94,3 +96,5 @@ Dlouhý John jim všechno živě a podle pravdy vylíčil. Co chvíle se obráti
 „Když dovolíte,“ dodal doktor, „Jim si zajde na palubu s námi, ano?“
 
 „Toť se ví,“ řekl zeman. „Hawkinsi, nasaď si klobouk, podíváme se na loď.“
+
+</section>

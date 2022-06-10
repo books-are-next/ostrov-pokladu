@@ -3,6 +3,8 @@ title: KAPITOLA VI Kapitánovy listiny
 contentType: prose
 ---
 
+<section>
+
 Celou cestu jsme ujížděli tryskem, až jsme dojeli k doktoru Liveseymu. Průčelí jeho domu bylo ve tmě.
 
 Pan Dance mi kázal slézt a zaklepat. Slezl jsem z koně po Doggerově třmenu. Hned mi otevřela služka.
@@ -108,3 +110,5 @@ To bylo všechno. Bylo to stručné, mně zcela nepochopitelné, ale zeman a dok
 „Vy,“ odpověděl doktor, „neudržíte jazyk za zuby. Nejsme sami, kdo o té listině ví. Ti chlapi, co dnes napadli hostinec – jistě samí odvážní hrdlořezi – i ti, co zůstali na plachetnici, a bezpochyby ještě další, poschovávaní někde nablízku, jsou odhodláni zmocnit se těch peněz, ať to stojí co to stojí. Než se octneme na moři, nesmíme chodit sami. Jim a já se od sebe nehnem, do Bristolu ať s vámi jedou Joyce a Hunter; o tom, co jsme našli, nikdo ani muk.“
 
 „Livesey, vy uhodíte vždycky hřebík na hlavičku,“ odvětil zeman. „Budu mlčet jako hrob.“
+
+</section>

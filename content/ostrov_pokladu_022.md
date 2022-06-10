@@ -3,6 +3,8 @@ title: KAPITOLA XIII Jak začalo mé dobrodružství na souši
 contentType: prose
 ---
 
+<section>
+
 Když jsem pak ráno vyšel na palubu, vypadal ostrov docela jinak. Bríza sice opadla, ale za noc jsme urazili notný kus cesty a v bezvětří jsme teď trčeli asi půl míle na jihovýchod od nízkého východního pobřeží. Ostrov byl z valné části porostlý šedavým lesem. Jen v nížinách se od stejnoměrné šedi odrážely žluté písčité pruhy a v chumáčích i jednotlivě čněly z porostu jakési jehličnaté stromy; celkem měl ostrov jednotvárné a smutné zabarvení. Nad stromovím se jako věže kupily holé skály. Samé pitvorné tvary, zvlášť pitvorně vypadal Dalekohled, z celého ostrova nejvyšší, ze všech stran strmějící do výše tří až čtyř set stop a nahoře zkomolený jako nějaký podstavec pro sochu.
 
 _Hispaniola_ se v příboji kymácela, až nabírala do odtokových rour vodu. Ráhna drhla o špalky, kormidlo tlouklo sem a tam a celá loď skřípala, vrzala a třásla se jako nějaká fabrika. Držel jsem se pevně pardun[\[13\]](./resources/undefined), všechno mi závratně vířilo před očima; při plavbě na moři jsem celkem obstál, ale trčet na místě a koulet se jako láhev jsem nesnesl, působilo mi to nevolnost, zvlášť zrána na lačný žaludek.
@@ -60,3 +62,5 @@ Námořníci veslovali jak o závod ke břehu; můj člun měl náskok, byl leh�
 „Jime, Jime!“ slyšel jsem křičet Silvera.
 
 To víte, že jsem si z jeho křiku nic nedělal; jako divý jsem uháněl dopředu, krčil se, prodíral, až jsem nemohl dál.
+
+</section>

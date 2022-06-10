@@ -3,6 +3,8 @@ title: KAPITOLA XXIV Jak jsem křižoval v kocábce
 contentType: prose
 ---
 
+<section>
+
 Byl bílý den, když jsem procitl a zjistil, že se zmítám na moři u jihozápadního cípu Ostrova pokladů. Slunce už vyšlo, ale schovávalo se za mohutným valem Dalekohledu, který se z této strany příkře svažoval k moři.
 
 Kousek ode mne byl Matrózský štít a Křížový stěžeň; lysý, tmavý kopec, na vršku zježený čtyřicetistopými či padesátistopými skalisky a dole vroubený hromadami suti. Z moře tam bylo necelé čtvrt míle a hned mě napadlo, že tam dopádluji.
@@ -60,3 +62,5 @@ Byl jsem od ní necelých sto yardů, a tu znovu zadul prudce vítr; plachty na 
 Užuž jsem si zoufal, ale najednou jsem se zaradoval. Loď se ke mně otočila bokem – točila se dál, až urazila polovinu, dvě třetiny, tři čtvrtiny vzdálenosti, která mě od ní oddělovala. Pod kýlem jí vřely vlny. Z hloubi kocábky vypadala obrovsky vysoká.
 
 A tu se mi v hlavě rozbřesklo. Na přemýšlení nebylo kdy – málem ani ne na záchranu. Škuner rozrážel jednu vlnu, já jsem byl na temeni druhé. Nad hlavou jsem měl čelní stěžeň. Skokem jsem se odrazil od kocábky a vyskočil. Jednou rukou jsem se chytil stěhlového trámu a nohy zapřel mezi stěh[\[18\]](./resources/undefined) a zvratné lano; bez dechu jsem se tam přitiskl, a tu jsem zaslechl tupý úder, to jak škuner nárazem rozdrtil kocábku; uvědomil jsem si, že z _Hispanioly_ už couvnout nemohu.
+
+</section>
