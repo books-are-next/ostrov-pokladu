@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stevenson-ostrov-pokladu-7acbcb5",
-  "revision": "7acbcb5",
+  "identifier": "stevenson-ostrov-pokladu-83da868",
+  "revision": "83da868",
   "readingOrder": [
     "promo.html",
     "ostrov_pokladu_005.html",
@@ -58,8 +58,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:18:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870710239
+    "date": "Fri Jun 10 2022 17:53:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883609231
   },
   "documents": [
     {
@@ -77,9 +77,9 @@
     {
       "title": "Ostrov pokladů",
       "file": "ostrov_pokladu_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 21,
+      "chars": 150,
+      "ideas": 3,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -937,9 +937,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 120,
-      "chars": 790,
-      "ideas": 14,
+      "words": 55,
+      "chars": 397,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "ostrov_pokladu_047.html",
@@ -957,14 +957,14 @@
   ],
   "totals": {
     "all": {
-      "words": 49872,
-      "chars": 289601,
-      "ideas": 1491
+      "words": 49828,
+      "chars": 289358,
+      "ideas": 1485
     },
     "chapters": {
-      "words": 49745,
-      "chars": 288764,
-      "ideas": 1473
+      "words": 49766,
+      "chars": 288914,
+      "ideas": 1476
     }
   }
 }

@@ -3,6 +3,8 @@ title: 'KAPITOLA XVII Dále vypravuje doktor: Jola na poslední cestě'
 contentType: prose
 ---
 
+<section>
+
 Tato pátá výprava byla jinačí než předcházející. Předně jsme lodičku notně přetížili. Pět dospělých mužů, z nichž tři – Trelawney, Redruth a kapitán – měřili přes šest stop, na takovou váhu nebyla stavěna. K tomu připočtěme prach, vepřové a pytle sucharů. Brlení[\[15\]](./resources/undefined) bylo až u hladiny. Několikrát jsme nabrali, a než jsme ujeli sto yardů, měl jsem promáčené kalhoty i šosy.
 
 Na kapitánův pokyn jsme náklad přeložili a tím jsme jolu trochu vyrovnali. Ale i tak jsme se báli dýchat. Zátokou se hnal prudký zčeřený proud k západu a průlivem, kterým jsme tam ráno vepluli, potom k jihu a dál na moře. I to čeření naší přetíženou loďku ohrožovalo; ale co horšího, strhávalo nás to od správného směru a od našeho přístaviště za výběžkem. Když poplujeme po proudu, přistaneme vedle obou člunů a piráti tam budou co nevidět.
@@ -76,3 +78,5 @@ Celkem se nám nic nestalo, nikdo nepřišel o život a šťastně jsme se dobro
 Ke všemu ještě bylo z pobřežního lesa slyšet, jak se k nám blíží hlasy. Hrozilo nebezpečí, že nás téměř bezbranné odříznou od palisády, a také jsme trnuli, jestli se Hunter a Joyce duchapřítomně a ukázněně postaví na odpor půltuctu útočníků. O Hunterovi jsme věděli, že je neohrožený; Joycem jsme si nebyli jisti – lokaj je to příjemný a úslužný, šaty kartáčovat umí, ale na boj si moc nepotrpí.
 
 To všechno nám táhlo hlavou, jak jsme se spěšně brodili na břeh; nešťastnou jolu a větší část prachu i zásob jsme ponechali jejich osudu.
+
+</section>

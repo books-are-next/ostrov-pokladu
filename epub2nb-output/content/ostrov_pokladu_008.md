@@ -3,6 +3,8 @@ title: KAPITOLA I Starý mořský vlk – U Admirála Benbowa
 contentType: prose
 ---
 
+<section>
+
 Na žádost zemana Trelawneyho, doktora Liveseyho a ostatního panstva, abych podrobně vypsal, jak to bylo s Ostrovem pokladů, a zatajil jen jeho polohu, protože je tam nevyzvednutý poklad, chápu se nyní, léta Páně 17.., pera a vzpomínám, jak se u nás – otec byl hostinským U Admirála Benbowa – ubytoval osmahlý starý námořník, který měl na tváři šrám od šavle.
 
 Jako by to bylo včera, vidím ho, jak se k nám plahočí ke vchodu a za ním mu na trakaři vezou lodní kufr. Vysoký, statný snědý hromotluk, na ušpiněnou modrou kazajku mu vzadu splývá smolně černý copánek, tlapy drsné a odřené, nehty polámané, přes jednu líci se mu táhne špinavě sinalý šrám od šavle. Vidím ho, jak se rozhlíží po zátoce, hvízdá a vysokým, vetchým, třaslavým hlasem, od rytmického notování u vratidla nadobro vyšeptalým, prozpěvuje:
@@ -54,3 +56,5 @@ Oba se měřili očima, kapitán však brzy couvl, složil zbraň, vrátil se na
 „Když teď, pane, vím,“ dodal doktor, „že mám v obvodu takového ptáčka, buďte bez starosti, ve dne v noci vás nespustím z očí. Nejsem jenom doktor, jsem taky notář; a jestli zaslechnu sebemenší stížnost na nějaké vaše nezdvořáctví, jakého jste se dopustil dnes večer, postarám se, aby vás odtud poslali postrkem. Ať vám to nemusím říkat podruhé!“
 
 Za chvíli přivedli doktoru Liveseymu koně a on odjel; ten večer a ještě mnoho dalších večerů potom byl kapitán zticha.
+
+</section>

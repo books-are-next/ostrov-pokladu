@@ -3,6 +3,8 @@ title: KAPITOLA XXX Na čestné slovo
 contentType: prose
 ---
 
+<section>
+
 Vyburcoval mě – a se mnou všechny (jak jsem si všiml, trhl sebou i strážný, opřený o dveře) – něčí jasný, zvučný hlas, halekající od kraje lesa:
 
 „Hej, vy tam ve srubu! Tady doktor!“
@@ -110,3 +112,5 @@ Silver se rozzářil a vykřikl: „Líp by mi to, pane doktore, ani matka neře
 „To jsem vám tedy prozradil,“ dodal doktor. „A za druhé vám něco poradím: Nepouštějte chlapce od sebe, a když budete potřebovat pomoc, zavolejte. Už pro ni jdu, vidíte, že nemluvím do větru. Sbohem, Jime.“
 
 Doktor Livesey mi přes palisádu podal ruku, kývl na Silvera a rázně zamířil do lesa.
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA XXXIII Náčelníkův pád
 contentType: prose
 ---
 
+<section>
+
 Nastal obrat, že to svět neviděl. Všech šest stálo jako v omráčení. První se z té rány vzpamatoval Silver. Duší tělem se dosud štval za penězi jako nějaký závodní kůň; vmžiku se zarazil; než si ostatní své zklamání vůbec uvědomili, vrátila se mu rozvaha a duchapřítomně se přizpůsobil.
 
 „Tumáš, Jime,“ zašeptal, „připrav se na nejhorší.“
@@ -90,3 +92,5 @@ Všichni jsme pak vešli do sluje. Byla prostorná a vzdušná, byl v ní pramé
 „Tak!“ řekl kapitán a dost.
 
 Obklopen přáteli jsem pěkně povečeřel a pěkně si pochutnal na Gunnových nasolených kozách, na zákuscích a láhvi starého vína z _Hispanioly._ Tak spokojené a šťastné lidi aby pohledal. Silver vesele baštil kus od ohně, když však někdo něco potřeboval, hned pro to ochotně skočil, dokonce se s námi tiše pochechtával – byl z něho zase ten milý, způsobný, úslužný matróz, jako když jsme vyjížděli na moře.
+
+</section>

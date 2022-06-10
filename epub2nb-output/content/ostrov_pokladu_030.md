@@ -3,6 +3,8 @@ title: KAPITOLA XX Silverovo poselství
 contentType: prose
 ---
 
+<section>
+
 A skutečně, dva chlapi stáli před palisádou, jeden mával bílým šátkem, druhý, byl to sám Silver, stál klidně vedle něho.
 
 Bylo časně zrána, tak chladné ráno jsem snad nezažil, mrazilo až do morku kostí. Nad námi byla jasná obloha bez jediného mráčku a vrcholky stromů růžověly od slunce. Silver a jeho pobočník však stáli ještě v šeru a po kolena se brodili v úzkém bílém oparu, který se v noci přivalil z bažiny až k nám. Ostrov byl zřejmě vlhký, zimničný a nezdravý.
@@ -102,3 +104,5 @@ Nikdo z nás se nehnul. Chrlil ze sebe nejšpinavější nadávky, dolezl do pí
 „Tohle si o vás myslím,“ křikl. „Za hodinu vám ten váš srub vystřílím jako rumový soudek. Jen se smějte, u všech hromů, jen se smějte! Za hodinu se budete smát na onom světě. Šťastný ten, kdo si to odbude hned.“
 
 Se strašným zaklnutím odvrávoral, sjel po písku, po několika marných pokusech se s pomocí chlapa, co nesl bílou vlajku, dostal přes palisádu a rázem zmizel v lese.
+
+</section>

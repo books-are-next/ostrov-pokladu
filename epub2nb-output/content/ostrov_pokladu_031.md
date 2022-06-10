@@ -3,6 +3,8 @@ title: KAPITOLA XXI Útok
 contentType: prose
 ---
 
+<section>
+
 Kapitán se díval za Silverem, až mu zmizel, potom zašel do srubu a zjistil, že kromě Graye nikdo není na svém místě. Poprvé se rozlítil.
 
 „Na svá místa!“ zařval. Jen jsme se odkradli, dodal: „Vás, Grayi, zapíšu do lodního deníku; sloužíte jako pravý námořník. Moc se vám divím, pane Trelawney. O vás jsem si, pane doktore, myslel, že jste kdysi nosil královský mundúr. Jestli jste se takhle choval u Fontenoy, to jste věru nemusel lézt z postele.“
@@ -100,3 +102,5 @@ Kouř už ve srubu zřídl a na první pohled bylo vidět, co nás stálo vítě
 „Ti, co stačili, to si můžete myslit,“ odvětil doktor, „jenže pět jich už nikdy neuteče.“
 
 „Pět!“ křikl kapitán. „To ujde. Pět proti třem, to znamená, že jsme čtyři proti devíti. Proti dřívějšku jsme na tom líp. Zprvu nás bylo sedm proti devatenácti, aspoň jsme si to mysleli, což vyjde nastejno.“[\[16\]](./resources/undefined)
+
+</section>

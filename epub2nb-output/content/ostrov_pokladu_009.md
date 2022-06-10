@@ -3,6 +3,8 @@ title: KAPITOLA II Objeví se Černý pes a zas zmizí
 contentType: prose
 ---
 
+<section>
+
 Zakrátko se pak přihodilo cosi záhadného; šťastně jsme se tím zbavili kapitána, ale jak uvidíte, ne jeho záležitostí. Byla třeskutá zima, mrzlo až praštělo a burácela vichřice; že se otec jara nedočká, to nám bylo jasné. Chřadl vůčihledně a o hostinec jsme se starali já a matka; dalo nám to dost práce, takže jsme si nepříjemného hosta moc nevšímali.
 
 Jednou v lednu, bylo ráno – štiplavé, mrazivé ráno, zátoka kalná jinovatkou, zčeřené vlny šplouchaly na kamení, nizounké slunce se drápalo na vršky a ozařovalo do dáli moře. Kapitán si přivstal a pod paží s mosazným dalekohledem, klobouk pošoupnutý do týla, zamířil k pobřeží; pod řasnatými šosy starého modrého kabátu se mu komíhala šavle. Jako teď ho vidím, kráčel rázně a jako oblak se za ním táhla pára od úst; než zahnul za skálu, slyšel jsem ho ještě zlostně zafrkat, jako by mu doktor Livesey pořád nešel z hlavy.
@@ -100,3 +102,5 @@ Společně jsme ho s nemalou námahou vytáhli po schodech nahoru a uložili do 
 Po těch slovech se odebral za otcem; mě vzal pod paží a odvedl.
 
 Jen za sebou zavřel, řekl: „Nic to není; pustil jsem mu žilou tak, že dá chvíli pokoj; jen ať si týden poleží, prospěje to jemu i vám; další mrtvice by ho dorazila.“
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA XXV Strhnu pirátskou vlajku
 contentType: prose
 ---
 
+<section>
+
 Sotva jsem se na ležatém stěžni uchytil, zplihla zevnější kosatka, a jako když z děla vystřelí, nadmula se z druhé strany. Škuner se při tom zvratu zatřásl až po kýl; ostatní plachty zůstaly napjaty, ale kosatka vzápětí zas zplihla a schlíple visela dolů.
 
 Málem mě to vymrštilo na moře; bez meškání jsem po ležatém stěžni popolezl a překulil se na palubu. Octl jsem se na závětrné straně přídě, napjatá hlavní plachta mi zakrývala kus zadní paluby. Nikde živé duše. Prkna – od počátku vzpoury je nikdo nevydrhl – byla celá zašlapaná, jako živá poletovala sem tam v odtokových rourách prázdná láhev s uraženým hrdlem.
@@ -74,3 +76,5 @@ Kormidlovou páku jsem přivázal, zašel dolů podívat se do svého kufru a vy
 Bríza nám přála. Letěli jsme jako pták, pobřeží kolem nás jen fičelo a výhled se každou chvíli měnil. Minuli jsme pahorkatinu, přehnali se kolem písčité nížiny, řídce porostlé klečí, a objeli výběžek skalnatého vrchu, jímž ostrov na severu končí.
 
 Byl jsem na své kapitánství nemálo pyšný a radoval jsem se z jasného slunného počasí i z proměnlivého vzhledu pobřeží. Měl jsem dost vody i dobrého jídla; předtím mě hryzlo svědomí, že jsem zběhl, ale nad touto kořistí se zas uklidnilo. Nic mi snad nechybělo ke štěstí, nebýt kormidelníkova uštěpačného pohledu, jímž mě všude na palubě sledoval, i toho zvláštního úsměvu, který mu pohrával na rtech. Byl to úsměv bolestný i malátný – tupý stařecký úsměv; ale jak mě při práci bez přestání potměšile pozoroval, v jeho úsměvu se tajila uštěpačnost a číhala zrada.
+
+</section>

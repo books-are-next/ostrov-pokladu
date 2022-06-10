@@ -3,6 +3,8 @@ title: KAPITOLA XXII Jak začalo mé dobrodružství na moři
 contentType: prose
 ---
 
+<section>
+
 Vzbouřenci se nevrátili – a ani jednou z lesa nevystřelili. Podle kapitánových slov „dostali na frak“, srub jsme udrželi, v klidu jsme prohlédli raněné a přichystali večeři. Bez ohledu na nebezpečí jsme vařili, zeman a já, venku, a ani tam jsme nevycházeli z hrůzy nad sténáním doktorových raněných.
 
 Z osmi padlých v boji tři dosud dýchali – pirát, postřelený u střílny, Hunter a kapitán Smollett; první dva byli ztraceni; vzbouřenec umřel doktorovi pod nožem a Hunter se přes všechno naše úsilí neprobral k vědomí. Ještě den se držel a těžce dýchal jako ten starý bukanýr u nás doma, co byl raněn mrtvicí; po tom úderu měl rozdrcený hrudník, při pádu si rozbil lebku a příští noc bez jediného posunku i zvuku odešel za svým Stvořitelem.
@@ -66,3 +68,5 @@ Usedl jsem, že počkám, až se setmí, zatím jsem se sytil suchary. Byla noc 
 Jeden byl velikánský pobřežní oheň, v bažině tam u něho popíjeli piráti. Podle druhého, pouhé světelné šmouhy ve tmě, se dala určit poloha zakotvené lodi. S odlivem se pootočila – mířila teď lící ke mně – svítili jen v kajutě; viděl jsem v mlze rozplizlý odraz světla, vyzařujícího z okna na zádi.
 
 Chvíli už trval odliv, brodil jsem se přes dlouhý pás bahnitého písku a zapadal do něho nad kotníky, až jsem došel na okraj opadávající vody. Popošel jsem kousek do moře a s nemalou silou a obratností posadil kocábku kýlem na hladinu.
+
+</section>

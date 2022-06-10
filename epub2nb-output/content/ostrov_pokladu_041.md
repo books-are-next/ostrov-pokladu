@@ -3,6 +3,8 @@ title: KAPITOLA XXIX A zase černá známka
 contentType: prose
 ---
 
+<section>
+
 Po delší poradě se k nám jeden bukanýr vrátil, zase tak ironicky (jak se mi zdálo) zasalutoval, a jestli prý by si mohl na chvilku vypůjčit louč. Silver úsečně svolil, posel se vzdálil a zůstali jsme tam potmě.
 
 „Fouká bríza, Jime,“ ozval se Silver; nasadil vlídný, přátelský tón. Přistoupil jsem k nejbližší střílně a vykoukl ven. Dohořelá hranice matně doutnala, pochopil jsem, nač potřebují spiklenci louč. Stáli v hloučku na svahu mezi srubem a palisádou; jeden jim přidržoval louč; druhý klečel uprostřed, v ruce mu střídavě od měsíce a od louče blýskala čepel otevřeného nože. Ostatní se nad ním nahýbali, jako by sledovali jeho počínání. Jak jsem zpozoroval, kromě nože měl v ruce knihu; bylo mi divné, jak k ní přišli, vždyť se k nim vůbec nehodí, a tu klečící vstal a celý hlouček se ubíral ke srubu.
@@ -86,3 +88,5 @@ Byl to kotouček zvící koruny; na jedné straně prázdný, byl to totiž posl
 Tak skončil ten pohnutý večer. Všichni jsme se napili kořalky a ulehli; za trest postavil Silver George Merryho na stráž a pohrozil mu smrtí, jestli bude nedbalý.
 
 Dlouho jsem nemohl zdřímnout a bůhví, že jsem měl o čem přemítat; o tom, jak jsem odpoledne toho chlapa skolil, o tom, v jakém jsem ožehavém postavení, a o tom, jakou hazardní hru hraje Silver – jednou rukou drží na uzdě piráty, druhou se chytá všech možných a nemožných prostředků ke smíru a k záchraně. Spal klidně a chrápal, jako když pilou řeže; ze všech stran na něho číhá nebezpečí a potupná šibenice ho nemine.
+
+</section>

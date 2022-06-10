@@ -3,6 +3,8 @@ title: KAPITOLA III Černá známka
 contentType: prose
 ---
 
+<section>
+
 Kolem poledne jsem s chladivými nápoji a léky stanul v kapitánových dveřích. Ležel, jako když jsme od něho odcházeli, jen trochu výš, byl zesláblý a rozčilený.
 
 „Jime,“ řekl, „ty jediný jsi tady k něčemu; že jsem byl na tebe hodný, to přece víš. Každý měsíc jsem ti dával stříbrný čtyrák. Jak vidíš, kamaráde, jsem na tom bledě, všichni mě opustili; přineseš mi, Jime, hlt rumu, viď, kamaráde, že mi ho přineseš?“
@@ -78,3 +80,5 @@ Kapitán a já jsme se vzpamatovali až za dlouhou chvíli; pustil jsem se jeho 
 Přitom zavrávoral, sáhl si na hrdlo, chvíli se kymácel a potom zachroptěl a střemhlav padl na zem.
 
 Běžel jsem k němu a přitom volal na matku. Ale marně jsem pospíchal. Kapitán podlehl prudkému záchvatu mrtvice. Je to divné, rád jsem ho neměl, třebaže jsem ho v poslední době litoval, ale jakmile jsem uviděl, že je mrtev, usedavě jsem se rozplakal. Zažil jsem už druhé úmrtí, a dosud jsem se nezotavil ze zármutku nad prvním.
+
+</section>

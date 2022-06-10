@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Matróz – námořník. _Pozn. red._
 
 [\[2\]](./resources/undefined) Klnout – klít, nadávat. _Pozn. red._
@@ -44,3 +46,5 @@ contentType: prose
 [\[20\]](./resources/undefined) Cvičit na povel. _Pozn. red_.
 
 [\[21\]](./resources/undefined) Mlýnské kameny. _Pozn. red._
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA XXVIII V nepřátelském táboře
 contentType: prose
 ---
 
+<section>
+
 Louč rudě ozářila vnitřek srubu a potvrdila mé obavy. Piráti se zmocnili srubu i zásob; tady je soudek koňaku, tamhle vepřové a pečivo, všechno jako dřív; a ta hrůza! Po zajatcích ani stopy. Nejspíš všichni zahynuli. Srdce mě zabolelo nad tím, že jsem nezahynul s nimi.
 
 Bukanýrů bylo celkem šest; víc jich naživu nezůstalo. Měli obličej zardělý a opuchlý, pět jich tam stálo opile rozespalých. Šestý, všecek sinalý, se opíral o loket; zakrvácený obvaz na hlavě prozrazoval, že byl nedávno raněn a před malou chvílí ošetřen. Vzpomněl jsem si, že při velkém útoku jeden postřelený utekl do lesa, nejspíš to bude on.
@@ -114,3 +116,5 @@ Všiml si mého nelíčeného úžasu a na nic se mě neptal, bylo to zbytečné
 „Skutečně mi ji dal,“ řekl. „Něco v tom asi vězí – jistě v tom, Jime, něco vězí – něco zlého nebo dobrého.“
 
 Znovu si zavdal koňaku a jako člověk připravený na nejhorší pokýval velkou plavou hlavou.
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA XV Ostrovan
 contentType: prose
 ---
 
+<section>
+
 Na úbočí strmého a kamenitého kopce se uvolnila suť a s řinkotem a poskakováním se mezi stromy sypala dolů. Maně jsem pohlédl tím směrem a uviděl jsem, jak něco hbitě uskočilo za kmen borovice. Jestli je to medvěd, člověk nebo opičák, to jsem nerozeznal. Věděl jsem jen, že je snědý a střapatý. Tak jsem se toho strašidla lekl, že jsem zůstal stát.
 
 Jsem z obou stran zaskočen, napadlo mě; za mnou jsou vrazi, vpředu číhá nějaké záhadné stvoření. Nebezpečí, které znám, se mi zdálo lepší než to, které neznám. Proti lesnímu zjevení ani Silver nevypadal tak strašně. Otočil jsem se tedy na patě, stále jsem se ohlížel a couval jsem za sebe zpátky k člunům.
@@ -114,3 +116,5 @@ Běžel jsem a on stále tlachal, na odpověď nečekal a také ji nedostal.
 Až za dlouhou chvíli po výstřelu z děla se ozvala salva z pušek.
 
 Znovu se rozhostilo ticho, a tu jsem ani ne čtvrt míle před sebou viděl, jak nad lesem vlaje britská vlajka.
+
+</section>

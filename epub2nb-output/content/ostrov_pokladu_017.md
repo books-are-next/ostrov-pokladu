@@ -3,6 +3,8 @@ title: KAPITOLA IX Prach a zbraně
 contentType: prose
 ---
 
+<section>
+
 _Hispaniola_ kotvila kus od hráze, mnoho klounů[\[10\]](./resources/undefined) a zádí jsme podjeli, hned nám lodní lana drhla kýl, hned se zas houpala nad námi. Nakonec jsme k ní přirazili, vystoupili na palubu a tam nás přivítal kormidelník, pan Arrow, osmahlý starý námořník; v uších měl náušnice a šilhal. Se zemanem si dobře rozuměl, ale jak jsem si všiml, méně si s panem Trelawneym rozuměl kapitán.
 
 Byl to člověk nerudný, nic mu na palubě nebylo vhod, proč, to nám brzo vysvětlil; sotva jsme slezli do kajuty, přišel totiž za námi nějaký námořník.
@@ -120,3 +122,5 @@ Jak jsem běžel kolem něho, zaslechl jsem, jak před doktorem láteří.
 „Žádné mazlíčky na své lodi nestrpím.“
 
 Ujišťuji vás, že jsem se přidal k zemanovu mínění a z hloubi duše na kapitána zanevřel.
+
+</section>

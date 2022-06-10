@@ -3,6 +3,8 @@ title: KAPITOLA X Plavba
 contentType: prose
 ---
 
+<section>
+
 Celou noc bylo na lodi rušno, jak jsme poklízeli, kam co patří, a zemanovi přátelé, Blandly a jiní, se houfem sjížděli na loďkách popřát mu příjemnou cestu a šťastný návrat. Tolik práce jsem u Admirála Benbowa neměl ani jeden večer; když pak před svítáním dělmistr zapískal a mužstvo nastoupilo k vratidlu, byl jsem k smrti utrmácený. Ale při vší utrmácenosti se mi z paluby nechtělo; všechno mi bylo nové a poutavé – úsečné povely, ostrý hvizd píšťaly, mužstvo spěchající za blikání lodních luceren do práce.
 
 „Spusť nějakou, Rožni,“ ozval se někdo.
@@ -70,3 +72,5 @@ Projeli jsme napříč pasáty, až jsme zachytili vítr vanoucí k našemu ostr
 Slunce zapadalo, měl jsem po práci, už jsem se ubíral na kutě, a tu jsem dostal chuť na jablko. Vyběhl jsem na palubu. Hlídky usilovně vyhlížely ostrov. Muž u kormidla pozoroval návětrnou plachtu a tiše si hvízdal; jinak se ozývalo jen šplíchání moře na přídi a na bocích.
 
 Vlezl jsem do bečky a zjistil, že je jablek poskrovnu; v šeru jsem tam usedl, od šplouchání a kolébání jsem zdříml nebo snad teprve usínal, a tu sebou někdo řachl vedle bečky. Opřel se o ni zády, až se zatřásla; už jsem chtěl vyskočit, a vtom ten člověk promluvil. Podle hlasu to byl Silver. Jen jsem zaslechl pár slov, přešla mě chuť ukázat se mu, z bázně i zvědavosti jsem zůstal ležet a všecek rozechvěn napínal uši; z těch pár slov jsem totiž vyrozuměl, že za život všech poctivých lidí na lodi odpovídám já sám.
+
+</section>

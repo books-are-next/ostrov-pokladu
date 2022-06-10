@@ -3,6 +3,8 @@ title: KAPITOLA XXVII „Dukáty“
 contentType: prose
 ---
 
+<section>
+
 Protože loď ležela na boku, stěžně čněly nad vodou; jako na hřadu jsem seděl na kosové příčce, pod sebou hladinu zátoky. Hands tak daleko nedolezl, a protože byl blíž lodi, spadl do vody mezi mnou a brlením. V zpěněném krvavém šumu se vynořil a zapadl nadobro. Když se voda utišila, viděl jsem, jak tam ve stínu lodního boku leží schoulen na čistém lesklém písku. Ryby se kolem něho jen míhaly. Chvílemi jako by se v rozvlněné vodě hýbal nebo vstával. A zatím bylo po něm, nadobro po něm, byl zastřelen, utopil se a proměnil se v potravu rybám přímo tam, kde mi ukládal o život.
 
 Jen jsem si to uvědomil, přepadla mě nevolnost, mdloba a hrůza. Horkost mi zalila záda i prsa. Dýka, kterou jsem byl za rameno připíchnut ke stěžni, mě pálila jako žhavé železo; samotná bolest mě tolik neznepokojovala, ta se dala bez reptání vydržet; trnul jsem hrůzou, že z kosové příčky spadnu do zelené vody a zůstanu tam ležet vedle mrtvého kormidelníka.
@@ -72,3 +74,5 @@ Dal jsem se na útěk, do někoho jsem vrazil, odlétl a padl do náruče jiném
 Byl jsem chycen. „Dicku, přines světlo,“ ozval se Silver.
 
 Jeden námořník vyšel ze srubu a vzápětí se vrátil se zapálenou loučí.
+
+</section>

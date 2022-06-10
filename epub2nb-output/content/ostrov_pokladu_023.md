@@ -3,6 +3,8 @@ title: KAPITOLA XIV První rána
 contentType: prose
 ---
 
+<section>
+
 Plesal jsem radostí nad tím, jak jsem Dlouhému Johnovi upláchl, a se zájmem jsem si prohlížel tu podivnou zemi, v níž jsem se octl.
 
 Prošel jsem slatinu, porostlou vrbami, sítinami a nezvyklými cizokrajnými bahenními stromy, a stanul na kraji širé zvlněné písčiny, táhnoucí se asi na míli daleko. Místy tam rostly borovice a spousta pokroucených stromů, vzrůstem podobných dubům, jenže listí měly bledé jako vrby. Na konci písčiny čněl do výše pitvorně rozsochatý kopec a nápadně se leskl na slunci.
@@ -64,3 +66,5 @@ Jsem nadobro ztracený. Copak si po výstřelu z děla troufnu slézt k člunům
 Jak už jsem řekl, stále jsem běžel, až jsem maně doběhl k úpatí chlumku se dvěma vršky a octl se v končinách, kde rostly cesmíny dál od sebe a uspořádáním i vzhledem připomínaly spíš pěstěný les. Mezi nimi rostlo pár borovic, některé měřily padesát, některé skoro sedmdesát stop. Také vzduch tam byl svěžejší než dole u slatiny.
 
 Náhlým leknutím jsem se zarazil, až se mi rozbušilo srdce.
+
+</section>

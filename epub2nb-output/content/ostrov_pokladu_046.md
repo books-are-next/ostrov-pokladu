@@ -3,6 +3,8 @@ title: KAPITOLA XXXIV A poslední
 contentType: prose
 ---
 
+<section>
+
 Záhy zrána jsme se dali do práce; tolik zlata dopravit po souši k pobřeží a odtamtud tři míle člunem na _Hispaniolu_ byl pro naši hrstku lidí nemalý úkol. Ti tři, co se potulovali po ostrově, nám nedělali těžkou hlavu, proti náhlému přepadu postačí postavit na úbočí stráž, bojování mají asi po krk.
 
 Chutě jsme se měli k dílu, Gray a Ben Gunn jezdili s člunem tam a zpátky, než se vrátili, druzí jim zatím naskládali poklad na břeh. Dospělý měl co dělat, aby unesl dva svázané pruty – a to musel jít pomalu. Na nošení jsem nebyl nic platný, a tak jsem ve sluji celý den pilně sypal mince do pytlíků od sucharů.
@@ -59,3 +61,5 @@ Z pokladu jsme každý dostali vydatný podíl a užili ho moudře i nemoudře, 
 O Silverovi jsme se už nic nedověděli. Konečně zmizel ten příšerný jednonohý matróz z mého života; nic bych za to nedal, že se shledal se svou starou černoškou a je mu s ní a s kapitánem Flintem dobře. Doufejme; že by mu jednou bylo dobře na onom světě, to už není tak jisté.
 
 Pokud je mi známo, stříbrné pruty a zbraně leží dosud tam, kde je Flint zahrabal; pro mě za mě, ať si tam leží. Ani párem volů mě na ten prožluklý ostrov nikdo nedostane; v tíživých snech dosud slýchám, jak kolem jeho břehů burácí příboj, a kolikrát se vytrhnu ze spaní, to jak mi do uší zalehne pronikavý hlas kapitána Flinta: „Dukáty! Dukáty!“
+
+</section>

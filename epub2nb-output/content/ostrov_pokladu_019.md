@@ -3,6 +3,8 @@ title: KAPITOLA XI Co jsem zaslechl v bečce s jablky
 contentType: prose
 ---
 
+<section>
+
 „Kdepak, já ne,“ řekl Silver. „Kapitánem byl Flint; já jsem byl jenom podnálodním, to kvůli té dřevěné noze. Na jedinou salvu přišel starý Pew o oči a já zas o nohu. Však mi ji amputoval znamenitý felčar – vystudoval univerzitu – latinsky mluvil, jako když bičem mrská; stejně ho pak v Corso Castle oběsili jako psa a spolu s ostatními nechali uschnout na slunci. Samí chlapi z Robertova mužstva – to měli z toho, že lodi překřtívali, jednou na _Královský poklad_, podruhé zas jinak. Já říkám, jak se loď pokřtí, tak ať se jmenuje. Tak to dopadlo s _Kasandrou,_ co nás z Malabaru šťastně dovezla domů, když England ukořistil Indického místokrále; tak to udělali s milým Flintovým korábem _Mrožem_, pamatuju si, jak mokval krví a jak se potápěl pod tíhou zlata.“
 
 „Jojo,“ ozval se někdo nadšeně (podle hlasu to byl náš nejmladší plavčík), „Flint byl výkvět kapitánů, to je jisté.“
@@ -82,3 +84,5 @@ Tu chvilku, co byl Dick pryč, šalupář neustále šeptal kuchaři do ucha. Za
 Dick se vrátil a každý z té trojice si pak zavdal ze džbánku – jeden řekl: „Mnoho zdaru,“ druhý: „Na zdraví starému Flintovi,“ Silver sám zpěvavě připil: „Ať máme štěstí, dobrý vítr do plachet, hodně pokladů a ať nejsme o hladu.“
 
 Tu se v bečce rozjasnilo, zdvihl jsem hlavu: na oblohu vyšel měsíc, stříbřil vršek křížového koše a světlem zaléval návětrnou stranu spodní čelní plachty; v tu chvíli někdo ze stožárového koše houkl: „Země!“
+
+</section>

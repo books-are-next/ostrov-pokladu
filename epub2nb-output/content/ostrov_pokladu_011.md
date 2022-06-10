@@ -3,6 +3,8 @@ title: KAPITOLA IV Námořní kufr
 contentType: prose
 ---
 
+<section>
+
 Samozřejmě jsem matce všechno vypověděl – snad jsem jí to měl povědět už dávno – oba jsme se octli ve svízelném a nebezpečném postavení. Něco z jeho peněz – jestli nějaké má – patří nám; ale že by kapitánovi matrózi, zejména ti dva kumpáni, které jsem zahlédl, Černý pes a slepý žebrák, byli ochotni uhradit z kořisti nebožtíkovy dluhy, tomu se nám nechtělo věřit. Když podle kapitánova příkazu sednu na koně a rozjedu se k doktorovi Liveseymu, zůstane tam matka sama a bez ochrany; na to nebylo ani pomyšlení. Že nemůžeme v domě dlouho zůstat, to jsme věděli oba. Lekal nás šramot uhlí, propadávajícího kuchyňským roštem, ba i tikot hodin. Všude kolem bylo slyšet, jak se blíží kroky; z kapitánovy mrtvoly, ležící na podlaze jizby, a z představy žebráka, který se zdržuje někde nablízku, mi, jak se říká, běhal mráz po zádech. Něco se honem musí stát; tu mě napadlo, že půjdem spolu do vesničky vyžádat pomoc. Hned jsme to udělali. Jak jsme byli, prostovlasí jsme se rozběhli do houstnoucího šera a mrazivé mlhy.
 
 Do vesničky bylo od nás jen pár set yardů, nebylo ji však vidět, ležela na druhé straně zátoky, a co mě zvlášť těšilo, v opačném směru, než odkud přišel a kam se asi vrátil slepý žebrák. Dlouho nám cesta netrvala, třebaže jsme chvílemi zůstávali stát, drželi se za ruce a napínali sluch. Ale nic zvláštního se neozývalo – jenom vlnky se čeřily na pobřeží a z lesa krákaly vrány.
@@ -58,3 +60,5 @@ Horempádem jsme dotápali dolů, svíčku jsme nechali vedle prázdného kufru;
 „Milý chlapče,“ ozvala se matka, „vezmi peníze a běž. Já omdlívám.“
 
 Je po nás navždy veta, napadlo mě. Proklínal jsem sousedy, že jsou tak zbabělí; zazlíval jsem matce, že je tak poctivá i lakotná, napřed nerozvážná a teď malomyslná! Naštěstí jsme zrovna došli k můstku; pomohl jsem vrávorající matce ke břehu a ona se mi s povzdechem svalila na rameno. Bůh ví, kde se ve mně vzalo tolik síly, moc šetrně jsem si při tom nepočínal; stáhl jsem ji z břehu dolů a šoupl ji kousek pod mostní oblouk. Dál to nešlo, most byl úzký, taktak že jsem pod něj vlezl po čtyřech. Nezbylo nám než tam zůstat na doslech od hostince – matka přitom trčela skoro celá ven.
+
+</section>

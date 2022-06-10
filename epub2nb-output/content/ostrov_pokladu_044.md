@@ -3,6 +3,8 @@ title: KAPITOLA XXXII Hledání pokladu – hlas za stromy
 contentType: prose
 ---
 
+<section>
+
 Hlouček, dosud otřesený tím leknutím, vystoupil na planinu a tam usedl, aby si Silver a nemocní odpočinuli.
 
 K západu se planina svažovala, z místa, kde jsme odpočívali, byl výhled na obě strany. Vpředu za vrcholky stromů se rýsoval Lesní mys, lemovaný vlnobitím; vzadu bylo vidět kotviště a Kostlivčí ostrov a na východě za výběžkem a východní nížinou se táhlo širé moře. Přímo nad námi strměl Dalekohled, místy porostlý jedlemi, místy rozrytý černými stržemi. Nic nebylo slyšet, jenom v dáli ze všech stran doléhal příboj a v kleči bzučel nespočetný hmyz. Nikde živá duše, žádná plachta na moři; samota byla tím dalekým výhledem ještě tíživější.
@@ -99,3 +101,5 @@ Uběhli sotva deset yardů a zčistajasna zůstali stát. Tlumeně vykřikli. Si
 Zela před námi jáma, vykopaná už dřív, stěny se totiž zbortily a na dně vypučela tráva. Ležel v ní přeražený topor krumpáče a rozházená prkýnka z beden. Na jednom jsem zahlédl vypálené slovo _Mrož –_ tak se jmenovala Flintova loď.
 
 Bylo to nad slunce jasné. Někdo skrýš objevil a vyhrabal: sedm set tisíc liber bylo pryč.
+
+</section>

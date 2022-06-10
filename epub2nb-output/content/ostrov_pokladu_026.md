@@ -3,6 +3,8 @@ title: 'KAPITOLA XVI Dále vypravuje doktor: Jak odešli z lodi'
 contentType: prose
 ---
 
+<section>
+
 Bylo kolem půl druhé – po námořnicku se říká třetí zvonění – když oba čluny odjely od _Hispanioly_ ke břehu. Kapitán, zeman a já jsme rokovali v kajutě. Při sebeslabším vánku těch šest vzbouřenců, co zbyli s námi na lodi, klidně přemůžeme, povolíme lano a odplujeme na moře. Jenže nefoukal vítr; a aby naše bezradnost byla úplná, přišel nám Hunter oznámit, že do jednoho člunu vklouzl Jim Hawkins a odplul s ostatními.
 
 Pochybovat o Jimu Hawkinsovi nás ani nenapadlo; jenom jsme trnuli, aby se mu něco nestalo. Vzhledem k tomu, v jakém rozpoložení je mužstvo, nedoufali jsme, že se s mládenečkem ještě shledáme. Vyběhli jsme na palubu. Ve spárách se škvařil dehet; bylo mi nanic z toho ohavného puchu; hnusné kotviště přímo čpělo zimnicí a úplavicí. Pod plachtou na přídi sedělo a brumlalo těch šest ničemů; u samého ústí řeky bylo na břehu vidět upevněné čluny, v každém seděl námořník. Jeden si hvízdal „Lillibullero.“
@@ -74,3 +76,5 @@ Najednou bylo slyšet strkanici a rány, a Abraham Gray, líc rozseknutou nožem
 Vzápětí skočil i s kapitánem k nám do joly, hned jsme odrazili a ozlomvaz ujížděli pryč.
 
 Z lodi jsme se dostali, ale do srubu na ostrově bylo ještě daleko.
+
+</section>
