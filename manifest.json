@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stevenson-ostrov-pokladu-167d1ed",
-  "revision": "167d1ed",
+  "identifier": "stevenson-ostrov-pokladu-c86cf98",
+  "revision": "c86cf98",
   "readingOrder": [
     "promo.html",
     "ostrov_pokladu_005.html",
@@ -58,8 +58,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:56:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157397372
+    "date": "Wed Jun 15 2022 05:54:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272440814
   },
   "documents": [
     {
@@ -937,9 +937,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 120,
-      "chars": 790,
-      "ideas": 14,
+      "words": 139,
+      "chars": 925,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "ostrov_pokladu_047.html",
@@ -957,9 +957,9 @@
   ],
   "totals": {
     "all": {
-      "words": 49893,
-      "chars": 289751,
-      "ideas": 1494
+      "words": 49912,
+      "chars": 289886,
+      "ideas": 1495
     },
     "chapters": {
       "words": 49766,
