@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stevenson-ostrov-pokladu-ba9de1f",
-  "revision": "ba9de1f",
+  "identifier": "stevenson-ostrov-pokladu-f12736c",
+  "revision": "f12736c",
   "readingOrder": [
     "promo.html",
     "ostrov_pokladu_005.html",
@@ -58,8 +58,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 08:34:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657182889637
+    "date": "Thu Jul 07 2022 10:04:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657188242328
   },
   "documents": [
     {
