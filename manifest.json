@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stevenson-ostrov-pokladu-d5395c9",
-  "revision": "d5395c9",
+  "identifier": "stevenson-ostrov-pokladu-ba9de1f",
+  "revision": "ba9de1f",
   "readingOrder": [
     "promo.html",
     "ostrov_pokladu_005.html",
@@ -55,11 +55,11 @@
     "ostrov_pokladu_045.html",
     "ostrov_pokladu_046.html",
     "ostrov_pokladu_047.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:19:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979546526
+    "date": "Thu Jul 07 2022 08:34:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182889637
   },
   "documents": [
     {
@@ -148,7 +148,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA I Starý mořský vlk – U Admirála Benbowa",
+          "name": "KAPITOLA I Starý mořský vlk – U Admirála Benbowa",
           "id": null,
           "children": []
         }
@@ -168,7 +168,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA II Objeví se Černý pes a zas zmizí",
+          "name": "KAPITOLA II Objeví se Černý pes a zas zmizí",
           "id": null,
           "children": []
         }
@@ -208,7 +208,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA IV Námořní kufr",
+          "name": "KAPITOLA IV Námořní kufr",
           "id": null,
           "children": []
         }
@@ -228,7 +228,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA V Slepcův konec",
+          "name": "KAPITOLA V Slepcův konec",
           "id": null,
           "children": []
         }
@@ -248,7 +248,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA VI Kapitánovy listiny",
+          "name": "KAPITOLA VI Kapitánovy listiny",
           "id": null,
           "children": []
         }
@@ -288,7 +288,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA VII Odjíždím do Bristolu",
+          "name": "KAPITOLA VII Odjíždím do Bristolu",
           "id": null,
           "children": []
         }
@@ -308,7 +308,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA VIII U Dalekohledu",
+          "name": "KAPITOLA VIII U Dalekohledu",
           "id": null,
           "children": []
         }
@@ -328,7 +328,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA IX Prach a zbraně",
+          "name": "KAPITOLA IX Prach a zbraně",
           "id": null,
           "children": []
         }
@@ -348,7 +348,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA X Plavba",
+          "name": "KAPITOLA X Plavba",
           "id": null,
           "children": []
         }
@@ -368,7 +368,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XI Co jsem zaslechl v bečce s jablky",
+          "name": "KAPITOLA XI Co jsem zaslechl v bečce s jablky",
           "id": null,
           "children": []
         }
@@ -408,7 +408,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DÍL TŘETÍ MÉ DOBRODRUŽSTVÍ NA SOUŠI",
+          "name": "DÍL TŘETÍ MÉ DOBRODRUŽSTVÍ NA SOUŠI",
           "id": null,
           "children": []
         }
@@ -428,7 +428,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XIII Jak začalo mé dobrodružství na souši",
+          "name": "KAPITOLA XIII Jak začalo mé dobrodružství na souši",
           "id": null,
           "children": []
         }
@@ -468,7 +468,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XV Ostrovan",
+          "name": "KAPITOLA XV Ostrovan",
           "id": null,
           "children": []
         }
@@ -508,7 +508,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XVI Dále vypravuje doktor: Jak odešli z lodi",
+          "name": "KAPITOLA XVI Dále vypravuje doktor: Jak odešli z lodi",
           "id": null,
           "children": []
         }
@@ -528,7 +528,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XVII Dále vypravuje doktor: Jola na poslední cestě",
+          "name": "KAPITOLA XVII Dále vypravuje doktor: Jola na poslední cestě",
           "id": null,
           "children": []
         }
@@ -568,7 +568,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XIX Vyprávění se znovu ujímá Jim Hawkins: Posádka v palisádě",
+          "name": "KAPITOLA XIX Vyprávění se znovu ujímá Jim Hawkins: Posádka v palisádě",
           "id": null,
           "children": []
         }
@@ -588,7 +588,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XX Silverovo poselství",
+          "name": "KAPITOLA XX Silverovo poselství",
           "id": null,
           "children": []
         }
@@ -628,7 +628,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DÍL PÁTÝ MÉ DOBRODRUŽSTVÍ NA MOŘI",
+          "name": "DÍL PÁTÝ MÉ DOBRODRUŽSTVÍ NA MOŘI",
           "id": null,
           "children": []
         }
@@ -648,7 +648,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXII Jak začalo mé dobrodružství na moři",
+          "name": "KAPITOLA XXII Jak začalo mé dobrodružství na moři",
           "id": null,
           "children": []
         }
@@ -688,7 +688,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXIV Jak jsem křižoval v kocábce",
+          "name": "KAPITOLA XXIV Jak jsem křižoval v kocábce",
           "id": null,
           "children": []
         }
@@ -788,7 +788,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXVIII V nepřátelském táboře",
+          "name": "KAPITOLA XXVIII V nepřátelském táboře",
           "id": null,
           "children": []
         }
@@ -808,7 +808,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXIX A zase černá známka",
+          "name": "KAPITOLA XXIX A zase černá známka",
           "id": null,
           "children": []
         }
@@ -828,7 +828,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXX Na čestné slovo",
+          "name": "KAPITOLA XXX Na čestné slovo",
           "id": null,
           "children": []
         }
@@ -868,7 +868,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXII Hledání pokladu – hlas za stromy",
+          "name": "KAPITOLA XXXII Hledání pokladu – hlas za stromy",
           "id": null,
           "children": []
         }
@@ -908,7 +908,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXIV A poslední",
+          "name": "KAPITOLA XXXIV A poslední",
           "id": null,
           "children": []
         }
@@ -923,7 +923,7 @@
       "role": "chapter",
       "order": 43,
       "prev": "ostrov_pokladu_046.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -936,11 +936,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 139,
-      "chars": 925,
+      "chars": 924,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "ostrov_pokladu_047.html",
       "next": null,
@@ -958,7 +958,7 @@
   "totals": {
     "all": {
       "words": 49912,
-      "chars": 289886,
+      "chars": 289885,
       "ideas": 1495
     },
     "chapters": {

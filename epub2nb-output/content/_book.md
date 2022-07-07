@@ -58,7 +58,7 @@ readingOrder:
   - ostrov_pokladu_045.html
   - ostrov_pokladu_046.html
   - ostrov_pokladu_047.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

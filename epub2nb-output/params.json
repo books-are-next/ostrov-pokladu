@@ -64,7 +64,7 @@
             "filename": "ostrov_pokladu_003.md",
             "xhtml": "ostrov_pokladu_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "ostrov_pokladu_004.md",
             "xhtml": "ostrov_pokladu_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -647,7 +647,7 @@
             "filename": "ostrov_pokladu_048.md",
             "xhtml": "ostrov_pokladu_048.html",
             "id": 47,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -1053,6 +1053,6 @@
       "user": "books-are-next",
       "repo": "ostrov-pokladu"
     },
-    "generatedAt": 1655979279921
+    "generatedAt": 1657182259112
   }
 }
