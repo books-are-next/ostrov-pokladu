@@ -84,7 +84,7 @@ Na Dicka však nic neplatilo; bylo mu zle, a jak doktor Livesey předvídal, val
 
 Pěkně se nám kráčelo nahoře na volném prostranství; trochu to šlo z kopce, jak jsem už podotkl, planina se svažovala k západu. Větší i menší borovice tam rostly kus od sebe; na slunci prahly prostorné mýtiny mezi shluky muškátového ořeší a azalek. Přetínali jsme ostrov téměř severozápadním směrem a blížili se k úbočí Dalekohledu: stále víc se před námi rozevíral pohled na západní záliv, kde jsem se kdysi zmítal a třásl v kocábce.
 
-Došli jsme k prvnímu vysokému stromu, podle měření to nebyl ten pravý. Stejně tak druhý. Třetí čněl z podrostu do výše nějakých dvou set stop; hotový obr s mohutným rudým pněm a s korunou, že pod ní setnina mohla execírovat[\[20\]](./resources/undefined). Z moře ho bylo zdaleka vidět od východu i od západu, klidně se dal na mapě zakreslit jako námořnická značka.
+Došli jsme k prvnímu vysokému stromu, podle měření to nebyl ten pravý. Stejně tak druhý. Třetí čněl z podrostu do výše nějakých dvou set stop; hotový obr s mohutným rudým pněm a s korunou, že pod ní setnina mohla execírovat[^20]. Z moře ho bylo zdaleka vidět od východu i od západu, klidně se dal na mapě zakreslit jako námořnická značka.
 
 Ale víc než ten statný strom vábilo mé druhy pomyšlení, že někde v jeho rozložitém stínu je zakopáno sedm set tisíc liber ve zlatě. Jak jsme k němu docházeli, představa peněz v nich stále víc zaháněla strach. Oči jim jiskřily, kroky se zrychlovaly, celou duší se upínali k bohatství, které tam na ně čeká a do smrti jim vystačí na hýření a radovánky.
 
@@ -103,3 +103,45 @@ Zela před námi jáma, vykopaná už dřív, stěny se totiž zbortily a na dn�
 Bylo to nad slunce jasné. Někdo skrýš objevil a vyhrabal: sedm set tisíc liber bylo pryč.
 
 </section>
+
+[^1]: Matróz – námořník. _Pozn. red._
+
+[^2]: Klnout – klít, nadávat. _Pozn. red._
+
+[^3]: Švadronit – rychle drmolivě mluvit. _Pozn. red._
+
+[^4]: Sešlý, vetchý. _Pozn. red._
+
+[^5]: Smotaný žvýkací tabák. _Pozn. red._
+
+[^6]: Nádoba na uchovávání troudu, tj. suché, snadno zápalné látky. _Pozn. red._
+
+[^7]: Přístroj k určování místa podle polohy hvězd. _Pozn. red._
+
+[^8]: Kyvadlové hodiny. _Pozn. red._
+
+[^9]: Dovětek, dodatek. _Pozn. red._
+
+[^10]: Kloun – mohutná špičatá zbraň umístěná pod čarou ponoru na přídi. Svým hrotem sloužila k proražení boku nepřátelské lodi. _Pozn. red._
+
+[^11]: Šalupa – dlouhý člun určený k dopravě mezi kotvící lodí a břehem. _Pozn. red._
+
+[^12]: Staré přísloví (15. stol.), „kdo chodí kolem močálu, bažiny, ten se nachladí“, tj. nelze jednat nečestně bez následků. _Pozn. red._
+
+[^13]: Parduna – součást pevného lanoví, zadní a postranní lano slouží k výstuze stěžňů a čnělek. _Pozn. red._
+
+[^14]: Jola – otevřený sportovní člun s plachtami. _Pozn. red._
+
+[^15]: Zábradlí, ohrazení. _Pozn. red._
+
+[^16]: Brzo bylo vzbouřenců jen osm, námořník ze škuneru, postřelený panem Trelawneyem, ještě ten večer zranění podlehl. Ti, co zůstali, se to ovšem dověděli až později.
+
+[^17]: Kosatka – trojúhelníková plachta nad přídí lodi. _Pozn. red._
+
+[^18]: Stěh – lano spojující stěžeň s trupem a zajišťující jeho lepší stabilitu. _Pozn. red_.
+
+[^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.
+
+[^20]: Cvičit na povel. _Pozn. red_.
+
+[^21]: Mlýnské kameny. _Pozn. red._

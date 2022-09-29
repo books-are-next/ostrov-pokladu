@@ -39,7 +39,7 @@ Byl už nejvyšší čas; trýznila mě žízeň. Od sálavého slunce na obloze
 
 Necelou půl míli před sebou jsem spatřil plout _Hispaniolu._ Že mě zajmou, bylo jisté, ale byl jsem tou vyprahlostí tak zmožen, že jsem ani nevěděl, jestli mám jásat nebo truchlit; než jsem se na něčem ustálil, zmocnil se mě úžas, jen jsem vyjeveně zíral, na víc jsem se nezmohl.
 
-Na _Hispaniole_ byla vytažena hlavní plachta a dvě kosatky[\[17\]](./resources/undefined), jako sníh nebo stříbro svítily na slunci, tak byly bělostné. Když jsem _Hispaniolu_ zahlédl, všechny plachty se jí nadouvaly, plula přibližně na severozápad; usoudil jsem z toho, že se ti, kdo ji řídí, vracejí kolem ostrova na kotviště. Najednou se stočila víc na západ; pomyslil jsem si, že mě zahlédli a teď mě pronásledují. Ale potom se postavila přímo proti větru a se schlíplými plachtami zůstala bezradně trčet na místě.
+Na _Hispaniole_ byla vytažena hlavní plachta a dvě kosatky[^17], jako sníh nebo stříbro svítily na slunci, tak byly bělostné. Když jsem _Hispaniolu_ zahlédl, všechny plachty se jí nadouvaly, plula přibližně na severozápad; usoudil jsem z toho, že se ti, kdo ji řídí, vracejí kolem ostrova na kotviště. Najednou se stočila víc na západ; pomyslil jsem si, že mě zahlédli a teď mě pronásledují. Ale potom se postavila přímo proti větru a se schlíplými plachtami zůstala bezradně trčet na místě.
 
 „Takoví nešikové,“ řekl jsem si, „to jsou asi pod obraz. Kapitán Smollett by je pěkně prohnal.“
 
@@ -61,6 +61,48 @@ Byl jsem od ní necelých sto yardů, a tu znovu zadul prudce vítr; plachty na 
 
 Užuž jsem si zoufal, ale najednou jsem se zaradoval. Loď se ke mně otočila bokem – točila se dál, až urazila polovinu, dvě třetiny, tři čtvrtiny vzdálenosti, která mě od ní oddělovala. Pod kýlem jí vřely vlny. Z hloubi kocábky vypadala obrovsky vysoká.
 
-A tu se mi v hlavě rozbřesklo. Na přemýšlení nebylo kdy – málem ani ne na záchranu. Škuner rozrážel jednu vlnu, já jsem byl na temeni druhé. Nad hlavou jsem měl čelní stěžeň. Skokem jsem se odrazil od kocábky a vyskočil. Jednou rukou jsem se chytil stěhlového trámu a nohy zapřel mezi stěh[\[18\]](./resources/undefined) a zvratné lano; bez dechu jsem se tam přitiskl, a tu jsem zaslechl tupý úder, to jak škuner nárazem rozdrtil kocábku; uvědomil jsem si, že z _Hispanioly_ už couvnout nemohu.
+A tu se mi v hlavě rozbřesklo. Na přemýšlení nebylo kdy – málem ani ne na záchranu. Škuner rozrážel jednu vlnu, já jsem byl na temeni druhé. Nad hlavou jsem měl čelní stěžeň. Skokem jsem se odrazil od kocábky a vyskočil. Jednou rukou jsem se chytil stěhlového trámu a nohy zapřel mezi stěh[^18] a zvratné lano; bez dechu jsem se tam přitiskl, a tu jsem zaslechl tupý úder, to jak škuner nárazem rozdrtil kocábku; uvědomil jsem si, že z _Hispanioly_ už couvnout nemohu.
 
 </section>
+
+[^1]: Matróz – námořník. _Pozn. red._
+
+[^2]: Klnout – klít, nadávat. _Pozn. red._
+
+[^3]: Švadronit – rychle drmolivě mluvit. _Pozn. red._
+
+[^4]: Sešlý, vetchý. _Pozn. red._
+
+[^5]: Smotaný žvýkací tabák. _Pozn. red._
+
+[^6]: Nádoba na uchovávání troudu, tj. suché, snadno zápalné látky. _Pozn. red._
+
+[^7]: Přístroj k určování místa podle polohy hvězd. _Pozn. red._
+
+[^8]: Kyvadlové hodiny. _Pozn. red._
+
+[^9]: Dovětek, dodatek. _Pozn. red._
+
+[^10]: Kloun – mohutná špičatá zbraň umístěná pod čarou ponoru na přídi. Svým hrotem sloužila k proražení boku nepřátelské lodi. _Pozn. red._
+
+[^11]: Šalupa – dlouhý člun určený k dopravě mezi kotvící lodí a břehem. _Pozn. red._
+
+[^12]: Staré přísloví (15. stol.), „kdo chodí kolem močálu, bažiny, ten se nachladí“, tj. nelze jednat nečestně bez následků. _Pozn. red._
+
+[^13]: Parduna – součást pevného lanoví, zadní a postranní lano slouží k výstuze stěžňů a čnělek. _Pozn. red._
+
+[^14]: Jola – otevřený sportovní člun s plachtami. _Pozn. red._
+
+[^15]: Zábradlí, ohrazení. _Pozn. red._
+
+[^16]: Brzo bylo vzbouřenců jen osm, námořník ze škuneru, postřelený panem Trelawneyem, ještě ten večer zranění podlehl. Ti, co zůstali, se to ovšem dověděli až později.
+
+[^17]: Kosatka – trojúhelníková plachta nad přídí lodi. _Pozn. red._
+
+[^18]: Stěh – lano spojující stěžeň s trupem a zajišťující jeho lepší stabilitu. _Pozn. red_.
+
+[^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.
+
+[^20]: Cvičit na povel. _Pozn. red_.
+
+[^21]: Mlýnské kameny. _Pozn. red._

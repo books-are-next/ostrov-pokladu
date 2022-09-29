@@ -27,7 +27,7 @@ Hned jsem poklekl. Na zemi mu vedle ruky ležel papírový kotouček, na jedné 
 
 „A teď klíč, Jime,“ řekla.
 
-Jednu po druhé jsem mu prohledal kapsy. Bylo v nich pár drobných mincí, náprstek, cívka s velikými jehlami, skrutlík[\[5\]](./resources/undefined) s ukousnutým koncem, zavírák s křivou násadkou, kapesní kompas, troudník[\[6\]](./resources/undefined), už jsem ztrácel naději.
+Jednu po druhé jsem mu prohledal kapsy. Bylo v nich pár drobných mincí, náprstek, cívka s velikými jehlami, skrutlík[^5] s ukousnutým koncem, zavírák s křivou násadkou, kapesní kompas, troudník[^6], už jsem ztrácel naději.
 
 „Třeba ho má pověšený na krku,“ prohodila matka.
 
@@ -37,7 +37,7 @@ Zvenku vypadal jako obyčejný námořnický kufr, na víku měl vypálen monogr
 
 „Podej mi klíč,“ řekla matka; zámek šel sice ztěžka, ale vmžiku ho otevřela a převrátila víko.
 
-Začpělo to ostře tabákem a dehtem, ale nahoře bylo vidět jen pěkné nové šaty, pečlivě vykartáčované a složené. Matce se zdálo, že je vůbec nenosil. Pod tím pak začínala směsice všeho možného – kvadrant[\[7\]](./resources/undefined), cínová konvice, pár paklíků tabáku, dva páry hezkých pistolí, stříbrný prut, staré španělské hodinky a jiné trety nevalné ceny, většinou cizího původu, mosazné kružítko a pět šest prapodivných západoindických mušlí. Kolikrát jsem si pak řekl, proč asi ty mušle v svém bludném, zločinném, štvaném životě vláčel s sebou.
+Začpělo to ostře tabákem a dehtem, ale nahoře bylo vidět jen pěkné nové šaty, pečlivě vykartáčované a složené. Matce se zdálo, že je vůbec nenosil. Pod tím pak začínala směsice všeho možného – kvadrant[^7], cínová konvice, pár paklíků tabáku, dva páry hezkých pistolí, stříbrný prut, staré španělské hodinky a jiné trety nevalné ceny, většinou cizího původu, mosazné kružítko a pět šest prapodivných západoindických mušlí. Kolikrát jsem si pak řekl, proč asi ty mušle v svém bludném, zločinném, štvaném životě vláčel s sebou.
 
 Nic cenného jsme zatím nenašli, kromě stříbra a těch tretek, a o ty jsme nestáli. Vespod byl starý lodní plášť, vylouhovaný mořskou vodou z mnoha přístavních krčem. Matka ho podrážděně vytáhla a nejspodněji v kufru před námi ležel štůček nějakých listin, zavázaných do voskového plátna, a plátěný pytlík, v němž při doteku zacinkalo zlato.
 
@@ -62,3 +62,45 @@ Horempádem jsme dotápali dolů, svíčku jsme nechali vedle prázdného kufru;
 Je po nás navždy veta, napadlo mě. Proklínal jsem sousedy, že jsou tak zbabělí; zazlíval jsem matce, že je tak poctivá i lakotná, napřed nerozvážná a teď malomyslná! Naštěstí jsme zrovna došli k můstku; pomohl jsem vrávorající matce ke břehu a ona se mi s povzdechem svalila na rameno. Bůh ví, kde se ve mně vzalo tolik síly, moc šetrně jsem si při tom nepočínal; stáhl jsem ji z břehu dolů a šoupl ji kousek pod mostní oblouk. Dál to nešlo, most byl úzký, taktak že jsem pod něj vlezl po čtyřech. Nezbylo nám než tam zůstat na doslech od hostince – matka přitom trčela skoro celá ven.
 
 </section>
+
+[^1]: Matróz – námořník. _Pozn. red._
+
+[^2]: Klnout – klít, nadávat. _Pozn. red._
+
+[^3]: Švadronit – rychle drmolivě mluvit. _Pozn. red._
+
+[^4]: Sešlý, vetchý. _Pozn. red._
+
+[^5]: Smotaný žvýkací tabák. _Pozn. red._
+
+[^6]: Nádoba na uchovávání troudu, tj. suché, snadno zápalné látky. _Pozn. red._
+
+[^7]: Přístroj k určování místa podle polohy hvězd. _Pozn. red._
+
+[^8]: Kyvadlové hodiny. _Pozn. red._
+
+[^9]: Dovětek, dodatek. _Pozn. red._
+
+[^10]: Kloun – mohutná špičatá zbraň umístěná pod čarou ponoru na přídi. Svým hrotem sloužila k proražení boku nepřátelské lodi. _Pozn. red._
+
+[^11]: Šalupa – dlouhý člun určený k dopravě mezi kotvící lodí a břehem. _Pozn. red._
+
+[^12]: Staré přísloví (15. stol.), „kdo chodí kolem močálu, bažiny, ten se nachladí“, tj. nelze jednat nečestně bez následků. _Pozn. red._
+
+[^13]: Parduna – součást pevného lanoví, zadní a postranní lano slouží k výstuze stěžňů a čnělek. _Pozn. red._
+
+[^14]: Jola – otevřený sportovní člun s plachtami. _Pozn. red._
+
+[^15]: Zábradlí, ohrazení. _Pozn. red._
+
+[^16]: Brzo bylo vzbouřenců jen osm, námořník ze škuneru, postřelený panem Trelawneyem, ještě ten večer zranění podlehl. Ti, co zůstali, se to ovšem dověděli až později.
+
+[^17]: Kosatka – trojúhelníková plachta nad přídí lodi. _Pozn. red._
+
+[^18]: Stěh – lano spojující stěžeň s trupem a zajišťující jeho lepší stabilitu. _Pozn. red_.
+
+[^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.
+
+[^20]: Cvičit na povel. _Pozn. red_.
+
+[^21]: Mlýnské kameny. _Pozn. red._

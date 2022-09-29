@@ -9,7 +9,7 @@ Bylo kolem půl druhé – po námořnicku se říká třetí zvonění – kdy�
 
 Pochybovat o Jimu Hawkinsovi nás ani nenapadlo; jenom jsme trnuli, aby se mu něco nestalo. Vzhledem k tomu, v jakém rozpoložení je mužstvo, nedoufali jsme, že se s mládenečkem ještě shledáme. Vyběhli jsme na palubu. Ve spárách se škvařil dehet; bylo mi nanic z toho ohavného puchu; hnusné kotviště přímo čpělo zimnicí a úplavicí. Pod plachtou na přídi sedělo a brumlalo těch šest ničemů; u samého ústí řeky bylo na břehu vidět upevněné čluny, v každém seděl námořník. Jeden si hvízdal „Lillibullero.“
 
-Čekání bylo nesnesitelné, a tak jsme rozhodli, že spolu s Hunterem odjedu v jole[\[14\]](./resources/undefined) na břeh a opatřím nějaké zprávy. Čluny zabočily vpravo; já jsem se s Hunterem pustil rovnou vpřed tím směrem, kde měla být podle mapy palisáda. Oba strážci člunu se poplašili, kde se tam bereme; „Lillibullero“ zmlklo, bylo vidět, jak se radí, co počít. Stačilo říci to Silverovi, a všechno dopadlo jinak; jenže oni usoudili, že lepší bude podle rozkazu sedět klidně dál a pískat „Lillibullero“.
+Čekání bylo nesnesitelné, a tak jsme rozhodli, že spolu s Hunterem odjedu v jole[^14] na břeh a opatřím nějaké zprávy. Čluny zabočily vpravo; já jsem se s Hunterem pustil rovnou vpřed tím směrem, kde měla být podle mapy palisáda. Oba strážci člunu se poplašili, kde se tam bereme; „Lillibullero“ zmlklo, bylo vidět, jak se radí, co počít. Stačilo říci to Silverovi, a všechno dopadlo jinak; jenže oni usoudili, že lepší bude podle rozkazu sedět klidně dál a pískat „Lillibullero“.
 
 Z břehu vybíhal mírný záhyb, zakormidloval jsem tam, aby nás oddělil od člunů; schovali jsme se jim, ještě než jsme přistáli. Vyskočil jsem z joly, a pokud to šlo, pospíchal jsem vpřed; na ochlazení jsem si pod klobouk prostřel velký hedvábný šátek a v rukou jsem pro každý případ třímal nabité pistole.
 
@@ -78,3 +78,45 @@ Vzápětí skočil i s kapitánem k nám do joly, hned jsme odrazili a ozlomvaz 
 Z lodi jsme se dostali, ale do srubu na ostrově bylo ještě daleko.
 
 </section>
+
+[^1]: Matróz – námořník. _Pozn. red._
+
+[^2]: Klnout – klít, nadávat. _Pozn. red._
+
+[^3]: Švadronit – rychle drmolivě mluvit. _Pozn. red._
+
+[^4]: Sešlý, vetchý. _Pozn. red._
+
+[^5]: Smotaný žvýkací tabák. _Pozn. red._
+
+[^6]: Nádoba na uchovávání troudu, tj. suché, snadno zápalné látky. _Pozn. red._
+
+[^7]: Přístroj k určování místa podle polohy hvězd. _Pozn. red._
+
+[^8]: Kyvadlové hodiny. _Pozn. red._
+
+[^9]: Dovětek, dodatek. _Pozn. red._
+
+[^10]: Kloun – mohutná špičatá zbraň umístěná pod čarou ponoru na přídi. Svým hrotem sloužila k proražení boku nepřátelské lodi. _Pozn. red._
+
+[^11]: Šalupa – dlouhý člun určený k dopravě mezi kotvící lodí a břehem. _Pozn. red._
+
+[^12]: Staré přísloví (15. stol.), „kdo chodí kolem močálu, bažiny, ten se nachladí“, tj. nelze jednat nečestně bez následků. _Pozn. red._
+
+[^13]: Parduna – součást pevného lanoví, zadní a postranní lano slouží k výstuze stěžňů a čnělek. _Pozn. red._
+
+[^14]: Jola – otevřený sportovní člun s plachtami. _Pozn. red._
+
+[^15]: Zábradlí, ohrazení. _Pozn. red._
+
+[^16]: Brzo bylo vzbouřenců jen osm, námořník ze škuneru, postřelený panem Trelawneyem, ještě ten večer zranění podlehl. Ti, co zůstali, se to ovšem dověděli až později.
+
+[^17]: Kosatka – trojúhelníková plachta nad přídí lodi. _Pozn. red._
+
+[^18]: Stěh – lano spojující stěžeň s trupem a zajišťující jeho lepší stabilitu. _Pozn. red_.
+
+[^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.
+
+[^20]: Cvičit na povel. _Pozn. red_.
+
+[^21]: Mlýnské kameny. _Pozn. red._

@@ -75,7 +75,7 @@ Skokem jsem byl na nohou a křikl na jezdce. Zděšeni tou nehodou, sami už př
 
 Pew byl mrtev, nadobro mrtev. Matku jsme odnesli do vesnice, po studené vodě a čpavku přišla k sobě, strach ji přešel, jenom nad nedoplatkem bědovala. Inspektor uháněl dál do Kryštofovy skrýše; celníci slezli z koní a pěšky slézali do rokle, koně vedli za uzdu, chvílemi je dokonce přidržovali, měli strach, aby nepadli do léčky. Není divu, že když se konečně dostali ke Skrýši, plachetnice už kousek odplula. Inspektor na ni křikl. Někdo mu odpověděl, ať raděj uhne ze světla, nebo něco slízne, a v tu chvíli mu vedle paže hvízdla kulka. Za chvíli se plachetnice rozjela dvojnásobnou rychlostí a zmizela. Pan Dance tam podle vlastních slov stál „jako ryba na suchu“, poslal jen do B – upozornění celnímu kutru, na víc se nezmohl. „Stejně to není k ničemu,“ řekl. „Upláchli a konec. Ale že jsem vzácnému panu Pewovi šlápl na paty, to jsem rád.“ Všechno jsem mu totiž vypověděl.
 
-Vrátil jsem se s ním k Admirálu Benbowovi. Tak zpustošený dům si neumíte představit; i pendlovky[\[8\]](./resources/undefined) shodili při tom zuřivém slídění po matce a po mně. Pobrali sice jenom kapitánův pytlík s penězi a drobné ze zásuvky; ale že jsme na mizině, bylo mi jasné. Pan Dance byl nad tou spouští celý pryč.
+Vrátil jsem se s ním k Admirálu Benbowovi. Tak zpustošený dům si neumíte představit; i pendlovky[^8] shodili při tom zuřivém slídění po matce a po mně. Pobrali sice jenom kapitánův pytlík s penězi a drobné ze zásuvky; ale že jsme na mizině, bylo mi jasné. Pan Dance byl nad tou spouští celý pryč.
 
 „Peníze že sebrali? Co tady, Hawkinsi, vlastně sháněli? Další peníze?“
 
@@ -94,3 +94,45 @@ Srdečně jsem mu za jeho ochotu poděkoval a pěšky jsme se vydali do vesnice 
 Vylezl jsem na koně a chytil se Doggera v pase, inspektor pak zavelel a řízným poklusem jsme vyrazili k doktoru Liveseymu.
 
 </section>
+
+[^1]: Matróz – námořník. _Pozn. red._
+
+[^2]: Klnout – klít, nadávat. _Pozn. red._
+
+[^3]: Švadronit – rychle drmolivě mluvit. _Pozn. red._
+
+[^4]: Sešlý, vetchý. _Pozn. red._
+
+[^5]: Smotaný žvýkací tabák. _Pozn. red._
+
+[^6]: Nádoba na uchovávání troudu, tj. suché, snadno zápalné látky. _Pozn. red._
+
+[^7]: Přístroj k určování místa podle polohy hvězd. _Pozn. red._
+
+[^8]: Kyvadlové hodiny. _Pozn. red._
+
+[^9]: Dovětek, dodatek. _Pozn. red._
+
+[^10]: Kloun – mohutná špičatá zbraň umístěná pod čarou ponoru na přídi. Svým hrotem sloužila k proražení boku nepřátelské lodi. _Pozn. red._
+
+[^11]: Šalupa – dlouhý člun určený k dopravě mezi kotvící lodí a břehem. _Pozn. red._
+
+[^12]: Staré přísloví (15. stol.), „kdo chodí kolem močálu, bažiny, ten se nachladí“, tj. nelze jednat nečestně bez následků. _Pozn. red._
+
+[^13]: Parduna – součást pevného lanoví, zadní a postranní lano slouží k výstuze stěžňů a čnělek. _Pozn. red._
+
+[^14]: Jola – otevřený sportovní člun s plachtami. _Pozn. red._
+
+[^15]: Zábradlí, ohrazení. _Pozn. red._
+
+[^16]: Brzo bylo vzbouřenců jen osm, námořník ze škuneru, postřelený panem Trelawneyem, ještě ten večer zranění podlehl. Ti, co zůstali, se to ovšem dověděli až později.
+
+[^17]: Kosatka – trojúhelníková plachta nad přídí lodi. _Pozn. red._
+
+[^18]: Stěh – lano spojující stěžeň s trupem a zajišťující jeho lepší stabilitu. _Pozn. red_.
+
+[^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.
+
+[^20]: Cvičit na povel. _Pozn. red_.
+
+[^21]: Mlýnské kameny. _Pozn. red._

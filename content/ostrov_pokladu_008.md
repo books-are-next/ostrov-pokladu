@@ -20,7 +20,7 @@ Otec, že ne, bohužel, moc málo.
 
 „Tak tady zakotvím,“ řekl. „Hej, kamaráde,“ křikl na posluhu tlačícího trakař, „přiraz ke břehu a pomoz mi s kufrem. Chvilku tady pobudu,“ dodal. „Moc toho nežádám; stačí mi rum, vejce na slanině a tamhleta výspa, odkud se dají pozorovat lodě. Jak mi máte říkat? Říkejte mi kapitán. Aha, už vím, co myslíte – tumáte!“ a hodil na práh pár zlaťáků. „Až bude dělat útrata víc, tak mi řekněte,“ prohlásil s pánovitou řízností.
 
-Při tom, jak byl chatrně oblečen a jak hrubě se vyjadřoval, na obyčejného matróza[\[1\]](./resources/undefined) přece jen nevypadal, spíš tak na kormidelníka nebo kapitána, nesnášejícího odmlouvání. Jak jsme se od posluhy, který mu dotlačil trakař, dověděli, den předtím přijel dostavníkem ke Králi Jiřímu; ptal se na pobřežní hostince, o našem mu asi řekli, že je dobrý a stojí o samotě, rozhodl se tedy, že se v něm ubytuje. Víc jsme se o svém návštěvníkovi nedověděli.
+Při tom, jak byl chatrně oblečen a jak hrubě se vyjadřoval, na obyčejného matróza[^1] přece jen nevypadal, spíš tak na kormidelníka nebo kapitána, nesnášejícího odmlouvání. Jak jsme se od posluhy, který mu dotlačil trakař, dověděli, den předtím přijel dostavníkem ke Králi Jiřímu; ptal se na pobřežní hostince, o našem mu asi řekli, že je dobrý a stojí o samotě, rozhodl se tedy, že se v něm ubytuje. Víc jsme se o svém návštěvníkovi nedověděli.
 
 Moc řečí nenadělal. Mosazný dalekohled v ruce, brousil přes den po zátoce nebo nahoře ve skalách, navečer pak sedal u krbu v koutě hostinské jizby. Tomu, kdo na něho promluvil, většinou neodpověděl, jenom si ho vztekle změřil a zafrkal jako lodní siréna; spolu s návštěvníky jsme si brzo zvykli nechávat ho na pokoji. Po návratu z procházky se každý den ptal, jestli nešli okolo po silnici nějací námořníci. Mysleli jsme si zprvu, že se ptá proto, že po nich touží, ale potom jsme usoudili, že se jim chce vyhnout. Když už se U Admirála Benbowa nějaký námořník objevil (zastavovali se tam cestou po bristolské pobřežní silnici), nejprve nakoukl přes záclonku na zasklených dveřích a potom teprve vkročil dovnitř. Dokud tam námořník byl, ani nedutal. Nic divného jsem v tom neviděl, sám se mi totiž se svými obavami svěřil. Jednoho dne mě vzal stranou a slíbil mi vždycky k prvnímu stříbrný čtyrák, když budu bedlivě pást po jednonohém námořníkovi, a jak ho zahlédnu, hned mu o tom řeknu. Kolikrát jsem pak na prvního vymáhal plat a on jenom zafrkal, až jsem zahanbeně sklopil oči; ale za týden si to vždycky rozmyslel, čtyrák přinesl a znovu mi poručil, abych číhal na jednonohého námořníka.
 
@@ -41,7 +41,7 @@ johoho, na truhle nebožtíka.
 Čert a chlast ostatní dorazil,  
 johoho, na truhle nebožtíka._
 
-Dlouho jsem si myslel, že nebožtíkova truhla je ten velký dřevěný kufr v horním předním pokoji, v tíživých snech mi její představa splývala s představou jednonohého námořníka. My jsme písničku už skoro nevnímali; poprvé ji ten večer slyšel jen doktor Livesey, a jak jsem si všiml, moc se mu nezamlouvala, zlostně zdvihl hlavu a potom se dál bavil se zahradníkem Taylorem o novém léčení revmatu. Kapitán se při zpěvu dostal do ráže, nakonec bouchl dlaní do stolu, což znamenalo – to jsme věděli všichni –, že si zjednává ticho. Rázem všichni zmlkli, kromě doktora Liveseyho; jasným, vlídným hlasem hovořil jako dřív a po každém druhém třetím slově zabafal. Kapitán si ho změřil, bouchl do stolu, ještě ostřeji si ho změřil a nakonec si hulvátsky ulevil sprostým zaklnutím[\[2\]](./resources/undefined): „Ticho tam na palubě.“
+Dlouho jsem si myslel, že nebožtíkova truhla je ten velký dřevěný kufr v horním předním pokoji, v tíživých snech mi její představa splývala s představou jednonohého námořníka. My jsme písničku už skoro nevnímali; poprvé ji ten večer slyšel jen doktor Livesey, a jak jsem si všiml, moc se mu nezamlouvala, zlostně zdvihl hlavu a potom se dál bavil se zahradníkem Taylorem o novém léčení revmatu. Kapitán se při zpěvu dostal do ráže, nakonec bouchl dlaní do stolu, což znamenalo – to jsme věděli všichni –, že si zjednává ticho. Rázem všichni zmlkli, kromě doktora Liveseyho; jasným, vlídným hlasem hovořil jako dřív a po každém druhém třetím slově zabafal. Kapitán si ho změřil, bouchl do stolu, ještě ostřeji si ho změřil a nakonec si hulvátsky ulevil sprostým zaklnutím[^2]: „Ticho tam na palubě.“
 
 „S kým to, pane, mluvíte?“ ozval se doktor. Halama znovu zaklnul a řekl, že s ním. Doktor mu odsekl: „Jenom tohle vám, pane, řeknu; jestli budete pít pořád rum, brzo se svět zbaví ničemného lotra!“
 
@@ -58,3 +58,45 @@ Oba se měřili očima, kapitán však brzy couvl, složil zbraň, vrátil se na
 Za chvíli přivedli doktoru Liveseymu koně a on odjel; ten večer a ještě mnoho dalších večerů potom byl kapitán zticha.
 
 </section>
+
+[^1]: Matróz – námořník. _Pozn. red._
+
+[^2]: Klnout – klít, nadávat. _Pozn. red._
+
+[^3]: Švadronit – rychle drmolivě mluvit. _Pozn. red._
+
+[^4]: Sešlý, vetchý. _Pozn. red._
+
+[^5]: Smotaný žvýkací tabák. _Pozn. red._
+
+[^6]: Nádoba na uchovávání troudu, tj. suché, snadno zápalné látky. _Pozn. red._
+
+[^7]: Přístroj k určování místa podle polohy hvězd. _Pozn. red._
+
+[^8]: Kyvadlové hodiny. _Pozn. red._
+
+[^9]: Dovětek, dodatek. _Pozn. red._
+
+[^10]: Kloun – mohutná špičatá zbraň umístěná pod čarou ponoru na přídi. Svým hrotem sloužila k proražení boku nepřátelské lodi. _Pozn. red._
+
+[^11]: Šalupa – dlouhý člun určený k dopravě mezi kotvící lodí a břehem. _Pozn. red._
+
+[^12]: Staré přísloví (15. stol.), „kdo chodí kolem močálu, bažiny, ten se nachladí“, tj. nelze jednat nečestně bez následků. _Pozn. red._
+
+[^13]: Parduna – součást pevného lanoví, zadní a postranní lano slouží k výstuze stěžňů a čnělek. _Pozn. red._
+
+[^14]: Jola – otevřený sportovní člun s plachtami. _Pozn. red._
+
+[^15]: Zábradlí, ohrazení. _Pozn. red._
+
+[^16]: Brzo bylo vzbouřenců jen osm, námořník ze škuneru, postřelený panem Trelawneyem, ještě ten večer zranění podlehl. Ti, co zůstali, se to ovšem dověděli až později.
+
+[^17]: Kosatka – trojúhelníková plachta nad přídí lodi. _Pozn. red._
+
+[^18]: Stěh – lano spojující stěžeň s trupem a zajišťující jeho lepší stabilitu. _Pozn. red_.
+
+[^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.
+
+[^20]: Cvičit na povel. _Pozn. red_.
+
+[^21]: Mlýnské kameny. _Pozn. red._

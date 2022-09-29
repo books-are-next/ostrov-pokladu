@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-_Hispaniola_ kotvila kus od hráze, mnoho klounů[\[10\]](./resources/undefined) a zádí jsme podjeli, hned nám lodní lana drhla kýl, hned se zas houpala nad námi. Nakonec jsme k ní přirazili, vystoupili na palubu a tam nás přivítal kormidelník, pan Arrow, osmahlý starý námořník; v uších měl náušnice a šilhal. Se zemanem si dobře rozuměl, ale jak jsem si všiml, méně si s panem Trelawneym rozuměl kapitán.
+_Hispaniola_ kotvila kus od hráze, mnoho klounů[^10] a zádí jsme podjeli, hned nám lodní lana drhla kýl, hned se zas houpala nad námi. Nakonec jsme k ní přirazili, vystoupili na palubu a tam nás přivítal kormidelník, pan Arrow, osmahlý starý námořník; v uších měl náušnice a šilhal. Se zemanem si dobře rozuměl, ale jak jsem si všiml, méně si s panem Trelawneym rozuměl kapitán.
 
 Byl to člověk nerudný, nic mu na palubě nebylo vhod, proč, to nám brzo vysvětlil; sotva jsme slezli do kajuty, přišel totiž za námi nějaký námořník.
 
@@ -124,3 +124,45 @@ Jak jsem běžel kolem něho, zaslechl jsem, jak před doktorem láteří.
 Ujišťuji vás, že jsem se přidal k zemanovu mínění a z hloubi duše na kapitána zanevřel.
 
 </section>
+
+[^1]: Matróz – námořník. _Pozn. red._
+
+[^2]: Klnout – klít, nadávat. _Pozn. red._
+
+[^3]: Švadronit – rychle drmolivě mluvit. _Pozn. red._
+
+[^4]: Sešlý, vetchý. _Pozn. red._
+
+[^5]: Smotaný žvýkací tabák. _Pozn. red._
+
+[^6]: Nádoba na uchovávání troudu, tj. suché, snadno zápalné látky. _Pozn. red._
+
+[^7]: Přístroj k určování místa podle polohy hvězd. _Pozn. red._
+
+[^8]: Kyvadlové hodiny. _Pozn. red._
+
+[^9]: Dovětek, dodatek. _Pozn. red._
+
+[^10]: Kloun – mohutná špičatá zbraň umístěná pod čarou ponoru na přídi. Svým hrotem sloužila k proražení boku nepřátelské lodi. _Pozn. red._
+
+[^11]: Šalupa – dlouhý člun určený k dopravě mezi kotvící lodí a břehem. _Pozn. red._
+
+[^12]: Staré přísloví (15. stol.), „kdo chodí kolem močálu, bažiny, ten se nachladí“, tj. nelze jednat nečestně bez následků. _Pozn. red._
+
+[^13]: Parduna – součást pevného lanoví, zadní a postranní lano slouží k výstuze stěžňů a čnělek. _Pozn. red._
+
+[^14]: Jola – otevřený sportovní člun s plachtami. _Pozn. red._
+
+[^15]: Zábradlí, ohrazení. _Pozn. red._
+
+[^16]: Brzo bylo vzbouřenců jen osm, námořník ze škuneru, postřelený panem Trelawneyem, ještě ten večer zranění podlehl. Ti, co zůstali, se to ovšem dověděli až později.
+
+[^17]: Kosatka – trojúhelníková plachta nad přídí lodi. _Pozn. red._
+
+[^18]: Stěh – lano spojující stěžeň s trupem a zajišťující jeho lepší stabilitu. _Pozn. red_.
+
+[^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.
+
+[^20]: Cvičit na povel. _Pozn. red_.
+
+[^21]: Mlýnské kameny. _Pozn. red._

@@ -7,7 +7,7 @@ contentType: prose
 
 Když jsem pak ráno vyšel na palubu, vypadal ostrov docela jinak. Bríza sice opadla, ale za noc jsme urazili notný kus cesty a v bezvětří jsme teď trčeli asi půl míle na jihovýchod od nízkého východního pobřeží. Ostrov byl z valné části porostlý šedavým lesem. Jen v nížinách se od stejnoměrné šedi odrážely žluté písčité pruhy a v chumáčích i jednotlivě čněly z porostu jakési jehličnaté stromy; celkem měl ostrov jednotvárné a smutné zabarvení. Nad stromovím se jako věže kupily holé skály. Samé pitvorné tvary, zvlášť pitvorně vypadal Dalekohled, z celého ostrova nejvyšší, ze všech stran strmějící do výše tří až čtyř set stop a nahoře zkomolený jako nějaký podstavec pro sochu.
 
-_Hispaniola_ se v příboji kymácela, až nabírala do odtokových rour vodu. Ráhna drhla o špalky, kormidlo tlouklo sem a tam a celá loď skřípala, vrzala a třásla se jako nějaká fabrika. Držel jsem se pevně pardun[\[13\]](./resources/undefined), všechno mi závratně vířilo před očima; při plavbě na moři jsem celkem obstál, ale trčet na místě a koulet se jako láhev jsem nesnesl, působilo mi to nevolnost, zvlášť zrána na lačný žaludek.
+_Hispaniola_ se v příboji kymácela, až nabírala do odtokových rour vodu. Ráhna drhla o špalky, kormidlo tlouklo sem a tam a celá loď skřípala, vrzala a třásla se jako nějaká fabrika. Držel jsem se pevně pardun[^13], všechno mi závratně vířilo před očima; při plavbě na moři jsem celkem obstál, ale trčet na místě a koulet se jako láhev jsem nesnesl, působilo mi to nevolnost, zvlášť zrána na lačný žaludek.
 
 Z toho to snad bylo – snad také z pohledu na ostrov, s jeho šedými, chmurnými lesy a fantastickými kamennými věžemi a s příbojem přímo před námi pěnícím a burácejícím o příkrý břeh – slunce svítilo a hřálo, ptáci kolem dokola s vřískotem lovili ryby, zdálo by se, že po tak dlouhé plavbě každý rád vystoupí na břeh, ale zatím jsem měl, jak se říká, malou dušičku, a po tomto pohledu se mi Ostrov pokladů nadosmrti zprotivil.
 
@@ -64,3 +64,45 @@ Námořníci veslovali jak o závod ke břehu; můj člun měl náskok, byl leh�
 To víte, že jsem si z jeho křiku nic nedělal; jako divý jsem uháněl dopředu, krčil se, prodíral, až jsem nemohl dál.
 
 </section>
+
+[^1]: Matróz – námořník. _Pozn. red._
+
+[^2]: Klnout – klít, nadávat. _Pozn. red._
+
+[^3]: Švadronit – rychle drmolivě mluvit. _Pozn. red._
+
+[^4]: Sešlý, vetchý. _Pozn. red._
+
+[^5]: Smotaný žvýkací tabák. _Pozn. red._
+
+[^6]: Nádoba na uchovávání troudu, tj. suché, snadno zápalné látky. _Pozn. red._
+
+[^7]: Přístroj k určování místa podle polohy hvězd. _Pozn. red._
+
+[^8]: Kyvadlové hodiny. _Pozn. red._
+
+[^9]: Dovětek, dodatek. _Pozn. red._
+
+[^10]: Kloun – mohutná špičatá zbraň umístěná pod čarou ponoru na přídi. Svým hrotem sloužila k proražení boku nepřátelské lodi. _Pozn. red._
+
+[^11]: Šalupa – dlouhý člun určený k dopravě mezi kotvící lodí a břehem. _Pozn. red._
+
+[^12]: Staré přísloví (15. stol.), „kdo chodí kolem močálu, bažiny, ten se nachladí“, tj. nelze jednat nečestně bez následků. _Pozn. red._
+
+[^13]: Parduna – součást pevného lanoví, zadní a postranní lano slouží k výstuze stěžňů a čnělek. _Pozn. red._
+
+[^14]: Jola – otevřený sportovní člun s plachtami. _Pozn. red._
+
+[^15]: Zábradlí, ohrazení. _Pozn. red._
+
+[^16]: Brzo bylo vzbouřenců jen osm, námořník ze škuneru, postřelený panem Trelawneyem, ještě ten večer zranění podlehl. Ti, co zůstali, se to ovšem dověděli až později.
+
+[^17]: Kosatka – trojúhelníková plachta nad přídí lodi. _Pozn. red._
+
+[^18]: Stěh – lano spojující stěžeň s trupem a zajišťující jeho lepší stabilitu. _Pozn. red_.
+
+[^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.
+
+[^20]: Cvičit na povel. _Pozn. red_.
+
+[^21]: Mlýnské kameny. _Pozn. red._
