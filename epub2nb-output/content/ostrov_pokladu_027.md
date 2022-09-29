@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-Tato pátá výprava byla jinačí než předcházející. Předně jsme lodičku notně přetížili. Pět dospělých mužů, z nichž tři – Trelawney, Redruth a kapitán – měřili přes šest stop, na takovou váhu nebyla stavěna. K tomu připočtěme prach, vepřové a pytle sucharů. Brlení[\[15\]](./resources/undefined) bylo až u hladiny. Několikrát jsme nabrali, a než jsme ujeli sto yardů, měl jsem promáčené kalhoty i šosy.
+Tato pátá výprava byla jinačí než předcházející. Předně jsme lodičku notně přetížili. Pět dospělých mužů, z nichž tři – Trelawney, Redruth a kapitán – měřili přes šest stop, na takovou váhu nebyla stavěna. K tomu připočtěme prach, vepřové a pytle sucharů. Brlení[^15] bylo až u hladiny. Několikrát jsme nabrali, a než jsme ujeli sto yardů, měl jsem promáčené kalhoty i šosy.
 
 Na kapitánův pokyn jsme náklad přeložili a tím jsme jolu trochu vyrovnali. Ale i tak jsme se báli dýchat. Zátokou se hnal prudký zčeřený proud k západu a průlivem, kterým jsme tam ráno vepluli, potom k jihu a dál na moře. I to čeření naší přetíženou loďku ohrožovalo; ale co horšího, strhávalo nás to od správného směru a od našeho přístaviště za výběžkem. Když poplujeme po proudu, přistaneme vedle obou člunů a piráti tam budou co nevidět.
 
@@ -80,3 +80,45 @@ Ke všemu ještě bylo z pobřežního lesa slyšet, jak se k nám blíží hlas
 To všechno nám táhlo hlavou, jak jsme se spěšně brodili na břeh; nešťastnou jolu a větší část prachu i zásob jsme ponechali jejich osudu.
 
 </section>
+
+[^1]: Matróz – námořník. _Pozn. red._
+
+[^2]: Klnout – klít, nadávat. _Pozn. red._
+
+[^3]: Švadronit – rychle drmolivě mluvit. _Pozn. red._
+
+[^4]: Sešlý, vetchý. _Pozn. red._
+
+[^5]: Smotaný žvýkací tabák. _Pozn. red._
+
+[^6]: Nádoba na uchovávání troudu, tj. suché, snadno zápalné látky. _Pozn. red._
+
+[^7]: Přístroj k určování místa podle polohy hvězd. _Pozn. red._
+
+[^8]: Kyvadlové hodiny. _Pozn. red._
+
+[^9]: Dovětek, dodatek. _Pozn. red._
+
+[^10]: Kloun – mohutná špičatá zbraň umístěná pod čarou ponoru na přídi. Svým hrotem sloužila k proražení boku nepřátelské lodi. _Pozn. red._
+
+[^11]: Šalupa – dlouhý člun určený k dopravě mezi kotvící lodí a břehem. _Pozn. red._
+
+[^12]: Staré přísloví (15. stol.), „kdo chodí kolem močálu, bažiny, ten se nachladí“, tj. nelze jednat nečestně bez následků. _Pozn. red._
+
+[^13]: Parduna – součást pevného lanoví, zadní a postranní lano slouží k výstuze stěžňů a čnělek. _Pozn. red._
+
+[^14]: Jola – otevřený sportovní člun s plachtami. _Pozn. red._
+
+[^15]: Zábradlí, ohrazení. _Pozn. red._
+
+[^16]: Brzo bylo vzbouřenců jen osm, námořník ze škuneru, postřelený panem Trelawneyem, ještě ten večer zranění podlehl. Ti, co zůstali, se to ovšem dověděli až později.
+
+[^17]: Kosatka – trojúhelníková plachta nad přídí lodi. _Pozn. red._
+
+[^18]: Stěh – lano spojující stěžeň s trupem a zajišťující jeho lepší stabilitu. _Pozn. red_.
+
+[^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.
+
+[^20]: Cvičit na povel. _Pozn. red_.
+
+[^21]: Mlýnské kameny. _Pozn. red._

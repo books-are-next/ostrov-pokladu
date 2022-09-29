@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stevenson-ostrov-pokladu-ef54dad",
-  "revision": "ef54dad",
+  "identifier": "stevenson-ostrov-pokladu-1da00b7",
+  "revision": "1da00b7",
   "readingOrder": [
     "promo.html",
     "ostrov_pokladu_005.html",
@@ -58,8 +58,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:36:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414212552
+    "date": "Thu Sep 29 2022 21:30:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487035829
   },
   "documents": [
     {
@@ -137,9 +137,9 @@
     {
       "title": "KAPITOLA I Starý mořský vlk – U Admirála Benbowa",
       "file": "ostrov_pokladu_008.html",
-      "words": 1557,
-      "chars": 9244,
-      "ideas": 29,
+      "words": 1570,
+      "chars": 9309,
+      "ideas": 31,
       "role": "chapter",
       "order": 4,
       "prev": "ostrov_pokladu_007.html",
@@ -157,9 +157,9 @@
     {
       "title": "KAPITOLA II Objeví se Černý pes a zas zmizí",
       "file": "ostrov_pokladu_009.html",
-      "words": 1632,
-      "chars": 9305,
-      "ideas": 50,
+      "words": 1640,
+      "chars": 9352,
+      "ideas": 51,
       "role": "chapter",
       "order": 5,
       "prev": "ostrov_pokladu_008.html",
@@ -177,9 +177,9 @@
     {
       "title": "KAPITOLA III Černá známka",
       "file": "ostrov_pokladu_010.html",
-      "words": 1550,
-      "chars": 8915,
-      "ideas": 39,
+      "words": 1555,
+      "chars": 8941,
+      "ideas": 40,
       "role": "chapter",
       "order": 6,
       "prev": "ostrov_pokladu_009.html",
@@ -197,9 +197,9 @@
     {
       "title": "KAPITOLA IV Námořní kufr",
       "file": "ostrov_pokladu_011.html",
-      "words": 1487,
-      "chars": 8744,
-      "ideas": 29,
+      "words": 1515,
+      "chars": 8908,
+      "ideas": 32,
       "role": "chapter",
       "order": 7,
       "prev": "ostrov_pokladu_010.html",
@@ -217,9 +217,9 @@
     {
       "title": "KAPITOLA V Slepcův konec",
       "file": "ostrov_pokladu_012.html",
-      "words": 1334,
-      "chars": 7646,
-      "ideas": 45,
+      "words": 1339,
+      "chars": 7675,
+      "ideas": 46,
       "role": "chapter",
       "order": 8,
       "prev": "ostrov_pokladu_011.html",
@@ -277,9 +277,9 @@
     {
       "title": "KAPITOLA VII Odjíždím do Bristolu",
       "file": "ostrov_pokladu_015.html",
-      "words": 1418,
-      "chars": 8359,
-      "ideas": 37,
+      "words": 1423,
+      "chars": 8388,
+      "ideas": 38,
       "role": "chapter",
       "order": 11,
       "prev": "ostrov_pokladu_014.html",
@@ -317,9 +317,9 @@
     {
       "title": "KAPITOLA IX Prach a zbraně",
       "file": "ostrov_pokladu_017.html",
-      "words": 1301,
-      "chars": 7677,
-      "ideas": 60,
+      "words": 1323,
+      "chars": 7809,
+      "ideas": 61,
       "role": "chapter",
       "order": 13,
       "prev": "ostrov_pokladu_016.html",
@@ -337,9 +337,9 @@
     {
       "title": "KAPITOLA X Plavba",
       "file": "ostrov_pokladu_018.html",
-      "words": 1372,
-      "chars": 8024,
-      "ideas": 35,
+      "words": 1408,
+      "chars": 8229,
+      "ideas": 37,
       "role": "chapter",
       "order": 14,
       "prev": "ostrov_pokladu_017.html",
@@ -417,9 +417,9 @@
     {
       "title": "KAPITOLA XIII Jak začalo mé dobrodružství na souši",
       "file": "ostrov_pokladu_022.html",
-      "words": 1349,
-      "chars": 7801,
-      "ideas": 30,
+      "words": 1367,
+      "chars": 7902,
+      "ideas": 31,
       "role": "chapter",
       "order": 18,
       "prev": "ostrov_pokladu_021.html",
@@ -497,9 +497,9 @@
     {
       "title": "KAPITOLA XVI Dále vypravuje doktor: Jak odešli z lodi",
       "file": "ostrov_pokladu_026.html",
-      "words": 1224,
-      "chars": 7147,
-      "ideas": 37,
+      "words": 1234,
+      "chars": 7201,
+      "ideas": 38,
       "role": "chapter",
       "order": 22,
       "prev": "ostrov_pokladu_025.html",
@@ -517,9 +517,9 @@
     {
       "title": "KAPITOLA XVII Dále vypravuje doktor: Jola na poslední cestě",
       "file": "ostrov_pokladu_027.html",
-      "words": 1086,
-      "chars": 6456,
-      "ideas": 38,
+      "words": 1091,
+      "chars": 6486,
+      "ideas": 39,
       "role": "chapter",
       "order": 23,
       "prev": "ostrov_pokladu_026.html",
@@ -597,9 +597,9 @@
     {
       "title": "KAPITOLA XXI Útok",
       "file": "ostrov_pokladu_031.html",
-      "words": 1435,
-      "chars": 8539,
-      "ideas": 50,
+      "words": 1461,
+      "chars": 8701,
+      "ideas": 51,
       "role": "chapter",
       "order": 27,
       "prev": "ostrov_pokladu_030.html",
@@ -677,9 +677,9 @@
     {
       "title": "KAPITOLA XXIV Jak jsem křižoval v kocábce",
       "file": "ostrov_pokladu_035.html",
-      "words": 1384,
-      "chars": 8047,
-      "ideas": 30,
+      "words": 1409,
+      "chars": 8190,
+      "ideas": 32,
       "role": "chapter",
       "order": 31,
       "prev": "ostrov_pokladu_034.html",
@@ -697,9 +697,9 @@
     {
       "title": "KAPITOLA XXV Strhnu pirátskou vlajku",
       "file": "ostrov_pokladu_036.html",
-      "words": 1184,
-      "chars": 7053,
-      "ideas": 37,
+      "words": 1196,
+      "chars": 7126,
+      "ideas": 38,
       "role": "chapter",
       "order": 32,
       "prev": "ostrov_pokladu_035.html",
@@ -857,9 +857,9 @@
     {
       "title": "KAPITOLA XXXII Hledání pokladu – hlas za stromy",
       "file": "ostrov_pokladu_044.html",
-      "words": 1405,
-      "chars": 8210,
-      "ideas": 50,
+      "words": 1411,
+      "chars": 8237,
+      "ideas": 51,
       "role": "chapter",
       "order": 40,
       "prev": "ostrov_pokladu_043.html",
@@ -877,9 +877,9 @@
     {
       "title": "KAPITOLA XXXIII Náčelníkův pád",
       "file": "ostrov_pokladu_045.html",
-      "words": 1434,
-      "chars": 8507,
-      "ideas": 45,
+      "words": 1439,
+      "chars": 8533,
+      "ideas": 46,
       "role": "chapter",
       "order": 41,
       "prev": "ostrov_pokladu_044.html",
@@ -917,9 +917,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "ostrov_pokladu_047.html",
-      "words": 232,
-      "chars": 1418,
-      "ideas": 22,
+      "words": 461,
+      "chars": 2743,
+      "ideas": 43,
       "role": "chapter",
       "order": 43,
       "prev": "ostrov_pokladu_046.html",
@@ -937,9 +937,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 139,
-      "chars": 925,
-      "ideas": 15,
+      "words": 130,
+      "chars": 882,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "ostrov_pokladu_047.html",
@@ -957,14 +957,14 @@
   ],
   "totals": {
     "all": {
-      "words": 49912,
-      "chars": 289886,
-      "ideas": 1495
+      "words": 50361,
+      "chars": 292481,
+      "ideas": 1536
     },
     "chapters": {
-      "words": 49766,
-      "chars": 288914,
-      "ideas": 1476
+      "words": 50224,
+      "chars": 291552,
+      "ideas": 1518
     }
   }
 }

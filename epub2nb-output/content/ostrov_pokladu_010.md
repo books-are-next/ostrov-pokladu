@@ -45,7 +45,7 @@ Chvilku ještě blábolil, hlas mu slábl. Podal jsem mu lék, vypil ho jako dě
 
 Hned ráno přišel dolů a jako jindy si poručil jídlo, pojedl málo, zato rumu přebral, s mručením a frkáním si totiž chodil sám do výčepu a nikdo si netroufal bránit mu. Večer před pohřbem byl notně opilý; pohoršovalo nás, že svou hnusnou námořní píseň prozpěvuje v domě smutku. Ale při vší zesláblosti nám naháněl smrtelnou hrůzu, doktor se totiž vydal za nějakým nemocným na míle daleko a od otcovy smrti se u nás neukázal. Řekl jsem, že byl kapitán zesláblý; napohled skutečně spíš slábl než okříval. Nahoru dolů se plahočil po schodech, stále se coural v hostinské místnosti do výčepu, vystrkoval nos ze dveří a větřil moře, při chůzi se opíral o zeď a těžce a prudce supěl, jako by stál na vysoké hoře. Na mě vůbec nemluvil, snad nadobro zapomněl, s čím se mi svěřil; zato byl prchlivější než dřív a při vší zesláblosti neurvalejší. Znepokojovalo nás, jak v opilosti vytahuje šavli z pochvy a pokládá ji před sebe na stůl. Lidí si skoro nevšímal, pohroužen do sebe pořád blábolil. Jednou spustil – a nemálo jsme nad tím užasli – jinou notu, nějakou vesnickou milostnou píseň, pochytil ji asi v mládí, než se vydal na moře.
 
-Tak to šlo napořád, den po pohřbu, někdy ve tři hodiny – bylo lezavé, mlhavé, mrazivé odpoledne – jsem chvíli stál u dveří a smutně myslil na otce, a tu jsem uviděl, jak se k nám někdo šourá po silnici. Zřejmě slepec, ťukal holí, na nose a na očích měl velký zelený štítek, hrbil se stářím nebo únavou, na sobě měl plandavý námořní plášť, celý zvetšelý[\[4\]](./resources/undefined), vypadal v něm jako učiněný mrzák. Jakživ jsem neviděl takovou příšeru. Kousek od hostince zůstal stát a vysokým hlasem zahuhňal do prázdného prostoru: Jestlipak nějaký vlídný přítel poví chudáku slepci, který při slavné obraně své anglické vlasti – Bože, chraň krále Jiřího! – přišel o vzácný zrak, kde a v kterých končinách se vynachází?“
+Tak to šlo napořád, den po pohřbu, někdy ve tři hodiny – bylo lezavé, mlhavé, mrazivé odpoledne – jsem chvíli stál u dveří a smutně myslil na otce, a tu jsem uviděl, jak se k nám někdo šourá po silnici. Zřejmě slepec, ťukal holí, na nose a na očích měl velký zelený štítek, hrbil se stářím nebo únavou, na sobě měl plandavý námořní plášť, celý zvetšelý[^4], vypadal v něm jako učiněný mrzák. Jakživ jsem neviděl takovou příšeru. Kousek od hostince zůstal stát a vysokým hlasem zahuhňal do prázdného prostoru: Jestlipak nějaký vlídný přítel poví chudáku slepci, který při slavné obraně své anglické vlasti – Bože, chraň krále Jiřího! – přišel o vzácný zrak, kde a v kterých končinách se vynachází?“
 
 „Milý člověče, jste u Admirála Benbowa v zátoce Černého kopce,“ řekl jsem.
 
@@ -82,3 +82,45 @@ Přitom zavrávoral, sáhl si na hrdlo, chvíli se kymácel a potom zachroptěl 
 Běžel jsem k němu a přitom volal na matku. Ale marně jsem pospíchal. Kapitán podlehl prudkému záchvatu mrtvice. Je to divné, rád jsem ho neměl, třebaže jsem ho v poslední době litoval, ale jakmile jsem uviděl, že je mrtev, usedavě jsem se rozplakal. Zažil jsem už druhé úmrtí, a dosud jsem se nezotavil ze zármutku nad prvním.
 
 </section>
+
+[^1]: Matróz – námořník. _Pozn. red._
+
+[^2]: Klnout – klít, nadávat. _Pozn. red._
+
+[^3]: Švadronit – rychle drmolivě mluvit. _Pozn. red._
+
+[^4]: Sešlý, vetchý. _Pozn. red._
+
+[^5]: Smotaný žvýkací tabák. _Pozn. red._
+
+[^6]: Nádoba na uchovávání troudu, tj. suché, snadno zápalné látky. _Pozn. red._
+
+[^7]: Přístroj k určování místa podle polohy hvězd. _Pozn. red._
+
+[^8]: Kyvadlové hodiny. _Pozn. red._
+
+[^9]: Dovětek, dodatek. _Pozn. red._
+
+[^10]: Kloun – mohutná špičatá zbraň umístěná pod čarou ponoru na přídi. Svým hrotem sloužila k proražení boku nepřátelské lodi. _Pozn. red._
+
+[^11]: Šalupa – dlouhý člun určený k dopravě mezi kotvící lodí a břehem. _Pozn. red._
+
+[^12]: Staré přísloví (15. stol.), „kdo chodí kolem močálu, bažiny, ten se nachladí“, tj. nelze jednat nečestně bez následků. _Pozn. red._
+
+[^13]: Parduna – součást pevného lanoví, zadní a postranní lano slouží k výstuze stěžňů a čnělek. _Pozn. red._
+
+[^14]: Jola – otevřený sportovní člun s plachtami. _Pozn. red._
+
+[^15]: Zábradlí, ohrazení. _Pozn. red._
+
+[^16]: Brzo bylo vzbouřenců jen osm, námořník ze škuneru, postřelený panem Trelawneyem, ještě ten večer zranění podlehl. Ti, co zůstali, se to ovšem dověděli až později.
+
+[^17]: Kosatka – trojúhelníková plachta nad přídí lodi. _Pozn. red._
+
+[^18]: Stěh – lano spojující stěžeň s trupem a zajišťující jeho lepší stabilitu. _Pozn. red_.
+
+[^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.
+
+[^20]: Cvičit na povel. _Pozn. red_.
+
+[^21]: Mlýnské kameny. _Pozn. red._

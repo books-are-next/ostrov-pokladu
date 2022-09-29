@@ -33,7 +33,7 @@ Jako důstojník nebyl k ničemu, jenom kazil mužstvo, a co víc, sám se vrhal
 
 „Spadl přes palubu,“ řekl kapitán. „Ušetřil nám, pánové, práci, nemusíme ho aspoň dávat do želez.“
 
-Byli jsme bez kormidelníka; nezbylo nám než jmenovat kormidelníkem někoho z mužstva. Z celé lodi se na to nejlépe hodil dělmistr Job Anderson; svou hodnost si ponechal, ale přitom dělal kormidelníka. Na zámořských cestách se pan Trelawney lecčemu přiučil, to nám teď přišlo vhod, a za klidného počasí konal sám hlídku. Šalupář[\[11\]](./resources/undefined) Israel Hands byl opatrný, chytrý, zkušený matróz, na kterého bylo ve všem spolehnutí.
+Byli jsme bez kormidelníka; nezbylo nám než jmenovat kormidelníkem někoho z mužstva. Z celé lodi se na to nejlépe hodil dělmistr Job Anderson; svou hodnost si ponechal, ale přitom dělal kormidelníka. Na zámořských cestách se pan Trelawney lecčemu přiučil, to nám teď přišlo vhod, a za klidného počasí konal sám hlídku. Šalupář[^11] Israel Hands byl opatrný, chytrý, zkušený matróz, na kterého bylo ve všem spolehnutí.
 
 S Dlouhým Johnem Silverem byl jedna ruka, a když už je o něm řeč, promluvím o našem kuchaři Rožni, to byla jeho přezdívka mezi námořníky.
 
@@ -51,7 +51,7 @@ A papoušek drmolil v jednom kuse: „Dukáty, dukáty, dukáty!“ Žasl jsem n
 
 „Pozor, otočit loď,“ zavřeštěl papoušek.
 
-„Pašák,“ pochválil ho kuchař, sáhl do kapsy a podal mu cukr; papoušek kloval do příček a tak bohapustě klnul, že by tomu nikdo nevěřil. „Inu, chlapče, okolo močidla chodě nádchy neujdeš[\[12\]](./resources/undefined). Chudák nevinný papoušek sakruje, až se hory zelenají, a neví, co říká. I před kaplanem by sakroval.“ A John zasalutoval s takovou vážností, že v tu chvíli vypadal jako nejlepší člověk na světě.
+„Pašák,“ pochválil ho kuchař, sáhl do kapsy a podal mu cukr; papoušek kloval do příček a tak bohapustě klnul, že by tomu nikdo nevěřil. „Inu, chlapče, okolo močidla chodě nádchy neujdeš[^12]. Chudák nevinný papoušek sakruje, až se hory zelenají, a neví, co říká. I před kaplanem by sakroval.“ A John zasalutoval s takovou vážností, že v tu chvíli vypadal jako nejlepší člověk na světě.
 
 Mezi zemanem a kapitánem Smollettem bylo stále napětí. Zeman kapitánem opovrhoval a nijak se tím netajil. Kapitán, ten se zase ostře a stručně a suše ozval, jen když ho někdo oslovil, jinak slovo nepromluvil. Když jsme na něho uhodili, beze všeho přiznal, že se v námořnících mýlil, někteří jsou čiperní jedna radost a všichni si vedou celkem slušně. Do lodi se přímo zamiloval. „Ani vlastní žena nemůže být prosím poddajnější.“ A pak dodal: „Ale řeknu vám, doma ještě nejsme a ta plavba se mi nelíbí.“
 
@@ -74,3 +74,45 @@ Slunce zapadalo, měl jsem po práci, už jsem se ubíral na kutě, a tu jsem do
 Vlezl jsem do bečky a zjistil, že je jablek poskrovnu; v šeru jsem tam usedl, od šplouchání a kolébání jsem zdříml nebo snad teprve usínal, a tu sebou někdo řachl vedle bečky. Opřel se o ni zády, až se zatřásla; už jsem chtěl vyskočit, a vtom ten člověk promluvil. Podle hlasu to byl Silver. Jen jsem zaslechl pár slov, přešla mě chuť ukázat se mu, z bázně i zvědavosti jsem zůstal ležet a všecek rozechvěn napínal uši; z těch pár slov jsem totiž vyrozuměl, že za život všech poctivých lidí na lodi odpovídám já sám.
 
 </section>
+
+[^1]: Matróz – námořník. _Pozn. red._
+
+[^2]: Klnout – klít, nadávat. _Pozn. red._
+
+[^3]: Švadronit – rychle drmolivě mluvit. _Pozn. red._
+
+[^4]: Sešlý, vetchý. _Pozn. red._
+
+[^5]: Smotaný žvýkací tabák. _Pozn. red._
+
+[^6]: Nádoba na uchovávání troudu, tj. suché, snadno zápalné látky. _Pozn. red._
+
+[^7]: Přístroj k určování místa podle polohy hvězd. _Pozn. red._
+
+[^8]: Kyvadlové hodiny. _Pozn. red._
+
+[^9]: Dovětek, dodatek. _Pozn. red._
+
+[^10]: Kloun – mohutná špičatá zbraň umístěná pod čarou ponoru na přídi. Svým hrotem sloužila k proražení boku nepřátelské lodi. _Pozn. red._
+
+[^11]: Šalupa – dlouhý člun určený k dopravě mezi kotvící lodí a břehem. _Pozn. red._
+
+[^12]: Staré přísloví (15. stol.), „kdo chodí kolem močálu, bažiny, ten se nachladí“, tj. nelze jednat nečestně bez následků. _Pozn. red._
+
+[^13]: Parduna – součást pevného lanoví, zadní a postranní lano slouží k výstuze stěžňů a čnělek. _Pozn. red._
+
+[^14]: Jola – otevřený sportovní člun s plachtami. _Pozn. red._
+
+[^15]: Zábradlí, ohrazení. _Pozn. red._
+
+[^16]: Brzo bylo vzbouřenců jen osm, námořník ze škuneru, postřelený panem Trelawneyem, ještě ten večer zranění podlehl. Ti, co zůstali, se to ovšem dověděli až později.
+
+[^17]: Kosatka – trojúhelníková plachta nad přídí lodi. _Pozn. red._
+
+[^18]: Stěh – lano spojující stěžeň s trupem a zajišťující jeho lepší stabilitu. _Pozn. red_.
+
+[^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.
+
+[^20]: Cvičit na povel. _Pozn. red_.
+
+[^21]: Mlýnské kameny. _Pozn. red._
