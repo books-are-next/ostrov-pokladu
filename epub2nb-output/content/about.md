@@ -30,7 +30,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^19]: Fidibus – papírovýsmotek, jímž se podpaluje dýmka nebo svíčka. _Pozn. red_.  
 [^20]: Cvičit na povel. _Pozn. red_.  
 [^21]: Mlýnské kameny. _Pozn. red._  
-V MKP 2. elektronické vydání z 4. 10. 2022.
+V MKP 2. elektronické vydání z 7. 10. 2022.
 
 ***
 
